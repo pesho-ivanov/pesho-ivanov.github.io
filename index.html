@@ -157,9 +157,15 @@ Error message and password prompt
 
 <li>$:/isEncrypted</li>
 
+<li>$:/plugins/felixhayashi/hotzone</li>
+
 <li>$:/plugins/felixhayashi/topstoryview</li>
 
 <li>$:/SiteTitle</li>
+
+<li>$:/state/plugin-info-2141587750-$:/plugins/felixhayashi/topstoryview---208835650</li>
+
+<li>$:/state/tab-1163638994</li>
 
 <li>$:/state/tab-1749438307</li>
 
@@ -9402,10 +9408,43 @@ Error message and password prompt
 <div status="complete" title="$:/Import">
 <pre>The following tiddlers were imported:
 
-# [[$:/plugins/felixhayashi/topstoryview]]</pre>
+# [[$:/plugins/felixhayashi/hotzone]]</pre>
 </div>
 <div title="$:/isEncrypted">
 <pre>no</pre>
+</div>
+<div author="Felix Küppers" core-version="&gt;=5.1.5" dependents="" description="HotZone – Be notified when tiddlers are scrolled into view" list="Configuration License Readme" plugin-type="plugin" released="" source="https://github.com/felixhayashi/TW5-HotZone" title="$:/plugins/felixhayashi/hotzone" type="application/json" version="0.0.3">
+<pre>{
+    &quot;tiddlers&quot;: {
+        &quot;$:/plugins/felixhayashi/hotzone/config.js&quot;: {
+            &quot;title&quot;: &quot;$:/plugins/felixhayashi/hotzone/config.js&quot;,
+            &quot;text&quot;: &quot;/*\\\n\ntitle: $:/plugins/felixhayashi/hotzone/config.js\ntype: application/javascript\nmodule-type: library\n\n@preserve\n\n\\*/\n(function(){\&quot;use strict\&quot;;exports.config={classNames:{storyRiver:\&quot;tc-story-river\&quot;,tiddlerFrame:\&quot;tc-tiddler-frame\&quot;,tiddlerTitle:\&quot;tc-title\&quot;},references:{userConfig:\&quot;$:/config/hotzone/focusOffset\&quot;,focussedTiddlerStore:\&quot;$:/temp/focussedTiddler\&quot;},checkbackTime:$tw.utils.getAnimationDuration()}})();&quot;,
+            &quot;type&quot;: &quot;application/javascript&quot;,
+            &quot;module-type&quot;: &quot;library&quot;
+        },
+        &quot;$:/plugins/felixhayashi/hotzone/hotzone.js&quot;: {
+            &quot;title&quot;: &quot;$:/plugins/felixhayashi/hotzone/hotzone.js&quot;,
+            &quot;text&quot;: &quot;/*\\\n\ntitle: $:/plugins/felixhayashi/hotzone/hotzone.js\ntype: application/javascript\nmodule-type: startup\n\n@preserve\n\n\\*/\n(function(){\&quot;use strict\&quot;;exports.name=\&quot;hotzone\&quot;;exports.platforms=[\&quot;browser\&quot;];exports.after=[\&quot;story\&quot;];exports.synchronous=true;exports.startup=function(){var t=require(\&quot;$:/plugins/felixhayashi/hotzone/config.js\&quot;).config;var e=null;var i=false;var r=document.getElementsByClassName(t.classNames.storyRiver)[0];var s=$tw.wiki.getTiddlerData(t.references.userConfig,{});var a=isNaN(parseInt(s.focusOffset))?150:parseInt(s.focusOffset);var n=function(e,i,r){if(!(e instanceof Element))return;if(!$tw.utils.hasClass(e,t.classNames.tiddlerFrame))return;var s=e.getElementsByClassName(t.classNames.tiddlerTitle)[0];if(s){var a=s.innerText||s.textContent;return a.trim()}};var o=function(t){if(!i){i=true;window.setTimeout(f,t||0)}};var l=function(e,i){$tw.wiki.addTiddler(new $tw.Tiddler({title:t.references.focussedTiddlerStore,text:e},$tw.wiki.getModificationFields()));if(i){var r=document.getElementsByClassName(\&quot;hzone-focus\&quot;)[0];if(r){$tw.utils.removeClass(r,\&quot;hzone-focus\&quot;)}$tw.utils.addClass(i,\&quot;hzone-focus\&quot;)}};var f=function(){i=false;var s=$tw.wiki.getTiddler(\&quot;$:/StoryList\&quot;);if(s&amp;&amp;s.fields.list.length){var o=null;var f=Number.MAX_VALUE;var d=r.children;var u=t.classNames.tiddlerFrame;for(var c=d.length;c--;){if($tw.utils.hasClass(d[c],u)){var v=d[c].getBoundingClientRect();var w=Math.min(Math.abs(a-v.top),Math.abs(a-v.bottom));if(w&lt;f){o=d[c];f=w}}}var m=n(o);if(m!==e&amp;&amp;$tw.wiki.getTiddler(m)){e=m;l(e,o);return}}else if(e){e=\&quot;\&quot;;l(e)}};var d=function(t){if(t[\&quot;$:/HistoryList\&quot;]){if(!$tw.wiki.tiddlerExists(\&quot;$:/HistoryList\&quot;))return;var e=$tw.wiki.getTiddler(\&quot;$:/HistoryList\&quot;).fields[\&quot;current-tiddler\&quot;];var i=$tw.wiki.getTiddlerList(\&quot;$:/StoryList\&quot;);var r=i.indexOf(e)&gt;=0;if(!r)return;o($tw.utils.getAnimationDuration()+100)}else if(t[\&quot;$:/StoryList\&quot;]){o($tw.utils.getAnimationDuration()+100)}};var u=function(t){o(250)};$tw.wiki.addEventListener(\&quot;change\&quot;,d);window.addEventListener(\&quot;scroll\&quot;,u,false);u()}})();&quot;,
+            &quot;type&quot;: &quot;application/javascript&quot;,
+            &quot;module-type&quot;: &quot;startup&quot;
+        },
+        &quot;$:/plugins/felixhayashi/hotzone/Configuration&quot;: {
+            &quot;title&quot;: &quot;$:/plugins/felixhayashi/hotzone/Configuration&quot;,
+            &quot;text&quot;: &quot;Please see the [[GitHub page|https://github.com/felixhayashi/TW5-HotZone]] for more information on the options.\n\nSave and reload the wiki to activate changes.\n\n&lt;table&gt;\n  &lt;tr&gt;\n    &lt;th align=\&quot;left\&quot;&gt;Focus offset:&lt;/th&gt;\n    &lt;td&gt;&lt;$edit-text tiddler=\&quot;$:/config/hotzone/focusOffset\&quot; tag=\&quot;input\&quot; default=\&quot;71px\&quot; /&gt;&lt;/td&gt;\n  &lt;/tr&gt;\n&lt;/table&gt;&quot;
+        },
+        &quot;$:/temp/focussedTiddler&quot;: {
+            &quot;title&quot;: &quot;$:/temp/focussedTiddler&quot;
+        },
+        &quot;$:/plugins/felixhayashi/hotzone/License&quot;: {
+            &quot;title&quot;: &quot;$:/plugins/felixhayashi/hotzone/License&quot;,
+            &quot;text&quot;: &quot;This code is released under the BSD license. For the exact terms visit:\n\nhttps://github.com/felixhayashi/TW5-HotZone/blob/master/LICENSE&quot;
+        },
+        &quot;$:/plugins/felixhayashi/hotzone/Readme&quot;: {
+            &quot;title&quot;: &quot;$:/plugins/felixhayashi/hotzone/Readme&quot;,
+            &quot;text&quot;: &quot;Please visit the [[GitHub page|https://github.com/felixhayashi/TW5-HotZone]] for more information.&quot;
+        }
+    }
+}</pre>
 </div>
 <div author="Felix Küppers" core-version="&gt;=5.1.5" dependents="" description="TopStoryView – Always scroll navigated tiddlers to the top" list="Configuration License Readme" plugin-type="plugin" released="" source="https://github.com/felixhayashi/TW5-TopStoryView" title="$:/plugins/felixhayashi/topstoryview" type="application/json" version="0.2.0">
 <pre>{
@@ -9448,8 +9487,14 @@ Error message and password prompt
 <div created="20190803185844283" modified="20190803185844913" title="$:/SiteTitle">
 <pre>My ~TiddlyWiki</pre>
 </div>
-<div created="20190803180353016" modified="20190803190855813" title="$:/state/tab-1749438307">
-<pre>$:/core/ui/ControlPanel/Info</pre>
+<div created="20190803211259025" modified="20190803211333633" title="$:/state/plugin-info-2141587750-$:/plugins/felixhayashi/topstoryview---208835650">
+<pre>contents</pre>
+</div>
+<div created="20190803211342794" modified="20190803211428529" title="$:/state/tab-1163638994">
+<pre>$:/core/ui/MoreSideBar/Plugins/Plugins</pre>
+</div>
+<div created="20190803180353016" modified="20190803211414565" title="$:/state/tab-1749438307">
+<pre>$:/core/ui/ControlPanel/Plugins</pre>
 </div>
 <div created="20190803180358036" modified="20190803180409887" title="$:/state/tab-2065006209">
 <pre>$:/core/ui/ControlPanel/Saving/GitHub</pre>
@@ -9460,7 +9505,7 @@ Error message and password prompt
 <div created="20190803190529289" modified="20190803211145166" title="$:/state/tab/sidebar--595412856">
 <pre>$:/core/ui/SideBar/More</pre>
 </div>
-<div list="$:/Import GettingStarted" title="$:/StoryList">
+<div created="20190803211244090" list="$:/Import $:/ControlPanel $:/themes/tiddlywiki/snowwhite GettingStarted" modified="20190803211410827" title="$:/StoryList">
 <pre></pre>
 </div>
 <div plugin-type="info" title="$:/temp/info-plugin" type="application/json">
