@@ -9724,7 +9724,7 @@ Error message and password prompt
 <div created="20190820181834476" modified="20190820181852461" title="$:/state/tabs/controlpanel/toolbars-1345989671">
 <pre>$:/core/ui/ControlPanel/Toolbars/ViewToolbar</pre>
 </div>
-<div list="[[Binary search]]" title="$:/StoryList">
+<div created="20191202165158612" list="[[General hints for algorithmic interviews]]" modified="20191202165158612" title="$:/StoryList">
 <pre></pre>
 </div>
 <div created="20190819174146363" modified="20190819174151281" title="$:/temp/advancedsearch">
@@ -10124,13 +10124,13 @@ To get to a [[flow state|https://en.wikipedia.org/wiki/Flow_(psychology)]] I nee
 
 As far as I don't hurt myself too much, I would prefer to have the initial push as hard as possible. But anyway, am I really going to optimize health on first place?</pre>
 </div>
-<div created="20191130181258727" modified="20191201182416170" tags="published tutorial technology" title="General hints for algorithmic interviews">
+<div created="20191130181258727" modified="20191202165346932" tags="published tutorial technology" title="General hints for algorithmic interviews">
 <pre>These are pointers that I consider important and often overlooked while solving interview problems for google, fb, etc.:
 
 # ''Special attention to the problem statement.'' This is simple but hard because you try to think about solutions right away. if not 100% sure you understand the correct statement, draw an example, ask &quot;//Do I understand correctly that X?//&quot;.
 # ''Distinguish Abstract Data Types (ADT) and Data Structures (DS)''. //[[ADT is to an interface (what it does) what a data structure is to a class (how it does it)|https://softwareengineering.stackexchange.com/a/148808]]//. Example: dictionary is an ADT and it can be realized using a search tree, a hash table, or even a linked list or a vector; note that complexity is a characteristic of a DS, not ADT.
 # ''Complexity analysis.'' Distingush time and space, worst/avg/best case, introduce additional variables where appropriate (ex: denote alphabet by Σ, the branching factor //d//)
-# ''Define semantic meaning and invariants''. Look at data structures as mathematical functions -- define their semantic meaning by writing a comment next to their declaration. Examples: `a={} # letter -&gt; #repetitions`, or for dynamic programming: `int dp[N][N]; // dp[i][j] is the minimal nubmer of carrots to collect until reaching cell (i,j)`). The goal is that this definition stays aligned with your further calculation. Note that the recursive formula should not be included in this definition.
+# ''Define semantic meaning and invariants''. Look at data structures as mathematical functions -- define their semantic meaning by writing a comment next to their declaration. Examples: `a={} # letter -&gt; #repetitions`, or for dynamic programming: `int dp[N][N]; // dp[i][j] is the minimal nubmer of carrots to collect until reaching cell (i,j)`). The goal is that this definition stays aligned with your further calculation. Note that the recursive formula should not be included in this definition. As an exercise, learn how to write correct binary search using invariants ([[explanation|Binary search]]).  
 # ''Ask questions'' in order to (ex: are there loops or parallel edges in the graph), communicate the assumptions you do (ex: &quot;//Can I assume that the letters are of type char and not unicode?//&quot;, &quot;//I assume an API with returning an index, not the letter on this place.//&quot;)
 # ''Enjoy, smile, listen.'' The interviewer generally tries to help you to demonstrate your maximum at different fronts. If you are given a hint, really try to understand it: you have only 45min and better to move on (the interviewer has most probably seen tens of people solving this same task).
 
