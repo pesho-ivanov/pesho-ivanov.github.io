@@ -279,6 +279,8 @@ Error message and password prompt
 
 <li>Academic misconduct</li>
 
+<li>Binary search</li>
+
 <li>Biology or medicine</li>
 
 <li>Black box vs Mechanistic models</li>
@@ -9722,7 +9724,7 @@ Error message and password prompt
 <div created="20190820181834476" modified="20190820181852461" title="$:/state/tabs/controlpanel/toolbars-1345989671">
 <pre>$:/core/ui/ControlPanel/Toolbars/ViewToolbar</pre>
 </div>
-<div created="20191202142414892" list="[[Readable notes]] [[Personality types as dimensionality reduction]]" modified="20191202142414892" title="$:/StoryList">
+<div list="[[Binary search]]" title="$:/StoryList">
 <pre></pre>
 </div>
 <div created="20190819174146363" modified="20190819174151281" title="$:/temp/advancedsearch">
@@ -9966,6 +9968,36 @@ Links:
 
 * https://publicationethics.org/ -- COPE (Committee on Publication Ethics)
 * https://academia.stackexchange.com/[[Science or academia]]</pre>
+</div>
+<div created="20191202151248071" modified="20191202165011704" tags="tutorial algo" title="Binary search">
+<pre>This is a clean approach to implementing a generic binary search (BS) algorithm (suggested  [[here|https://codeforces.com/blog/entry/9901?#comment-153756]]). It is beautiful because it is applicable to any BS task and it allows for an obvious proof of correctness (the technique can be applied to many other tasks).
+
+!!! Generalization
+
+Firstly, lets reformulate the task &quot;locate element ''x'' in the sorted array ''A''&quot; to the more general &quot;given an array (or function) ''F(m)'' in the form 1,1,...,1,1,0,0,...,0,0, find the index ''l'' of the last 1, and the index ''r'' of the first 0&quot;. The sorted array task is thus formulated as finding ''r'' for ''F(m) = (x &lt; A[m])''.
+
+!!! Invariants
+The goal is to start with ''l'' and ''r'' on the left and the right of the array and step by step, to move them next to each other. Throughout the algorithm we will always rely on A[l] being True and A[r] being False. At the very beginning, we don't have information about any element in A, so we formally set ''l'' to be one index to the left of the first element and ''r'' to be one after the last. As soon as we obtain new information about a middle element, this is either going to become the leftest True or the rightest False that we know of.
+
+!!! Generic BS over the interval [0,1,...n)
+
+```
+l = -1  # rightmost index, s.t. F(l) is surely True
+r = n   # leftmost index, s.t. F(r) is surely False
+while r-l &gt; 1:
+    m = (l+r)//2  # integer division
+    if F(m):
+        l = m
+    else:
+        r = m
+```
+
+What remains is to instantiate the BS for our specific task, which includes designing ''F()'', then according to ''F()'' and the problem statement, decide if ''l'' or ''r'' is needed, then solve corner cases (''l'' and ''r'' may be out of bound or ''A[r]'' can be different than ''x'').
+
+!!! Correctness
+
+* The algorithm always terminates. ''r-l&gt;1'' so there is always at least one element ''m'' strictly between ''l'' and ''r'' and then either ''l'' or ''r'' becomes ''m'', so the interval strictly shrinks at every iteration.
+* ''a[m]'' always exists because ''m'' is strictly between ''l'' and ''r'' and even in the beginning,  these are direct neighbors of existing elements.</pre>
 </div>
 <div created="20190901220718738" modified="20191025192132409" tags="published distinguish productivity science academia" title="Biology or medicine">
 <pre>[img[https://imgs.xkcd.com/comics/purity.png]]
