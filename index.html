@@ -9969,7 +9969,7 @@ Links:
 * https://publicationethics.org/ -- COPE (Committee on Publication Ethics)
 * https://academia.stackexchange.com/[[Science or academia]]</pre>
 </div>
-<div created="20191202151248071" modified="20191202165011704" tags="tutorial algo" title="Binary search">
+<div created="20191202151248071" modified="20191202165139401" tags="tutorial algo" title="Binary search">
 <pre>This is a clean approach to implementing a generic binary search (BS) algorithm (suggested  [[here|https://codeforces.com/blog/entry/9901?#comment-153756]]). It is beautiful because it is applicable to any BS task and it allows for an obvious proof of correctness (the technique can be applied to many other tasks).
 
 !!! Generalization
@@ -9985,11 +9985,11 @@ The goal is to start with ''l'' and ''r'' on the left and the right of the array
 l = -1  # rightmost index, s.t. F(l) is surely True
 r = n   # leftmost index, s.t. F(r) is surely False
 while r-l &gt; 1:
-    m = (l+r)//2  # integer division
+    m = (l+r)//2 # always in [0,...,n)
     if F(m):
-        l = m
+        l = m    # l&lt;m =&gt; shrinking
     else:
-        r = m
+        r = m    # m&lt;r =&gt; shrinking
 ```
 
 What remains is to instantiate the BS for our specific task, which includes designing ''F()'', then according to ''F()'' and the problem statement, decide if ''l'' or ''r'' is needed, then solve corner cases (''l'' and ''r'' may be out of bound or ''A[r]'' can be different than ''x'').
