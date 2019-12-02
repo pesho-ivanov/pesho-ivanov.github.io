@@ -9724,7 +9724,7 @@ Error message and password prompt
 <div created="20190820181834476" modified="20190820181852461" title="$:/state/tabs/controlpanel/toolbars-1345989671">
 <pre>$:/core/ui/ControlPanel/Toolbars/ViewToolbar</pre>
 </div>
-<div created="20191202165158612" list="[[Binary search]] [[General hints for algorithmic interviews]]" modified="20191202165359260" title="$:/StoryList">
+<div created="20191202165158612" list="[[Binary search]]" modified="20191202170631417" title="$:/StoryList">
 <pre></pre>
 </div>
 <div created="20190819174146363" modified="20190819174151281" title="$:/temp/advancedsearch">
@@ -9788,8 +9788,8 @@ Error message and password prompt
     }
 }</pre>
 </div>
-<div created="20190804144036349" modified="20191130184316448" title="$:/temp/search">
-<pre></pre>
+<div created="20190804144036349" modified="20191202170619021" title="$:/temp/search">
+<pre>read</pre>
 </div>
 <div created="20190819173521792" modified="20190819173521792" title="$:/theme">
 <pre>$:/themes/tiddlywiki/snowwhite</pre>
@@ -9969,15 +9969,15 @@ Links:
 * https://publicationethics.org/ -- COPE (Committee on Publication Ethics)
 * https://academia.stackexchange.com/[[Science or academia]]</pre>
 </div>
-<div created="20191202151248071" modified="20191202170607723" tags="published tutorial algo" title="Binary search">
+<div created="20191202151248071" modified="20191202170910370" tags="technology published tutorial algo" title="Binary search">
 <pre>This is a clean approach to implementing a generic binary search (BS) algorithm (suggested  [[here|https://codeforces.com/blog/entry/9901?#comment-153756]]). It is beautiful because it is applicable to any BS task and it allows for an obvious proof of correctness (the technique can be applied to many other tasks).
 
 !!! Generalization
 
-Firstly, lets reformulate the task &quot;locate element ''x'' in the sorted array ''A''&quot; to the more general &quot;given an array (or function) ''F(m)'' in the form 1,1,...,1,1,0,0,...,0,0, find the index ''l'' of the last 1, and the index ''r'' of the first 0&quot;. The sorted array task is thus formulated as finding ''r'' for ''F(m) = (x &lt; A[m])''.
+Firstly, lets reformulate the task &quot;locate element ''x'' in the sorted array ''A''&quot; to the more general &quot;given an array (//indicator function//) ''F(m)'' in the form 1,1,...,1,1,0,0,...,0,0, find the index ''l'' of the last 1, and the index ''r'' of the first 0&quot;. The sorted array task is thus formulated as finding ''r'' for ''F(m) = (x &lt; A[m])''.
 
 !!! Invariants
-The goal is to start with ''l'' and ''r'' on the left and the right of the array and step by step, to move them next to each other. Throughout the algorithm we will always rely on A[l] being True and A[r] being False. At the very beginning, we don't have information about any element in A, so we formally set ''l'' to be one index to the left of the first element and ''r'' to be one after the last. As soon as we obtain new information about a middle element, this is either going to become the leftest True or the rightest False that we know of.
+The goal is to start with ''l'' and ''r'' on the left and the right of the array and step by step, to move them next to each other. Throughout the algorithm we will always rely on ''A[l]'' being ''True'' and ''A[r]'' being ''False''. At the very beginning, we don't have information about any element in A, so we formally set ''l'' to be one index to the left of the first element and ''r'' to be one after the last. As soon as we obtain new information about a middle element, this is either going to become the leftest ''True'' or the rightest ''False'' that we know of.
 
 !!! Generic BS over the interval [0,1,...n)
 
@@ -9992,7 +9992,7 @@ while r-l &gt; 1:
         r = m    # m&lt;r =&gt; shrinking
 ```
 
-What remains is to instantiate the BS for our specific task, which includes designing ''F()'', then according to ''F()'' and the problem statement, decide if ''l'' or ''r'' is needed, then solve corner cases (''l'' and ''r'' may be out of bound or ''A[r]'' can be different than ''x'').
+What remains is to instantiate the BS for our specific task, which includes designing ''F()'', then according to ''F()'' and the problem statement, decide if ''l'' or ''r'' is needed, then solve corner cases (''l'' and ''r'' may be out of bound or ''A[r]'' can be different than ''x''). Note that ''F()'' can be constructed for any monotonic function ''A''. 
 
 !!! Correctness
 
