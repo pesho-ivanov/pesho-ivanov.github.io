@@ -9728,7 +9728,7 @@ Error message and password prompt
 <div created="20190820181834476" modified="20190820181852461" title="$:/state/tabs/controlpanel/toolbars-1345989671">
 <pre>$:/core/ui/ControlPanel/Toolbars/ViewToolbar</pre>
 </div>
-<div created="20191217120442205" list="[[Dynamic programming]] [[Readable notes]]" modified="20191217120517812" title="$:/StoryList">
+<div created="20191217213133987" list="[[Dynamic programming]] [[Readable notes]]" modified="20191217213133987" title="$:/StoryList">
 <pre></pre>
 </div>
 <div created="20190819174146363" modified="20190819174151281" title="$:/temp/advancedsearch">
@@ -10084,20 +10084,24 @@ Based on Schopenhauer, a human understandable list is compiled in //Popular reth
 # ''Cheats for destroying the enemy's position''
 # ''Cheats for termination of communication''</pre>
 </div>
-<div created="20191217114334095" modified="20191217120526142" tags="algo tutorial" title="Dynamic programming">
+<div created="20191217114334095" modified="20191217214510788" tags="algo tutorial" title="Dynamic programming">
 <pre>TODO: examples, semiring, compare to greedy, compare to D&amp;C.
 
-Cornerstones for every DP problem:
+Solving a problem using DP may seem to be a black magic at first. It is an art, a quite regular one. This is a practical advice on approaching any DP problem. Ideally, the implementation details come after the conceptual and they do not get mixed (e.g. don't mention recursion or tables before finishing the recurrent relation and estimating the size of the computation graph).
 
-# Define state space `S` that captures subtasks -- check for ambiguity
+Conceptual cornerstones in every DP problem:
+
+# Define the state space `S` -- each state is a parametrization describing a subtask. Mind the number of states as the overall algorithm complexity will typically exceed that (not necessarily, though).
 # Define a function over the state space: `f: S-&gt;R` and make sure the final result is expressible using `f`
 # State dependence -- imagine the graph and make sure it is a DAG (no cycles)
 # Express `f(s)` a recurrent relation depending on other states `s_i`. Assuming `f(s_i)` is computed correctly, show that `f(s)` will also be correct (&quot;inductive step&quot;)
 
 Practical hints:
-1 and 3 are qualitative. 2 and 4 and quantitative. In practice, you will mostly think of 2 and 4 as these lead you to the answer but 1 and 3 are important for evaluating complexity and proving correctness.
 
-Implementation details (do not discuss these before you are done with the algorithm):
+* 1 and 3 are qualitative. 2 and 4 and quantitative. In practice, you will mostly think of 2 and 4 as these lead you to the answer but 1 and 3 are important for evaluating complexity and proving correctness.
+* Before all 4 points are crystallized
+
+Last, implementation details (do not discuss these before you are done with the algorithm):
 
 * storing the memoized function as a vector, matrix, hash table, etc.
 * recursive or iterative</pre>
