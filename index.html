@@ -9642,7 +9642,7 @@ Error message and password prompt
     &quot;tiddlers&quot;: {
         &quot;Untitled&quot;: {
             &quot;title&quot;: &quot;Untitled&quot;,
-            &quot;text&quot;: &quot;&lt;span style=\&quot;color: rgb(51, 51, 51); font-family: -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Helvetica, Arial, sans-serif, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;, &amp;quot;Segoe UI Symbol&amp;quot;; font-size: 15px; font-style: italic; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;\&quot;&gt;o Terz&lt;/span&gt;&quot;
+            &quot;text&quot;: &quot;&lt;span style=\&quot;color: rgb(51, 51, 51); font-family: -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Helvetica, Arial, sans-serif, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;, &amp;quot;Segoe UI Symbol&amp;quot;; font-size: 15px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;\&quot;&gt;Conceptual cornerstones in every DP problem&lt;/span&gt;&quot;
         }
     }
 }</pre>
@@ -10084,27 +10084,52 @@ Based on Schopenhauer, a human understandable list is compiled in //Popular reth
 # ''Cheats for destroying the enemy's position''
 # ''Cheats for termination of communication''</pre>
 </div>
-<div created="20191217114334095" modified="20191217214510788" tags="algo tutorial" title="Dynamic programming">
-<pre>TODO: examples, semiring, compare to greedy, compare to D&amp;C.
+<div created="20191217114334095" modified="20191217223025712" tags="algo tutorial" title="Dynamic programming">
+<pre>TODO: examples, semiring.
 
-Solving a problem using DP may seem to be a black magic at first. It is an art, a quite regular one. This is a practical advice on approaching any DP problem. Ideally, the implementation details come after the conceptual and they do not get mixed (e.g. don't mention recursion or tables before finishing the recurrent relation and estimating the size of the computation graph).
+DP can be used for optimization of discrete and continuous problems, to count number of ways, to reconstruct a solution. Not only specially designed tasks are solvable by it but also many complex problems can be hammered by DP after mastering this tool. I would say that if solving consciously, at least a dozen different tasks need to be solved before being confident. If not thinking in generalization, demonstrating correctness can still be an issue after hundreds.
 
-Conceptual cornerstones in every DP problem:
+!!! Intro to solving
+
+Solving a problem using DP may seem to be a black magic at first. It is an art, but quite a regular one. This is a practical advice on approaching any DP problem.
+
+The end goal is to come up the recurrent relation that describes how to compute a subtask assuming that the subtasks it depends on are already computed. Complex DP tasks cannot be solved by guessing -- master the principled approach on easy tasks.
+
+The implementation details come only after the conceptual solution is ready -- don't mix them (e.g. if you are going to use recursion or tables is irrelevant before stating the recurrent relation and estimating the size of the computation graph).
+
+!!! Conceptual cornerstones in every DP problem:
 
 # Define the state space `S` -- each state is a parametrization describing a subtask. Mind the number of states as the overall algorithm complexity will typically exceed that (not necessarily, though).
 # Define a function over the state space: `f: S-&gt;R` and make sure the final result is expressible using `f`
 # State dependence -- imagine the graph and make sure it is a DAG (no cycles)
 # Express `f(s)` a recurrent relation depending on other states `s_i`. Assuming `f(s_i)` is computed correctly, show that `f(s)` will also be correct (&quot;inductive step&quot;)
 
-Practical hints:
+!!! Practical hints:
 
 * 1 and 3 are qualitative. 2 and 4 and quantitative. In practice, you will mostly think of 2 and 4 as these lead you to the answer but 1 and 3 are important for evaluating complexity and proving correctness.
-* Before all 4 points are crystallized
+* If the state space parametrization allows for too much degrees of freedom, try introducing additional parameters to constrain it.
+* If a state parametrization is redundant, shrink it.
+* Try introducing the result as a state parameter.
+* Think of the simplest possible step to be done to reuse a subtask. Otherwise the recurrent formula will grow bigger, the computational complexity will increase, the correctness will become harder to show.
+
+!!! Typical mistakes:
+
+* Thinking of DP in a forward fashion as if using a greedy (&quot;~~If I a subtask is solved, I can make such a step to solve a bigger subtask.~~&quot;). This may leave the impression that the task cannot be solved efficiently (because of exponentially many paths forward), or correctly (because a greedy choice may fail). Try //looking backwards//: &quot;To construct a subtask solution, I could have came only from such and such smaller solved subtasks&quot;.
 
 Last, implementation details (do not discuss these before you are done with the algorithm):
 
 * storing the memoized function as a vector, matrix, hash table, etc.
-* recursive or iterative</pre>
+* recursive or iterative
+
+Distinguish from ''Divide&amp;Conquere'':
+
+* DP is about skipping recomputation for the same subtask. This could lead to an exponential acceleration.
+* The subtasks for D&amp;C are independent: they don't overlap so cannot be reused.
+
+Distinguish from ''greedy'' (assuming an optimization task):
+
+* DP considers all possible steps that lead to a subtask solution -- at least one of them must bring an optimal solution
+* Note that some greedies //can// also be provably optimal/correct.</pre>
 </div>
 <div created="20190902185644254" modified="20191127005807835" tags="published science psychology distinguish" title="Exact or specific">
 <pre>&lt;&lt;&lt;
