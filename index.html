@@ -9732,7 +9732,7 @@ Error message and password prompt
 <div created="20190820181834476" modified="20190820181852461" title="$:/state/tabs/controlpanel/toolbars-1345989671">
 <pre>$:/core/ui/ControlPanel/Toolbars/ViewToolbar</pre>
 </div>
-<div list="[[Bioinformatics vs Computational biology]] [[Readable notes]]" title="$:/StoryList">
+<div list="[[Binary search]]" title="$:/StoryList">
 <pre></pre>
 </div>
 <div created="20190819174146363" modified="20190819174151281" title="$:/temp/advancedsearch">
@@ -9783,11 +9783,11 @@ Error message and password prompt
         },
         &quot;$:/info/browser/screen/width&quot;: {
             &quot;title&quot;: &quot;$:/info/browser/screen/width&quot;,
-            &quot;text&quot;: &quot;2048&quot;
+            &quot;text&quot;: &quot;1200&quot;
         },
         &quot;$:/info/browser/screen/height&quot;: {
             &quot;title&quot;: &quot;$:/info/browser/screen/height&quot;,
-            &quot;text&quot;: &quot;1152&quot;
+            &quot;text&quot;: &quot;1920&quot;
         },
         &quot;$:/info/browser/language&quot;: {
             &quot;title&quot;: &quot;$:/info/browser/language&quot;,
@@ -9796,8 +9796,8 @@ Error message and password prompt
     }
 }</pre>
 </div>
-<div created="20190804144036349" modified="20200105170907135" title="$:/temp/search">
-<pre>computer science</pre>
+<div created="20190804144036349" modified="20200108191927940" title="$:/temp/search">
+<pre></pre>
 </div>
 <div created="20190819173521792" modified="20190819173521792" title="$:/theme">
 <pre>$:/themes/tiddlywiki/snowwhite</pre>
@@ -9977,7 +9977,7 @@ Links:
 * https://publicationethics.org/ -- COPE (Committee on Publication Ethics)
 * https://academia.stackexchange.com/[[Science or academia]]</pre>
 </div>
-<div created="20191202151248071" modified="20191202174108937" tags="technology published tutorial algo" title="Binary search">
+<div created="20191202151248071" modified="20200108191925173" tags="technology published tutorial algo" title="Binary search">
 <pre>&lt;&lt;&lt;
 There are two hard things in computer science: cache invalidation, naming things, and off-by-one errors.
 &lt;&lt;&lt; Phil Karlton
@@ -9986,7 +9986,7 @@ This is a clean approach to implementing a generic binary search (BS) algorithm 
 
 !!! Generalization
 
-Firstly, lets reformulate the task &quot;locate element ''x'' in the sorted array ''A''&quot; to the more general &quot;given an array (//indicator function//) ''F(m)'' in the form 1,1,...,1,1,0,0,...,0,0, find the index ''l'' of the last 1, and the index ''r'' of the first 0&quot;. The sorted array task is thus formulated as finding ''r'' for ''F(m) = (x &lt; A[m])''.
+Firstly, lets reformulate the task &quot;locate element ''x'' in the sorted array ''A''&quot; to the more general &quot;given an array (//indicator function//) ''F(m)'' in the form 1,1,...,1,1,0,0,...,0,0, find the index ''l'' of the last 1, and the index ''r'' of the first 0&quot;. The sorted array task is thus formulated as finding ''r'' for ''F(m) = bool(A[m] &lt; x)''.
 
 !!! Invariants
 The goal is to start with ''l'' and ''r'' on the left and the right of the array and step by step, to move them next to each other. Throughout the algorithm we will always rely on ''A[l]'' being ''True'' and ''A[r]'' being ''False''. At the very beginning, we don't have information about any element in A, so we formally set ''l'' to be one index to the left of the first element and ''r'' to be one after the last. As soon as we obtain new information about a middle element, this is either going to become the leftest ''True'' or the rightest ''False'' that we know of.
