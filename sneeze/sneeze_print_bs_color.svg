@@ -15,7 +15,7 @@
    width="793.33331"
    height="1122.6667"
    viewBox="0 0 793.33331 1122.6667"
-   sodipodi:docname="sneeze_print_en_color.svg"
+   sodipodi:docname="sneeze_print_bs_color.svg"
    inkscape:version="0.92.4 5da689c313, 2019-01-14"
    inkscape:export-filename="/home/pesho/work/pesho-ivanov.github.io/sneeze/sneeze_print_en_color.png"
    inkscape:export-xdpi="96"
@@ -634,12 +634,12 @@
      id="namedview4"
      showgrid="false"
      inkscape:zoom="0.84085505"
-     inkscape:cx="92.381603"
-     inkscape:cy="612.55045"
+     inkscape:cx="405.15846"
+     inkscape:cy="231.98546"
      inkscape:window-x="0"
      inkscape:window-y="25"
      inkscape:window-maximized="1"
-     inkscape:current-layer="g10"
+     inkscape:current-layer="g4888"
      inkscape:pagecheckerboard="false" /><g
      id="g10"
      inkscape:groupmode="layer"
@@ -984,34 +984,40 @@
          style="fill:#bd4628;fill-opacity:1;fill-rule:nonzero;stroke:none"
          id="path584"
          inkscape:connector-curvature="0" /></g></g></g><g
-   id="g660"
-   transform="matrix(1,0,0,-1,230.5,378.5)"
-   style="stroke:#bd4628;stroke-opacity:1"><path
-     d="M 0,0 24.3675,24.3675"
-     style="fill:none;stroke:#bd4628;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
-     id="path662"
-     inkscape:connector-curvature="0" /></g><g
-   id="g664"
-   transform="matrix(1,0,0,-1,230.5,378.5)"
-   style="stroke:#bd4628;stroke-opacity:1"><path
-     d="M 24.3675,0 0,24.3675"
-     style="fill:none;stroke:#bd4628;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
-     id="path666"
-     inkscape:connector-curvature="0" /></g><g
-   id="g668"
-   transform="matrix(1,0,0,-1,520.5,378.5)"
-   style="stroke:#bd4628;stroke-opacity:1"><path
-     d="M 0,0 24.3675,24.3675"
-     style="fill:none;stroke:#bd4628;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
-     id="path670"
-     inkscape:connector-curvature="0" /></g><g
-   id="g672"
-   transform="matrix(1,0,0,-1,520.5,378.5)"
-   style="stroke:#bd4628;stroke-opacity:1"><path
-     d="M 24.3675,0 0,24.3675"
-     style="fill:none;stroke:#bd4628;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
-     id="path674"
-     inkscape:connector-curvature="0" /></g><g
+   id="g586"
+   transform="translate(-4.5,28.5)"
+   style="stroke:#bd4628;stroke-opacity:1"><g
+     id="g588"
+     clip-path="url(#clipPath592)"
+     style="stroke:#bd4628;stroke-opacity:1"><g
+       id="g660"
+       transform="matrix(1,0,0,-1,235,350)"
+       style="stroke:#bd4628;stroke-opacity:1"><path
+         d="M 0,0 24.3675,24.3675"
+         style="fill:none;stroke:#bd4628;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+         id="path662"
+         inkscape:connector-curvature="0" /></g><g
+       id="g664"
+       transform="matrix(1,0,0,-1,235,350)"
+       style="stroke:#bd4628;stroke-opacity:1"><path
+         d="M 24.3675,0 0,24.3675"
+         style="fill:none;stroke:#bd4628;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+         id="path666"
+         inkscape:connector-curvature="0" /></g><g
+       id="g668"
+       transform="matrix(1,0,0,-1,525,350)"
+       style="stroke:#bd4628;stroke-opacity:1"><path
+         d="M 0,0 24.3675,24.3675"
+         style="fill:none;stroke:#bd4628;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+         id="path670"
+         inkscape:connector-curvature="0" /></g><g
+       id="g672"
+       transform="matrix(1,0,0,-1,525,350)"
+       style="stroke:#bd4628;stroke-opacity:1"><path
+         d="M 24.3675,0 0,24.3675"
+         style="fill:none;stroke:#bd4628;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+         id="path674"
+         inkscape:connector-curvature="0" /></g></g></g><g
    id="g676"
    transform="translate(0,27)"
    style="fill:#bd8e28;fill-opacity:1"><g
@@ -1312,7 +1318,7 @@
        x="311.76361"
        y="-228.27203"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.00000191px;line-height:1.25;font-family:'Noto Serif';-inkscape-font-specification:'Noto Serif';stroke-width:0.75"
-       id="tspan1349">Sneezing and coughing</tspan><tspan
+       id="tspan1349">Kihanje i kašljanje</tspan><tspan
        dx="0"
        x="487.68326"
        y="-228.27203"
@@ -1326,7 +1332,7 @@
        x="311.76361"
        y="-205.28708"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.00000191px;line-height:1.25;font-family:'Noto Serif';-inkscape-font-specification:'Noto Serif';stroke-width:0.75"
-       id="tspan1355">in the open is bad</tspan><tspan
+       id="tspan1355">u vazduh je pogrešno</tspan><tspan
        dx="0"
        x="447.12332"
        y="-205.28708"
@@ -1340,9 +1346,7 @@
        x="311.76361"
        y="-182.30212"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.00000191px;line-height:1.25;font-family:'Noto Serif';-inkscape-font-specification:'Noto Serif';stroke-width:0.75"
-       id="tspan1361">(but you know that anyway)</tspan></tspan></text>
-
-
+       id="tspan1361">(ali to svakako znate)</tspan></tspan></text>
 
 
 <g
@@ -1362,12 +1366,8 @@
        x="16.518488"
        y="-432.98849"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:1.25;font-family:'Noto Serif';-inkscape-font-specification:'Noto Serif';stroke-width:0.75"
-       id="tspan1395">• Sneeze or cough into it,</tspan><tspan
-       dx="0"
-       x="203.84605"
-       y="-432.98849"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:1.25;font-family:'Noto Serif';-inkscape-font-specification:'Noto Serif';stroke-width:0.75"
-       id="tspan1397" /></tspan><tspan
+       id="tspan1395"
+       dx="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0">• Kišite ili kašljite u maramicu,</tspan></tspan><tspan
      sodipodi:role="line"
      x="22.310482"
      y="-387.01859"
@@ -1380,12 +1380,8 @@
        x="22.310482"
        y="-410.00354"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:1.25;font-family:'Noto Serif';-inkscape-font-specification:'Noto Serif';stroke-width:0.75"
-       id="tspan1403"> throw it out immediately</tspan><tspan
-       dx="0"
-       x="217.14217"
-       y="-410.00354"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:1.25;font-family:'Noto Serif';-inkscape-font-specification:'Noto Serif';stroke-width:0.75"
-       id="tspan1405" /></tspan><tspan
+       id="tspan1403"
+       dx="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0"> odmah je izbacite,</tspan></tspan><tspan
      sodipodi:role="line"
      x="22.310482"
      y="0"
@@ -1398,9 +1394,7 @@
        x="22.310482"
        y="-387.01859"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:1.25;font-family:'Noto Serif';-inkscape-font-specification:'Noto Serif';stroke-width:0.75"
-       id="tspan1411"> and wash your hands</tspan></tspan></text>
-
-
+       id="tspan1411"> potom operite ruke</tspan></tspan></text>
 
 
 <text
@@ -1419,7 +1413,7 @@
        y="-489.45255"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:1.25;font-family:'Noto Serif';-inkscape-font-specification:'Noto Serif';stroke-width:0.75"
        id="tspan1381"
-       dx="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0">• Don’t sneeze</tspan></tspan><tspan
+       dx="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0">• Ne kišite dok maramica</tspan></tspan><tspan
      sodipodi:role="line"
      x="22.310482"
      y="0"
@@ -1432,9 +1426,7 @@
        x="22.310482"
        y="-466.46759"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:1.25;font-family:'Noto Serif';-inkscape-font-specification:'Noto Serif';stroke-width:0.75"
-       id="tspan1389"> until the tissue is ready</tspan></tspan></text>
-
-
+       id="tspan1389"> ne bude spremna</tspan></tspan></text>
 
 
 </g><text
@@ -1452,9 +1444,7 @@
        x="28.706926"
        y="-762.34332"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:26.00000191px;font-family:Scada;-inkscape-font-specification:'Scada Bold';stroke-width:0.75"
-       id="tspan1305">I’m going to sneeze! What should I do?</tspan></tspan></text>
-
-
+       id="tspan1305">Moram kihati! Šta da radim?</tspan></tspan></text>
 
 
 <text
@@ -1472,9 +1462,7 @@
        x="29.416927"
        y="-699.57703"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:27px;font-family:Scada;-inkscape-font-specification:Scada;stroke-width:0.75"
-       id="tspan1317">with a tissue</tspan></tspan></text>
-
-
+       id="tspan1317">sa maramicom</tspan></tspan></text>
 
 
 <text
@@ -1492,9 +1480,7 @@
        x="310.90268"
        y="-699.57703"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:27px;font-family:Scada;-inkscape-font-specification:Scada;stroke-width:0.75"
-       id="tspan1311">without a tissue</tspan></tspan></text>
-
-
+       id="tspan1311">bez maramice</tspan></tspan></text>
 
 
 <text
@@ -1512,7 +1498,7 @@
        x="30.041929"
        y="-227.42339"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:1.25;font-family:'Noto Serif';-inkscape-font-specification:'Noto Serif';stroke-width:0.75"
-       id="tspan1329">Don't cover your nose and mouth </tspan></tspan><tspan
+       id="tspan1329">Nemojte pokrivati usta i nos </tspan></tspan><tspan
      sodipodi:role="line"
      x="30.041929"
      y="-204.08197"
@@ -1522,7 +1508,7 @@
        y="-204.08197"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:1.25;font-family:'Noto Serif';-inkscape-font-specification:'Noto Serif';stroke-width:0.75"
        id="tspan1333"
-       dx="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0">with bare hands:</tspan></tspan><tspan
+       dx="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0">golim dlanovima:</tspan></tspan><tspan
      sodipodi:role="line"
      x="30.041929"
      y="-180.74055"
@@ -1531,7 +1517,7 @@
        x="30.041929"
        y="-180.74055"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:1.25;font-family:'Noto Serif';-inkscape-font-specification:'Noto Serif';stroke-width:0.75"
-       id="tspan1339">otherwise you’ll turn your hands </tspan></tspan><tspan
+       id="tspan1339">inače ćete pretvoriti šake </tspan></tspan><tspan
      sodipodi:role="line"
      x="30.041929"
      y="-157.39914"
@@ -1540,9 +1526,7 @@
        x="30.041929"
        y="-157.39914"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:1.25;font-family:'Noto Serif';-inkscape-font-specification:'Noto Serif';stroke-width:0.75"
-       id="tspan1343">into a biological weapon</tspan></tspan></text>
-
-
+       id="tspan1343">u biološko oružje</tspan></tspan></text>
 
 
 <flowRoot
@@ -1558,79 +1542,73 @@
      id="flowPara4580" /></flowRoot><text
    xml:space="preserve"
    style="font-style:normal;font-weight:normal;font-size:13.00000095px;line-height:0.64999998;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#999999;fill-opacity:1;stroke:none;stroke-width:0.75"
-   x="78.88607"
+   x="131.87395"
    y="-64.517303"
    id="text1327"
    transform="scale(1,-1)"><tspan
      sodipodi:role="line"
-     x="78.88607"
+     x="131.87395"
      y="-64.517303"
      id="tspan1325"
      style="stroke-width:0.75"><tspan
-       x="78.88607"
+       x="131.87395"
        y="-64.517303"
        style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.00000095px;line-height:0.64999998;font-family:'Noto Serif';-inkscape-font-specification:'Noto Serif Italic';fill:#666666;stroke-width:0.75"
-       id="tspan1323">Recommendations by the Centers for Disease Control and Prevention, US</tspan></tspan></text>
-
-
+       id="tspan1323">Preporuke Centra za Kontrolu i Prevenciju Bolesti, SAD</tspan></tspan></text>
 
 
 <g
    id="g4813"
-   transform="translate(126.37394,5.7563554)"><g
+   transform="translate(118.95194,5.7563554)"><g
      id="g4888"
      transform="translate(-8.604346)">
 <g
-   id="g1316"
-   transform="translate(-7.4220043)"><g
-   transform="matrix(0.73241523,0,0,0.94425317,38.990932,-716.67535)"
-   id="g56"
-   style="fill:#b3b3b3"><g
-     clip-path="url(#clipPath62)"
-     id="g58"
+   id="g1332"
+   transform="translate(-4.6885043)"><g
+     transform="matrix(0.73241523,0,0,0.94425317,38.990932,-716.67535)"
+     id="g56"
      style="fill:#b3b3b3"><g
-       clip-path="url(#clipPath68)"
-       id="g64"
-       style="fill:#b3b3b3"><path
-         inkscape:connector-curvature="0"
-         id="path70"
-         style="fill:#b3b3b3;fill-opacity:1;fill-rule:nonzero;stroke:none"
-         d="m 27,815 h 90 V 789 H 27 Z" /></g></g></g><text
-   transform="scale(1,-1)"
-   id="text1318"
-   y="-33.801159"
-   x="22.154709"
-   style="font-style:normal;font-weight:normal;font-size:13.00000095px;line-height:0.64999998;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#999999;fill-opacity:1;stroke:none;stroke-width:0.75"
-   xml:space="preserve"><tspan
-     style="stroke-width:0.75"
-     id="tspan1316"
+       clip-path="url(#clipPath62)"
+       id="g58"
+       style="fill:#b3b3b3"><g
+         clip-path="url(#clipPath68)"
+         id="g64"
+         style="fill:#b3b3b3"><path
+           inkscape:connector-curvature="0"
+           id="path70"
+           style="fill:#b3b3b3;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           d="m 27,815 h 90 V 789 H 27 Z" /></g></g></g><text
+     transform="scale(1,-1)"
+     id="text1318"
      y="-33.801159"
-     x="22.154709"
-     sodipodi:role="line"><tspan
-       id="tspan1314"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.00000095px;line-height:0.64999998;font-family:'Ubuntu Condensed';-inkscape-font-specification:'Ubuntu Condensed, ';fill:#999999;stroke-width:0.75"
+     x="31.154709"
+     style="font-style:normal;font-weight:normal;font-size:13.00000095px;line-height:0.64999998;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#999999;fill-opacity:1;stroke:none;stroke-width:0.75"
+     xml:space="preserve"><tspan
+       style="stroke-width:0.75"
+       id="tspan1316"
        y="-33.801159"
-       x="22.154709">source:</tspan></tspan></text>
-
-
+       x="31.154709"
+       sodipodi:role="line"><tspan
+         id="tspan1314"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.00000095px;line-height:0.64999998;font-family:'Ubuntu Condensed';-inkscape-font-specification:'Ubuntu Condensed, ';fill:#999999;stroke-width:0.75"
+         y="-33.801159"
+         x="31.154709">izvor:</tspan></tspan></text>
 <text
-   transform="scale(1,-1)"
-   id="text1312"
-   y="-34.18309"
-   x="127.8748"
-   style="font-style:normal;font-weight:normal;font-size:13.00000095px;line-height:0.64999998;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#999999;fill-opacity:1;stroke:none;stroke-width:0.75"
-   xml:space="preserve"><tspan
-     style="stroke-width:0.75"
-     id="tspan1310"
+     transform="scale(1,-1)"
+     id="text1312"
      y="-34.18309"
      x="127.8748"
-     sodipodi:role="line"><tspan
-       id="tspan1308"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.00000095px;line-height:0.64999998;font-family:'Ubuntu Condensed';-inkscape-font-specification:'Ubuntu Condensed, ';fill:#999999;stroke-width:0.75"
+     style="font-style:normal;font-weight:normal;font-size:13.00000095px;line-height:0.64999998;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#999999;fill-opacity:1;stroke:none;stroke-width:0.75"
+     xml:space="preserve"><tspan
+       style="stroke-width:0.75"
+       id="tspan1310"
        y="-34.18309"
-       x="127.8748">https://meduza.io/static/misc/sneeze_print.pdf</tspan></tspan></text>
-
-
+       x="127.8748"
+       sodipodi:role="line"><tspan
+         id="tspan1308"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.00000095px;line-height:0.64999998;font-family:'Ubuntu Condensed';-inkscape-font-specification:'Ubuntu Condensed, ';fill:#999999;stroke-width:0.75"
+         y="-34.18309"
+         x="127.8748">https://meduza.io/static/misc/sneeze_print.pdf</tspan></tspan></text>
 </g>
 </g></g><text
    xml:space="preserve"
@@ -1642,28 +1620,13 @@
      sodipodi:role="line"
      x="304.29865"
      y="-522.45251"
-     id="tspan1371"
+     id="tspan1377"
      style="stroke-width:0.75"><tspan
        x="304.29865"
        y="-522.45251"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:1.25;font-family:'Noto Serif';-inkscape-font-specification:'Noto Serif';stroke-width:0.75"
        id="tspan1367"
-       dx="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0">• Sneeze or cough</tspan></tspan><tspan
-     sodipodi:role="line"
-     x="310.09064"
-     y="0"
-     id="tspan1377"
-     style="stroke-width:0.75"><tspan
-       x="304.29865"
-       y="-499.46759"
-       style="fill:none;stroke-width:0.75"
-       id="tspan1373">•</tspan><tspan
-       x="310.09064"
-       y="-499.46759"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:1.25;font-family:'Noto Serif';-inkscape-font-specification:'Noto Serif';stroke-width:0.75"
-       id="tspan1375"> into the inside of your elbow</tspan></tspan></text>
-
-
+       dx="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0">• Kišite ili kašljite u lakat</tspan></tspan></text>
 
 
 </g></svg>
