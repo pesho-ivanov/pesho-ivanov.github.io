@@ -633,13 +633,13 @@
      inkscape:window-height="1093"
      id="namedview4"
      showgrid="false"
-     inkscape:zoom="6.7268404"
-     inkscape:cx="250.60659"
-     inkscape:cy="51.627985"
+     inkscape:zoom="1.1891486"
+     inkscape:cx="253.05521"
+     inkscape:cy="56.048105"
      inkscape:window-x="0"
      inkscape:window-y="25"
      inkscape:window-maximized="1"
-     inkscape:current-layer="g1316"
+     inkscape:current-layer="g10"
      inkscape:pagecheckerboard="false" /><g
      id="g10"
      inkscape:groupmode="layer"
@@ -1339,6 +1339,7 @@
 
 
 
+
 <g
    id="g4704"
    transform="translate(12,25.5)"><text
@@ -1391,6 +1392,7 @@
 
 
 
+
 <text
    xml:space="preserve"
    style="font-style:normal;font-weight:normal;font-size:30px;line-height:0.64999998;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.75"
@@ -1427,6 +1429,7 @@
 
 
 
+
 </g><text
    xml:space="preserve"
    style="font-style:normal;font-weight:normal;font-size:30px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.75"
@@ -1454,6 +1457,7 @@
 
 
 
+
 <text
    xml:space="preserve"
    style="font-style:normal;font-weight:normal;font-size:30px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.75"
@@ -1470,6 +1474,7 @@
        y="-722.7677"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25px;font-family:Scada;-inkscape-font-specification:Scada;stroke-width:0.75"
        id="tspan1311" /></tspan></text>
+
 
 
 
@@ -1526,6 +1531,7 @@
 
 
 
+
 <flowRoot
    xml:space="preserve"
    id="flowRoot4574"
@@ -1539,19 +1545,20 @@
      id="flowPara4580" /></flowRoot><text
    xml:space="preserve"
    style="font-style:normal;font-weight:normal;font-size:13.00000095px;line-height:0.64999998;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#999999;fill-opacity:1;stroke:none;stroke-width:0.75"
-   x="59.353603"
+   x="37.845146"
    y="-64.517303"
    id="text1327"
    transform="scale(1,-1)"><tspan
      sodipodi:role="line"
-     x="59.353603"
+     x="37.845146"
      y="-64.517303"
      id="tspan1325"
      style="stroke-width:0.75"><tspan
-       x="59.353603"
+       x="37.845146"
        y="-64.517303"
        style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.00000095px;line-height:0.64999998;font-family:'Noto Serif';-inkscape-font-specification:'Noto Serif Italic';fill:#666666;stroke-width:0.75"
-       id="tspan1323">Recomendaciones de los Centros para el Control y Prevención de Enfermedades</tspan></tspan></text>
+       id="tspan1323">Recomendaciones de los Centros para el Control y Prevención de Enfermedades, EEUU</tspan></tspan></text>
+
 
 
 
@@ -1598,6 +1605,7 @@
 
 
 
+
 <text
    transform="scale(1,-1)"
    id="text1312"
@@ -1614,6 +1622,7 @@
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.00000095px;line-height:0.64999998;font-family:'Ubuntu Condensed';-inkscape-font-specification:'Ubuntu Condensed, ';fill:#999999;stroke-width:0.75"
        y="-34.18309"
        x="127.8748">https://meduza.io/static/misc/sneeze_print.pdf</tspan></tspan></text>
+
 
 
 
@@ -1655,6 +1664,7 @@
 
 
 
+
 <flowRoot
    xml:space="preserve"
    id="flowRoot1317"
@@ -1684,6 +1694,7 @@
        y="-714.57703"
        x="29.416927">con un pañuelo</tspan></tspan></text>
 
+
 <text
    transform="scale(1,-1)"
    id="text1346"
@@ -1696,6 +1707,7 @@
      x="29.287533"
      id="tspan1344"
      sodipodi:role="line">descartable</tspan></text>
+
 
 </g><g
    id="g1380"
@@ -1716,6 +1728,7 @@
        y="-713.46967"
        x="284.71109">sin pañuelo</tspan></tspan></text>
 
+
 <text
    transform="scale(1,-1)"
    id="text1346-3"
@@ -1728,5 +1741,6 @@
      x="284.5817"
      id="tspan1344-1"
      sodipodi:role="line">descartable</tspan></text>
+
 
 </g></g></svg>
