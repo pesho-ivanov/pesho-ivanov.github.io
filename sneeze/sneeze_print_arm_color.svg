@@ -951,8 +951,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.0074671"
-     inkscape:cx="194.24761"
-     inkscape:cy="740.59339"
+     inkscape:cx="36.922373"
+     inkscape:cy="383.26162"
      inkscape:document-units="mm"
      inkscape:current-layer="g10"
      showgrid="false"
@@ -2256,20 +2256,15 @@
       <text
          id="text1359-4"
          y="-72.372742"
-         x="161.92332"
+         x="244.63174"
          style="font-style:normal;font-weight:normal;font-size:30px;line-height:0.64999998;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.75"
          xml:space="preserve"
          transform="scale(1,-1)"><tspan
-           style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14px;font-family:Times;-inkscape-font-specification:'Times Italic';text-align:center;text-anchor:middle;fill:#666666;fill-opacity:1;stroke-width:0.75"
-           id="tspan1357-2"
-           y="-72.372742"
-           x="164.14842"
-           sodipodi:role="line">Այս առաջարկությունները գալիս են </tspan><tspan
            style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;font-family:Times;-inkscape-font-specification:'Times Italic';text-align:center;text-anchor:middle;fill:#666666;fill-opacity:1;stroke-width:0.75"
-           y="-52.872742"
-           x="161.92332"
+           y="-72.372742"
+           x="244.63174"
            sodipodi:role="line"
-           id="tspan496" /></text>
+           id="tspan496">Այս ցուցումները գալիս են ԱՄՆ-ի Հիվանդությունների</tspan></text>
       <text
          id="text1317-3"
          y="-728.90057"
@@ -2289,20 +2284,15 @@
       <text
          id="text1359-4-5"
          y="-50.477978"
-         x="189.33537"
+         x="206.65575"
          style="font-style:normal;font-weight:normal;font-size:30px;line-height:0.64999998;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.75"
          xml:space="preserve"
          transform="scale(1,-1)"><tspan
-           style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14px;font-family:Times;-inkscape-font-specification:'Times Italic';text-align:center;text-anchor:middle;fill:#666666;fill-opacity:1;stroke-width:0.75"
-           id="tspan1357-2-3"
-           y="-50.477978"
-           x="191.56047"
-           sodipodi:role="line">ԱՄՆ-ի Հիվանդությունների վերահսկման և </tspan><tspan
            style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;font-family:Times;-inkscape-font-specification:'Times Italic';text-align:center;text-anchor:middle;fill:#666666;fill-opacity:1;stroke-width:0.75"
-           y="-30.94701"
-           x="189.33537"
+           y="-50.477978"
+           x="206.65575"
            sodipodi:role="line"
-           id="tspan496-5" /></text>
+           id="tspan496-5">վերահսկման և կանխարգելման կենտրոնից։</tspan></text>
     </g>
   </g>
 </svg>
