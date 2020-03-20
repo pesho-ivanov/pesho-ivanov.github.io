@@ -629,14 +629,14 @@
      guidetolerance="10"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:window-width="1272"
+     inkscape:window-width="1024"
      inkscape:window-height="1093"
      id="namedview4"
      showgrid="false"
      inkscape:zoom="0.84085505"
      inkscape:cx="407.79623"
      inkscape:cy="573.88339"
-     inkscape:window-x="0"
+     inkscape:window-x="1024"
      inkscape:window-y="25"
      inkscape:window-maximized="0"
      inkscape:current-layer="g10"
@@ -1345,6 +1345,7 @@
 
 
 
+
 <g
    id="g4704"
    transform="translate(24,33)"><text
@@ -1363,7 +1364,7 @@
        y="-432.98849"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;line-height:1.25;font-family:Times;-inkscape-font-specification:Times;stroke-width:0.75"
        id="tspan1395"
-       dx="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0">• Éternuez ou toussez dans le mouchoir,</tspan></tspan><tspan
+       dx="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0">• Éternuez ou tousser dans le mouchoir,</tspan></tspan><tspan
      sodipodi:role="line"
      x="22.310482"
      y="-387.01859"
@@ -1390,7 +1391,8 @@
        x="22.310482"
        y="-387.01859"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;line-height:1.25;font-family:Times;-inkscape-font-specification:Times;stroke-width:0.75"
-       id="tspan1411"> et se laver les mains.</tspan></tspan></text>
+       id="tspan1411"> et se laver les mains</tspan></tspan></text>
+
 
 
 
@@ -1414,7 +1416,7 @@
        y="-489.45255"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;line-height:1.25;font-family:Times;-inkscape-font-specification:Times;stroke-width:0.75"
        id="tspan1381"
-       dx="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0">• Ne pas éternuer tantque</tspan></tspan><tspan
+       dx="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0">• Ne pas éternuer tant que</tspan></tspan><tspan
      sodipodi:role="line"
      x="22.310482"
      y="0"
@@ -1427,7 +1429,8 @@
        x="22.310482"
        y="-466.46759"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;line-height:1.25;font-family:Times;-inkscape-font-specification:Times;stroke-width:0.75"
-       id="tspan1389"> le mouchoir n’est pas prêt.</tspan></tspan></text>
+       id="tspan1389"> le mouchoir n’est pas prêt</tspan></tspan></text>
+
 
 
 
@@ -1458,6 +1461,7 @@
 
 
 
+
 <text
    xml:space="preserve"
    style="font-style:normal;font-weight:normal;font-size:30px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.75"
@@ -1473,7 +1477,8 @@
        x="40.280903"
        y="-699.57703"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:27px;font-family:Arial;-inkscape-font-specification:Arial;stroke-width:0.75"
-       id="tspan1317">avec un mouchoir</tspan></tspan></text>
+       id="tspan1317">Avec un mouchoir</tspan></tspan></text>
+
 
 
 
@@ -1496,7 +1501,8 @@
        x="326.70609"
        y="-699.57703"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:27px;font-family:Arial;-inkscape-font-specification:Arial;stroke-width:0.75"
-       id="tspan1311">sans mouchoir</tspan></tspan></text>
+       id="tspan1311">Sans mouchoir</tspan></tspan></text>
+
 
 
 
@@ -1547,7 +1553,8 @@
        x="41.040489"
        y="-157.39914"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;line-height:1.25;font-family:Times;-inkscape-font-specification:Times;stroke-width:0.75"
-       id="tspan1343">en arme biologique.</tspan></tspan></text>
+       id="tspan1343">en arme biologique</tspan></tspan></text>
+
 
 
 
@@ -1588,6 +1595,7 @@
 
 
 
+
 <text
    xml:space="preserve"
    style="font-style:normal;font-weight:normal;font-size:30px;line-height:0.64999998;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.75"
@@ -1617,7 +1625,8 @@
        x="332.59064"
        y="-499.46759"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;line-height:1.25;font-family:Times;-inkscape-font-specification:Times;stroke-width:0.75"
-       id="tspan1375"> dans le pli de son coude.</tspan></tspan></text>
+       id="tspan1375"> dans le pli de son coude</tspan></tspan></text>
+
 
 
 
@@ -1668,7 +1677,8 @@
        x="327.21265"
        y="-155.8766"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;line-height:1.25;font-family:Times;-inkscape-font-specification:Times;stroke-width:0.75"
-       id="tspan1343-9">(mais vous le saviez déjà).</tspan></tspan></text>
+       id="tspan1343-9">(mais vous le saviez déjà)</tspan></tspan></text>
+
 
 
 
@@ -1695,6 +1705,7 @@
        y="-34.18309"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.00000095px;line-height:0.64999998;font-family:Arial;-inkscape-font-specification:Arial;fill:#999999;stroke-width:0.75"
        id="tspan1301">http://tiny.cc/sneeze-fr</tspan></tspan></text>
+
 
 </g><path
      inkscape:connector-curvature="0"
