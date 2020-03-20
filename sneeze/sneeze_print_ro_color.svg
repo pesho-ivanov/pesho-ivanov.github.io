@@ -950,11 +950,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.0074671"
-     inkscape:cx="29.475071"
-     inkscape:cy="639.40706"
+     inkscape:zoom="0.71238682"
+     inkscape:cx="200.87076"
+     inkscape:cy="561.12239"
      inkscape:document-units="mm"
-     inkscape:current-layer="g4813"
+     inkscape:current-layer="g10"
      showgrid="false"
      inkscape:window-width="2048"
      inkscape:window-height="1093"
@@ -985,7 +985,7 @@
          id="g12" />
       <g
          style="fill:#bd4628;fill-opacity:1"
-         transform="translate(15,15)"
+         transform="translate(15,7.5)"
          id="g72">
         <g
            style="fill:#bd4628;fill-opacity:1"
@@ -1005,7 +1005,7 @@
       </g>
       <g
          style="fill:#bd4628;fill-opacity:1"
-         transform="translate(15,15)"
+         transform="translate(15,7.5)"
          id="g88">
         <g
            style="fill:#bd4628;fill-opacity:1"
@@ -1025,7 +1025,7 @@
       </g>
       <g
          style="fill:#bd4628;fill-opacity:1"
-         transform="translate(15,15)"
+         transform="translate(15,7.5)"
          id="g104">
         <g
            style="fill:#bd4628;fill-opacity:1"
@@ -1045,7 +1045,7 @@
       </g>
       <g
          style="fill:#bd4628;fill-opacity:1"
-         transform="translate(15,15)"
+         transform="translate(15,7.5)"
          id="g120">
         <g
            style="fill:#bd4628;fill-opacity:1"
@@ -1065,7 +1065,7 @@
       </g>
       <g
          style="fill:#bd4628;fill-opacity:1"
-         transform="translate(15,15)"
+         transform="translate(15,7.5)"
          id="g136">
         <g
            style="fill:#bd4628;fill-opacity:1"
@@ -1085,7 +1085,7 @@
       </g>
       <g
          style="fill:#bd4628;fill-opacity:1"
-         transform="translate(9,15)"
+         transform="translate(9,7.5)"
          id="g250">
         <g
            style="fill:#bd4628;fill-opacity:1"
@@ -1105,7 +1105,7 @@
       </g>
       <g
          style="fill:#bd4628;fill-opacity:1"
-         transform="translate(9,15)"
+         transform="translate(9,7.5)"
          id="g266">
         <g
            style="fill:#bd4628;fill-opacity:1"
@@ -1125,7 +1125,7 @@
       </g>
       <g
          style="fill:#bd4628;fill-opacity:1"
-         transform="translate(9,15)"
+         transform="translate(9,7.5)"
          id="g282">
         <g
            style="fill:#bd4628;fill-opacity:1"
@@ -1145,7 +1145,7 @@
       </g>
       <g
          style="fill:#bd4628;fill-opacity:1"
-         transform="translate(9,15)"
+         transform="translate(9,7.5)"
          id="g298">
         <g
            style="fill:#bd4628;fill-opacity:1"
@@ -1165,7 +1165,7 @@
       </g>
       <g
          style="fill:#bd4628;fill-opacity:1"
-         transform="translate(9,15)"
+         transform="translate(9,7.5)"
          id="g314">
         <g
            style="fill:#bd4628;fill-opacity:1"
@@ -1185,7 +1185,7 @@
       </g>
       <g
          style="fill:#bd4628;fill-opacity:1"
-         transform="translate(9,15)"
+         transform="translate(9,7.5)"
          id="g330">
         <g
            style="fill:#bd4628;fill-opacity:1"
@@ -1205,7 +1205,7 @@
       </g>
       <g
          style="fill:#bd4628;fill-opacity:1"
-         transform="translate(9,15)"
+         transform="translate(9,7.5)"
          id="g346">
         <g
            style="fill:#bd4628;fill-opacity:1"
@@ -1225,7 +1225,7 @@
       </g>
       <g
          style="fill:#bd4628;fill-opacity:1"
-         transform="translate(9,15)"
+         transform="translate(9,7.5)"
          id="g362">
         <g
            style="fill:#bd4628;fill-opacity:1"
@@ -1245,7 +1245,7 @@
       </g>
       <g
          style="fill:#bd4628;fill-opacity:1"
-         transform="translate(9,15)"
+         transform="translate(9,7.5)"
          id="g378">
         <g
            style="fill:#bd4628;fill-opacity:1"
@@ -1265,7 +1265,7 @@
       </g>
       <g
          style="fill:#bd4628;fill-opacity:1"
-         transform="translate(9,15)"
+         transform="translate(9,7.5)"
          id="g394">
         <g
            style="fill:#bd4628;fill-opacity:1"
@@ -1285,7 +1285,7 @@
       </g>
       <g
          style="fill:#bd4628;fill-opacity:1"
-         transform="translate(9,15)"
+         transform="translate(9,7.5)"
          id="g410">
         <g
            style="fill:#bd4628;fill-opacity:1"
@@ -1305,7 +1305,7 @@
       </g>
       <g
          style="fill:#bd4628;fill-opacity:1"
-         transform="translate(9,15)"
+         transform="translate(9,7.5)"
          id="g426">
         <g
            style="fill:#bd4628;fill-opacity:1"
@@ -1325,7 +1325,7 @@
       </g>
       <g
          style="fill:#bd4628;fill-opacity:1"
-         transform="translate(9,15)"
+         transform="translate(9,7.5)"
          id="g442">
         <g
            style="fill:#bd4628;fill-opacity:1"
@@ -1345,7 +1345,7 @@
       </g>
       <g
          style="fill:#bd4628;fill-opacity:1"
-         transform="translate(9,15)"
+         transform="translate(9,7.5)"
          id="g458">
         <g
            style="fill:#bd4628;fill-opacity:1"
@@ -1365,7 +1365,7 @@
       </g>
       <g
          style="fill:#bd4628;fill-opacity:1"
-         transform="translate(9,15)"
+         transform="translate(9,7.5)"
          id="g474">
         <g
            style="fill:#bd4628;fill-opacity:1"
@@ -1385,7 +1385,7 @@
       </g>
       <g
          style="fill:#bd4628;fill-opacity:1"
-         transform="translate(9,15)"
+         transform="translate(9,7.5)"
          id="g490">
         <g
            style="fill:#bd4628;fill-opacity:1"
@@ -1405,7 +1405,7 @@
       </g>
       <g
          style="fill:#bd4628;fill-opacity:1"
-         transform="translate(9,15)"
+         transform="translate(9,7.5)"
          id="g506">
         <g
            style="fill:#bd4628;fill-opacity:1"
@@ -1425,7 +1425,7 @@
       </g>
       <g
          style="fill:#bd4628;fill-opacity:1"
-         transform="translate(9,15)"
+         transform="translate(9,7.5)"
          id="g522">
         <g
            style="fill:#bd4628;fill-opacity:1"
@@ -1445,7 +1445,7 @@
       </g>
       <g
          style="fill:#bd4628;fill-opacity:1"
-         transform="translate(9,15)"
+         transform="translate(9,7.5)"
          id="g538">
         <g
            style="fill:#bd4628;fill-opacity:1"
@@ -1465,7 +1465,7 @@
       </g>
       <g
          style="fill:#bd4628;fill-opacity:1"
-         transform="translate(9,15)"
+         transform="translate(9,7.5)"
          id="g554">
         <g
            style="fill:#bd4628;fill-opacity:1"
@@ -1485,7 +1485,7 @@
       </g>
       <g
          style="fill:#bd4628;fill-opacity:1"
-         transform="translate(9,15)"
+         transform="translate(9,7.5)"
          id="g570">
         <g
            style="fill:#bd4628;fill-opacity:1"
@@ -1504,58 +1504,56 @@
         </g>
       </g>
       <g
-         style="stroke:#bd4628;stroke-opacity:1"
-         transform="translate(-4.5,24)"
-         id="g586">
+         id="g1317"
+         transform="translate(-13.5,-7.5)">
         <g
-           style="stroke:#bd4628;stroke-opacity:1"
-           clip-path="url(#clipPath592)"
-           id="g588">
-          <g
-             style="stroke:#bd4628;stroke-opacity:1"
-             transform="matrix(1,0,0,-1,235,350)"
-             id="g660">
-            <path
-               inkscape:connector-curvature="0"
-               id="path662"
-               style="fill:none;stroke:#bd4628;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
-               d="M 0,0 24.3675,24.3675" />
-          </g>
-          <g
-             style="stroke:#bd4628;stroke-opacity:1"
-             transform="matrix(1,0,0,-1,235,350)"
-             id="g664">
-            <path
-               inkscape:connector-curvature="0"
-               id="path666"
-               style="fill:none;stroke:#bd4628;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
-               d="M 24.3675,0 0,24.3675" />
-          </g>
-          <g
-             style="stroke:#bd4628;stroke-opacity:1"
-             transform="matrix(1,0,0,-1,525,350)"
-             id="g668">
-            <path
-               inkscape:connector-curvature="0"
-               id="path670"
-               style="fill:none;stroke:#bd4628;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
-               d="M 0,0 24.3675,24.3675" />
-          </g>
-          <g
-             style="stroke:#bd4628;stroke-opacity:1"
-             transform="matrix(1,0,0,-1,525,350)"
-             id="g672">
-            <path
-               inkscape:connector-curvature="0"
-               id="path674"
-               style="fill:none;stroke:#bd4628;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
-               d="M 24.3675,0 0,24.3675" />
-          </g>
+           id="g660"
+           transform="matrix(1,0,0,-1,230.5,374)"
+           style="stroke:#bd4628;stroke-opacity:1">
+          <path
+             d="M 0,0 24.3675,24.3675"
+             style="fill:none;stroke:#bd4628;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+             id="path662"
+             inkscape:connector-curvature="0" />
+        </g>
+        <g
+           id="g664"
+           transform="matrix(1,0,0,-1,230.5,374)"
+           style="stroke:#bd4628;stroke-opacity:1">
+          <path
+             d="M 24.3675,0 0,24.3675"
+             style="fill:none;stroke:#bd4628;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+             id="path666"
+             inkscape:connector-curvature="0" />
+        </g>
+      </g>
+      <g
+         id="g1323"
+         transform="translate(-22.5,-7.5)">
+        <g
+           id="g668"
+           transform="matrix(1,0,0,-1,520.5,374)"
+           style="stroke:#bd4628;stroke-opacity:1">
+          <path
+             d="M 0,0 24.3675,24.3675"
+             style="fill:none;stroke:#bd4628;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+             id="path670"
+             inkscape:connector-curvature="0" />
+        </g>
+        <g
+           id="g672"
+           transform="matrix(1,0,0,-1,520.5,374)"
+           style="stroke:#bd4628;stroke-opacity:1">
+          <path
+             d="M 24.3675,0 0,24.3675"
+             style="fill:none;stroke:#bd4628;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+             id="path674"
+             inkscape:connector-curvature="0" />
         </g>
       </g>
       <g
          style="fill:#000000;fill-opacity:1"
-         transform="translate(6,22.5)"
+         transform="translate(6,15)"
          id="g676">
         <g
            style="fill:#000000;fill-opacity:1"
@@ -1575,7 +1573,7 @@
       </g>
       <g
          style="fill:#000000;fill-opacity:1"
-         transform="translate(6,22.5)"
+         transform="translate(6,15)"
          id="g692">
         <g
            style="fill:#000000;fill-opacity:1"
@@ -1595,7 +1593,7 @@
       </g>
       <g
          style="fill:#000000;fill-opacity:1"
-         transform="translate(6,22.5)"
+         transform="translate(6,15)"
          id="g708">
         <g
            style="fill:#000000;fill-opacity:1"
@@ -1615,7 +1613,7 @@
       </g>
       <g
          style="fill:#000000;fill-opacity:1"
-         transform="translate(6,22.5)"
+         transform="translate(6,15)"
          id="g724">
         <g
            style="fill:#000000;fill-opacity:1"
@@ -1635,7 +1633,7 @@
       </g>
       <g
          style="fill:#000000;fill-opacity:1"
-         transform="translate(6,22.5)"
+         transform="translate(6,15)"
          id="g740">
         <g
            style="fill:#000000;fill-opacity:1"
@@ -1655,7 +1653,7 @@
       </g>
       <g
          style="fill:#000000;fill-opacity:1"
-         transform="translate(6,22.5)"
+         transform="translate(6,15)"
          id="g756">
         <g
            style="fill:#000000;fill-opacity:1"
@@ -1675,7 +1673,7 @@
       </g>
       <g
          style="fill:#000000;fill-opacity:1"
-         transform="translate(6,22.5)"
+         transform="translate(6,15)"
          id="g772">
         <g
            style="fill:#000000;fill-opacity:1"
@@ -1695,7 +1693,7 @@
       </g>
       <g
          style="fill:#000000;fill-opacity:1"
-         transform="translate(6,22.5)"
+         transform="translate(6,15)"
          id="g788">
         <g
            style="fill:#000000;fill-opacity:1"
@@ -1715,7 +1713,7 @@
       </g>
       <g
          style="fill:#000000;fill-opacity:1"
-         transform="translate(6,22.5)"
+         transform="translate(6,15)"
          id="g804">
         <g
            style="fill:#000000;fill-opacity:1"
@@ -1735,7 +1733,7 @@
       </g>
       <g
          style="fill:#000000;fill-opacity:1"
-         transform="translate(6,22.5)"
+         transform="translate(6,15)"
          id="g820">
         <g
            style="fill:#000000;fill-opacity:1"
@@ -1755,7 +1753,7 @@
       </g>
       <g
          style="fill:#000000;fill-opacity:1"
-         transform="translate(6,22.5)"
+         transform="translate(6,15)"
          id="g836">
         <g
            style="fill:#000000;fill-opacity:1"
@@ -1775,7 +1773,7 @@
       </g>
       <g
          style="fill:#000000;fill-opacity:1"
-         transform="translate(6,22.5)"
+         transform="translate(6,15)"
          id="g852">
         <g
            style="fill:#000000;fill-opacity:1"
@@ -1795,7 +1793,7 @@
       </g>
       <g
          style="fill:#000000;fill-opacity:1"
-         transform="translate(6,22.5)"
+         transform="translate(6,15)"
          id="g868">
         <g
            style="fill:#000000;fill-opacity:1"
@@ -1815,7 +1813,7 @@
       </g>
       <g
          style="fill:#000000;fill-opacity:1"
-         transform="translate(6,22.5)"
+         transform="translate(6,15)"
          id="g884">
         <g
            style="fill:#000000;fill-opacity:1"
@@ -1835,7 +1833,7 @@
       </g>
       <g
          style="fill:#000000;fill-opacity:1"
-         transform="translate(7.5,22.5)"
+         transform="translate(7.5,15)"
          id="g1036">
         <g
            style="fill:#000000;fill-opacity:1"
@@ -1855,7 +1853,7 @@
       </g>
       <g
          style="fill:#000000;fill-opacity:1"
-         transform="translate(7.5,22.5)"
+         transform="translate(7.5,15)"
          id="g1052">
         <g
            style="fill:#000000;fill-opacity:1"
@@ -1875,7 +1873,7 @@
       </g>
       <g
          style="fill:#000000;fill-opacity:1"
-         transform="translate(7.5,22.5)"
+         transform="translate(7.5,15)"
          id="g1068">
         <g
            style="fill:#000000;fill-opacity:1"
@@ -1895,7 +1893,7 @@
       </g>
       <g
          style="fill:#000000;fill-opacity:1"
-         transform="translate(7.5,22.5)"
+         transform="translate(7.5,15)"
          id="g1084">
         <g
            style="fill:#000000;fill-opacity:1"
@@ -1915,7 +1913,7 @@
       </g>
       <g
          style="fill:#000000;fill-opacity:1"
-         transform="translate(7.5,22.5)"
+         transform="translate(7.5,15)"
          id="g1100">
         <g
            style="fill:#000000;fill-opacity:1"
@@ -1935,7 +1933,7 @@
       </g>
       <g
          style="fill:#000000;fill-opacity:1;stroke:#bd8e28;stroke-opacity:1"
-         transform="translate(7.5,22.5)"
+         transform="translate(7.5,15)"
          id="g1116">
         <g
            style="fill:#000000;fill-opacity:1;stroke:#bd8e28;stroke-opacity:1"
@@ -1955,7 +1953,7 @@
       </g>
       <g
          style="fill:#000000;fill-opacity:1"
-         transform="translate(7.5,22.5)"
+         transform="translate(7.5,15)"
          id="g1132">
         <g
            style="fill:#000000;fill-opacity:1"
@@ -1975,7 +1973,7 @@
       </g>
       <g
          style="fill:none;stroke:#000000;stroke-opacity:1"
-         transform="matrix(1,0,0,-1,221.58051,676.1483)"
+         transform="matrix(1,0,0,-1,216.99846,668.6483)"
          id="g1220">
         <path
            inkscape:connector-curvature="0"
@@ -1985,7 +1983,7 @@
       </g>
       <g
          style="fill:none;stroke:#000000;stroke-opacity:1"
-         transform="matrix(1,0,0,-1,541.58051,689.6483)"
+         transform="matrix(1,0,0,-1,527.99846,682.1483)"
          id="g1224">
         <path
            inkscape:connector-curvature="0"
@@ -1997,71 +1995,71 @@
          xml:space="preserve"
          style="font-style:normal;font-weight:normal;font-size:30px;line-height:0.64999998;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.75"
          x="37.055931"
-         y="-461.48849"
+         y="-453.98849"
          id="text1421"
          transform="scale(1,-1)"><tspan
            sodipodi:role="line"
            x="37.055931"
-           y="-461.48849"
+           y="-453.98849"
            id="tspan1405"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;font-family:Times;-inkscape-font-specification:Times;stroke-width:0.75"><tspan
              x="37.055931"
-             y="-461.48849"
+             y="-453.98849"
              style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;line-height:1.25;font-family:Times;-inkscape-font-specification:Times;stroke-width:0.75"
              id="tspan1401">• Strănută sau tușește în batistă, </tspan></tspan><tspan
            sodipodi:role="line"
            x="42.847923"
-           y="-415.51859"
+           y="-408.01859"
            id="tspan1413"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;font-family:Times;-inkscape-font-specification:Times;stroke-width:0.75"><tspan
              x="37.055931"
-             y="-438.50354"
+             y="-431.00354"
              style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;line-height:1.25;font-family:Times;-inkscape-font-specification:Times;fill:none;stroke-width:0.75"
              id="tspan1407">•</tspan><tspan
              x="42.847923"
-             y="-438.50354"
+             y="-431.00354"
              style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;line-height:1.25;font-family:Times;-inkscape-font-specification:Times;stroke-width:0.75"
              id="tspan1409"> arunc-o imediat,</tspan></tspan><tspan
            sodipodi:role="line"
            x="42.847923"
-           y="0"
+           y="1.5"
            id="tspan1419"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;font-family:Times;-inkscape-font-specification:Times;stroke-width:0.75"><tspan
              x="37.055931"
-             y="-415.51859"
+             y="-408.01859"
              style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;line-height:1.25;font-family:Times;-inkscape-font-specification:Times;fill:none;stroke-width:0.75"
              id="tspan1415">•</tspan><tspan
              x="42.847923"
-             y="-415.51859"
+             y="-408.01859"
              style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;line-height:1.25;font-family:Times;-inkscape-font-specification:Times;stroke-width:0.75"
              id="tspan1417"> spală-ți mâinile</tspan></tspan></text>
       <text
          xml:space="preserve"
          style="font-style:normal;font-weight:normal;font-size:30px;line-height:0.64999998;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.75"
          x="37.055931"
-         y="-517.95251"
+         y="-510.45251"
          id="text1399"
          transform="scale(1,-1)"><tspan
            sodipodi:role="line"
            x="37.055931"
-           y="-517.95251"
+           y="-510.45251"
            id="tspan1389"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;font-family:Times;-inkscape-font-specification:Times;stroke-width:0.75"><tspan
              x="37.055931"
-             y="-517.95251"
+             y="-510.45251"
              style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;line-height:1.25;font-family:Times;-inkscape-font-specification:Times;stroke-width:0.75"
              id="tspan1385">• Nu strănuta  </tspan></tspan><tspan
            sodipodi:role="line"
            x="42.847923"
-           y="0"
+           y="1.5"
            id="tspan1397"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;font-family:Times;-inkscape-font-specification:Times;stroke-width:0.75"><tspan
              x="37.055931"
-             y="-494.96759"
+             y="-487.46759"
              style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;line-height:1.25;font-family:Times;-inkscape-font-specification:Times;fill:none;stroke-width:0.75"
              id="tspan1391">•</tspan><tspan
              x="42.847923"
-             y="-494.96759"
+             y="-487.46759"
              style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;line-height:1.25;font-family:Times;-inkscape-font-specification:Times;stroke-width:0.75"
              id="tspan1393"> înainte ca batista să fie gata</tspan></tspan></text>
       <text
@@ -2069,125 +2067,125 @@
          xml:space="preserve"
          style="font-style:normal;font-weight:normal;font-size:30px;line-height:0.64999998;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.75"
          x="316.23566"
-         y="-517.48242"
+         y="-509.98242"
          id="text1421-5"><tspan
            sodipodi:role="line"
            x="316.23566"
-           y="-517.48242"
+           y="-509.98242"
            id="tspan1405-3"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;font-family:Times;-inkscape-font-specification:Times;stroke-width:0.75"><tspan
              x="316.23566"
-             y="-517.48242"
+             y="-509.98242"
              style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;line-height:1.25;font-family:Times;-inkscape-font-specification:Times;stroke-width:0.75"
              id="tspan1401-0">• Strănută sau tușește </tspan></tspan><tspan
            sodipodi:role="line"
            x="322.02765"
-           y="-468.99847"
+           y="-461.49847"
            id="tspan1413-8"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;font-family:Times;-inkscape-font-specification:Times;stroke-width:0.75"><tspan
              x="316.23566"
-             y="-494.49744"
+             y="-486.99744"
              style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;line-height:1.25;font-family:Times;-inkscape-font-specification:Times;fill:none;stroke-width:0.75"
              id="tspan1407-3">•</tspan><tspan
              x="322.02765"
-             y="-494.49744"
+             y="-486.99744"
              style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;line-height:1.25;font-family:Times;-inkscape-font-specification:Times;stroke-width:0.75"
              id="tspan1409-9"> în interiorul cotului</tspan></tspan><tspan
            sodipodi:role="line"
            x="316.23566"
-           y="-28.5"
+           y="1.5"
            id="tspan1419-0"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;font-family:Times;-inkscape-font-specification:Times;stroke-width:0.75" /></text>
       <text
          transform="scale(1,-1)"
          id="text1317"
-         y="-757.84332"
+         y="-756.34332"
          x="37.806625"
          style="font-style:normal;font-weight:normal;font-size:30px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.75"
          xml:space="preserve"><tspan
            style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Arial;-inkscape-font-specification:'Arial Bold';stroke-width:0.75"
            id="tspan1315"
-           y="-757.84332"
+           y="-756.34332"
            x="37.806625"
            sodipodi:role="line"><tspan
              id="tspan1313"
              style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:26.00000191px;font-family:Arial;-inkscape-font-specification:'Arial Bold';stroke-width:0.75"
-             y="-757.84332"
+             y="-756.34332"
              x="37.806625">Vreau să strănut! Ce ar trebui să fac?</tspan></tspan></text>
       <text
          transform="scale(1,-1)"
          id="text1323"
-         y="-695.07703"
+         y="-687.57703"
          x="36.739243"
          style="font-style:normal;font-weight:normal;font-size:30px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.75"
          xml:space="preserve"><tspan
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Arial;-inkscape-font-specification:Arial;fill:#000000;stroke-width:0.75"
            id="tspan1321"
-           y="-695.07703"
+           y="-687.57703"
            x="36.739243"
            sodipodi:role="line"><tspan
              id="tspan1319"
              style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:27px;font-family:Arial;-inkscape-font-specification:Arial;fill:#000000;stroke-width:0.75"
-             y="-695.07703"
+             y="-687.57703"
              x="36.739243">cu batistă</tspan></tspan></text>
       <text
          transform="scale(1,-1)"
          id="text1329"
-         y="-695.07703"
+         y="-687.57703"
          x="315.29242"
          style="font-style:normal;font-weight:normal;font-size:30px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.75"
          xml:space="preserve"><tspan
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Arial;-inkscape-font-specification:Arial;stroke-width:0.75"
            id="tspan1327"
-           y="-695.07703"
+           y="-687.57703"
            x="315.29242"
            sodipodi:role="line"><tspan
              id="tspan1325"
              style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:27px;font-family:Arial;-inkscape-font-specification:Arial;stroke-width:0.75"
-             y="-695.07703"
+             y="-687.57703"
              x="315.29242">fără batistă</tspan></tspan></text>
       <text
          transform="scale(1,-1)"
          id="text1383"
-         y="-222.92339"
+         y="-215.42339"
          x="38.081932"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30px;line-height:0.64999998;font-family:'EB Garamond';-inkscape-font-specification:'EB Garamond';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.75"
          xml:space="preserve"><tspan
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;font-family:Times;-inkscape-font-specification:Times;stroke-width:0.75"
            id="tspan1365"
-           y="-222.92339"
+           y="-215.42339"
            x="38.081932"
            sodipodi:role="line"><tspan
              id="tspan1361"
              style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;line-height:1.25;font-family:Times;-inkscape-font-specification:Times;stroke-width:0.75"
-             y="-222.92339"
+             y="-215.42339"
              x="38.081932">Nu-ți acoperi nasul și gura  </tspan></tspan><tspan
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;font-family:Times;-inkscape-font-specification:Times;stroke-width:0.75"
            id="tspan1371"
-           y="-199.58195"
+           y="-192.08195"
            x="38.081932"
            sodipodi:role="line"><tspan
              id="tspan1367"
              style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;line-height:1.25;font-family:Times;-inkscape-font-specification:Times;stroke-width:0.75"
-             y="-199.58195"
+             y="-192.08195"
              x="38.081932">cu mâinile goale: </tspan></tspan><tspan
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;font-family:Times;-inkscape-font-specification:Times;stroke-width:0.75"
            id="tspan1377"
-           y="-176.24055"
+           y="-168.74055"
            x="38.081932"
            sodipodi:role="line"><tspan
              id="tspan1373"
              style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;line-height:1.25;font-family:Times;-inkscape-font-specification:Times;stroke-width:0.75"
-             y="-176.24055"
+             y="-168.74055"
              x="38.081932">altfel îți vei transforma mâinile </tspan></tspan><tspan
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;font-family:Times;-inkscape-font-specification:Times;stroke-width:0.75"
            id="tspan1381"
-           y="-152.89912"
+           y="-145.39912"
            x="38.081932"
            sodipodi:role="line"><tspan
              id="tspan1379"
              style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;line-height:1.25;font-family:Times;-inkscape-font-specification:Times;stroke-width:0.75"
-             y="-152.89912"
+             y="-145.39912"
              x="38.081932">într-o armă biologică</tspan></tspan></text>
       <flowRoot
          style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
@@ -2202,18 +2200,18 @@
            id="flowPara4580" /></flowRoot>      <text
          transform="scale(1,-1)"
          id="text1427"
-         y="-64.517303"
+         y="-72.017303"
          x="37.98893"
          style="font-style:normal;font-weight:normal;font-size:13.00000095px;line-height:0.64999998;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#999999;fill-opacity:1;stroke:none;stroke-width:0.75"
          xml:space="preserve"><tspan
-           style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;font-family:Times;-inkscape-font-specification:'Times Italic';stroke-width:0.75"
+           style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:Times;-inkscape-font-specification:'Times Italic';stroke-width:0.75"
            id="tspan1425"
-           y="-64.517303"
+           y="-72.017303"
            x="37.98893"
            sodipodi:role="line"><tspan
              id="tspan1423"
-             style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:0.64999998;font-family:Times;-inkscape-font-specification:'Times Italic';fill:#666666;stroke-width:0.75"
-             y="-64.517303"
+             style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:0.64999998;font-family:Times;-inkscape-font-specification:'Times Italic';fill:#666666;stroke-width:0.75"
+             y="-72.017303"
              x="37.98893">Recomandări de la Centrul pentru Controlul și Prevenirea Bolilor, SUA</tspan></tspan></text>
       <g
          transform="translate(2.5961262)"
@@ -2248,46 +2246,46 @@
       </g>
       <text
          id="text1383-6"
-         y="-223.58873"
+         y="-216.08873"
          x="316.75766"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30px;line-height:0.64999998;font-family:'EB Garamond';-inkscape-font-specification:'EB Garamond';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.75"
          xml:space="preserve"
          transform="scale(1,-1)"><tspan
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;font-family:Times;-inkscape-font-specification:Times;stroke-width:0.75"
            id="tspan1365-0"
-           y="-223.58873"
+           y="-216.08873"
            x="316.75766"
            sodipodi:role="line"><tspan
              id="tspan1361-1"
              style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;line-height:1.25;font-family:Times;-inkscape-font-specification:Times;stroke-width:0.75"
-             y="-223.58873"
+             y="-216.08873"
              x="316.75766">Nu e bine să strănuți   </tspan></tspan><tspan
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;font-family:Times;-inkscape-font-specification:Times;stroke-width:0.75"
            id="tspan1371-5"
-           y="-200.2473"
+           y="-192.7473"
            x="316.75766"
            sodipodi:role="line"><tspan
              id="tspan1367-9"
              style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;line-height:1.25;font-family:Times;-inkscape-font-specification:Times;stroke-width:0.75"
-             y="-200.2473"
+             y="-192.7473"
              x="316.75766">sau să tușești </tspan></tspan><tspan
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;font-family:Times;-inkscape-font-specification:Times;stroke-width:0.75"
            id="tspan1377-9"
-           y="-176.90587"
+           y="-169.40587"
            x="316.75766"
            sodipodi:role="line"><tspan
              id="tspan1373-4"
              style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;line-height:1.25;font-family:Times;-inkscape-font-specification:Times;stroke-width:0.75"
-             y="-176.90587"
+             y="-169.40587"
              x="316.75766">fără să-ți acoperi fața  </tspan></tspan><tspan
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;font-family:Times;-inkscape-font-specification:Times;stroke-width:0.75"
            id="tspan1381-0"
-           y="-153.56444"
+           y="-146.06444"
            x="316.75766"
            sodipodi:role="line"><tspan
              id="tspan1379-1"
              style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;line-height:1.25;font-family:Times;-inkscape-font-specification:Times;stroke-width:0.75"
-             y="-153.56444"
+             y="-146.06444"
              x="316.75766">(știi asta deja)</tspan></tspan></text>
     </g>
   </g>
