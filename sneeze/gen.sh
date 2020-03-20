@@ -1,5 +1,10 @@
 set -o xtrace
 
+if [ ! -f "$1_color.svg" ]; then
+	echo "$1_color.svg does not exist"
+	return 0
+fi
+
 # Color
 #convert $1_color.svg $1_color.pdf  # rasterize
 #cairosvg $1_color.svg -o $1_color.pdf  # remains vector; brakes fonts
