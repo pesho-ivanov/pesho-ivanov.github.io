@@ -659,9 +659,9 @@
      inkscape:window-height="1093"
      id="namedview4"
      showgrid="false"
-     inkscape:zoom="0.75835013"
-     inkscape:cx="201.30319"
-     inkscape:cy="600.38805"
+     inkscape:zoom="0.67762731"
+     inkscape:cx="262.34986"
+     inkscape:cy="734.58792"
      inkscape:window-x="0"
      inkscape:window-y="25"
      inkscape:window-maximized="1"
@@ -1390,6 +1390,7 @@
        y="-384.01859"
        x="48.847923"> жəне қолыңызды жуыңыз</tspan></tspan></text>
 
+
 <text
    transform="scale(1,-1)"
    id="text1399"
@@ -1420,6 +1421,7 @@
        y="-463.46759"
        x="48.847923"> өзіңізді ұстаңыз</tspan></tspan></text>
 
+
 <text
    xml:space="preserve"
    style="font-style:normal;font-weight:normal;font-size:30px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.75"
@@ -1446,6 +1448,7 @@
 
 
 
+
 <text
    xml:space="preserve"
    style="font-style:normal;font-weight:normal;font-size:30px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.75"
@@ -1457,11 +1460,12 @@
      x="42.739243"
      y="-660.57703"
      id="tspan1321"
-     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:19px;font-family:Arial;-inkscape-font-specification:Arial;fill:#000000;stroke-width:0.75"><tspan
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.00000055px;font-family:Arial;-inkscape-font-specification:Arial;fill:#000000;stroke-width:0.75"><tspan
        x="42.739243"
        y="-660.57703"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:19px;font-family:Arial;-inkscape-font-specification:Arial;fill:#000000;stroke-width:0.75"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.00000055px;font-family:Arial;-inkscape-font-specification:Arial;fill:#000000;stroke-width:0.75"
        id="tspan1319">Қол орамал бар</tspan></tspan></text>
+
 
 
 
@@ -1483,11 +1487,12 @@
      x="321.29242"
      y="-660.57703"
      id="tspan1327"
-     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:19px;font-family:Arial;-inkscape-font-specification:Arial;stroke-width:0.75"><tspan
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.00000055px;font-family:Arial;-inkscape-font-specification:Arial;stroke-width:0.75"><tspan
        x="321.29242"
        y="-660.57703"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:19px;font-family:Arial;-inkscape-font-specification:Arial;stroke-width:0.75"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.00000055px;font-family:Arial;-inkscape-font-specification:Arial;stroke-width:0.75"
        id="tspan1325">Қол орамал жоқ</tspan></tspan></text>
+
 
 
 
@@ -1551,6 +1556,7 @@
 
 
 
+
 <flowRoot
    xml:space="preserve"
    id="flowRoot4574"
@@ -1587,6 +1593,7 @@
 
 
 
+
 <g
    id="g527"
    transform="translate(8.5961262,-4.5)"
@@ -1609,6 +1616,7 @@
        y="-34.18309"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.00000095px;line-height:0.64999998;font-family:Arial;-inkscape-font-specification:Arial;fill:#999999;stroke-width:0.75"
        id="tspan1301">http://tiny.cc/sneeze-kaz</tspan></tspan></text>
+
 
 
 
@@ -1660,6 +1668,7 @@
        y="-440.4826"
        x="327.54611"> ішкі жағымен бөгеңіз</tspan></tspan></text>
 
+
 <text
    xml:space="preserve"
    style="font-style:normal;font-weight:normal;font-size:30px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.75"
@@ -1675,7 +1684,8 @@
        x="41.838852"
        y="-711.5448"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:26.00000191px;font-family:Arial;-inkscape-font-specification:'Arial Bold';stroke-width:0.75"
-       id="tspan1313-9">Мен Не істеу керек?</tspan></tspan></text>
+       id="tspan1313-9">Не істеу керек?</tspan></tspan></text>
+
 
 <text
    xml:space="preserve"
@@ -1701,7 +1711,7 @@
        x="322.81613"
        y="-166.9384"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;line-height:1.25;font-family:Times;-inkscape-font-specification:Times;stroke-width:0.75"
-       id="tspan1349-7">жөтелу - жаман</tspan></tspan><tspan
+       id="tspan1349-7">жөтелу — жаман</tspan></tspan><tspan
      sodipodi:role="line"
      x="322.81613"
      y="-143.95348"
@@ -1714,4 +1724,15 @@
 
 
 
-</g></svg>
+
+<flowRoot
+   xml:space="preserve"
+   id="flowRoot495"
+   style="fill:black;fill-opacity:1;stroke:none;font-family:sans-serif;font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;letter-spacing:0px;word-spacing:0px"><flowRegion
+     id="flowRegion497"><rect
+       id="rect499"
+       width="39.84491"
+       height="197.74881"
+       x="777.71362"
+       y="111.7866" /></flowRegion><flowPara
+     id="flowPara501"></flowPara></flowRoot></g></svg>
