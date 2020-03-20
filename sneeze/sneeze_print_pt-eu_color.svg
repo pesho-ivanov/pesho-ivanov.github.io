@@ -950,9 +950,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.01"
-     inkscape:cx="504.45544"
-     inkscape:cy="959.21204"
+     inkscape:zoom="0.71417785"
+     inkscape:cx="246.12953"
+     inkscape:cy="568.95442"
      inkscape:document-units="mm"
      inkscape:current-layer="g10"
      showgrid="false"
@@ -985,8 +985,8 @@
          id="g12" />
       <g
          style="fill:#bd4628;fill-opacity:1"
-         transform="translate(0,19.5)"
-         id="g72">
+         id="g72"
+         transform="translate(21,-3)">
         <g
            style="fill:#bd4628;fill-opacity:1"
            clip-path="url(#clipPath78)"
@@ -1005,8 +1005,8 @@
       </g>
       <g
          style="fill:#bd4628;fill-opacity:1"
-         transform="translate(0,19.5)"
-         id="g88">
+         id="g88"
+         transform="translate(21,-3)">
         <g
            style="fill:#bd4628;fill-opacity:1"
            clip-path="url(#clipPath94)"
@@ -1025,8 +1025,8 @@
       </g>
       <g
          style="fill:#bd4628;fill-opacity:1"
-         transform="translate(0,19.5)"
-         id="g104">
+         id="g104"
+         transform="translate(21,-3)">
         <g
            style="fill:#bd4628;fill-opacity:1"
            clip-path="url(#clipPath110)"
@@ -1045,8 +1045,8 @@
       </g>
       <g
          style="fill:#bd4628;fill-opacity:1"
-         transform="translate(0,19.5)"
-         id="g120">
+         id="g120"
+         transform="translate(21,-3)">
         <g
            style="fill:#bd4628;fill-opacity:1"
            clip-path="url(#clipPath126)"
@@ -1065,8 +1065,8 @@
       </g>
       <g
          style="fill:#bd4628;fill-opacity:1"
-         transform="translate(0,19.5)"
-         id="g136">
+         id="g136"
+         transform="translate(21,-3)">
         <g
            style="fill:#bd4628;fill-opacity:1"
            clip-path="url(#clipPath142)"
@@ -1085,8 +1085,8 @@
       </g>
       <g
          style="fill:#bd4628;fill-opacity:1"
-         transform="translate(0,19.5)"
-         id="g250">
+         id="g250"
+         transform="translate(13.5,-3)">
         <g
            style="fill:#bd4628;fill-opacity:1"
            clip-path="url(#clipPath256)"
@@ -1105,8 +1105,8 @@
       </g>
       <g
          style="fill:#bd4628;fill-opacity:1"
-         transform="translate(0,19.5)"
-         id="g266">
+         id="g266"
+         transform="translate(13.5,-3)">
         <g
            style="fill:#bd4628;fill-opacity:1"
            clip-path="url(#clipPath272)"
@@ -1125,8 +1125,8 @@
       </g>
       <g
          style="fill:#bd4628;fill-opacity:1"
-         transform="translate(0,19.5)"
-         id="g282">
+         id="g282"
+         transform="translate(13.5,-3)">
         <g
            style="fill:#bd4628;fill-opacity:1"
            clip-path="url(#clipPath288)"
@@ -1145,8 +1145,8 @@
       </g>
       <g
          style="fill:#bd4628;fill-opacity:1"
-         transform="translate(0,19.5)"
-         id="g298">
+         id="g298"
+         transform="translate(13.5,-3)">
         <g
            style="fill:#bd4628;fill-opacity:1"
            clip-path="url(#clipPath304)"
@@ -1165,8 +1165,8 @@
       </g>
       <g
          style="fill:#bd4628;fill-opacity:1"
-         transform="translate(0,19.5)"
-         id="g314">
+         id="g314"
+         transform="translate(13.5,-3)">
         <g
            style="fill:#bd4628;fill-opacity:1"
            clip-path="url(#clipPath320)"
@@ -1185,8 +1185,8 @@
       </g>
       <g
          style="fill:#bd4628;fill-opacity:1"
-         transform="translate(0,19.5)"
-         id="g330">
+         id="g330"
+         transform="translate(13.5,-3)">
         <g
            style="fill:#bd4628;fill-opacity:1"
            clip-path="url(#clipPath336)"
@@ -1205,8 +1205,8 @@
       </g>
       <g
          style="fill:#bd4628;fill-opacity:1"
-         transform="translate(0,19.5)"
-         id="g346">
+         id="g346"
+         transform="translate(13.5,-3)">
         <g
            style="fill:#bd4628;fill-opacity:1"
            clip-path="url(#clipPath352)"
@@ -1225,8 +1225,8 @@
       </g>
       <g
          style="fill:#bd4628;fill-opacity:1"
-         transform="translate(0,19.5)"
-         id="g362">
+         id="g362"
+         transform="translate(13.5,-3)">
         <g
            style="fill:#bd4628;fill-opacity:1"
            clip-path="url(#clipPath368)"
@@ -1245,8 +1245,8 @@
       </g>
       <g
          style="fill:#bd4628;fill-opacity:1"
-         transform="translate(0,19.5)"
-         id="g378">
+         id="g378"
+         transform="translate(13.5,-3)">
         <g
            style="fill:#bd4628;fill-opacity:1"
            clip-path="url(#clipPath384)"
@@ -1265,8 +1265,8 @@
       </g>
       <g
          style="fill:#bd4628;fill-opacity:1"
-         transform="translate(0,19.5)"
-         id="g394">
+         id="g394"
+         transform="translate(13.5,-3)">
         <g
            style="fill:#bd4628;fill-opacity:1"
            clip-path="url(#clipPath400)"
@@ -1285,8 +1285,8 @@
       </g>
       <g
          style="fill:#bd4628;fill-opacity:1"
-         transform="translate(0,19.5)"
-         id="g410">
+         id="g410"
+         transform="translate(13.5,-3)">
         <g
            style="fill:#bd4628;fill-opacity:1"
            clip-path="url(#clipPath416)"
@@ -1305,8 +1305,8 @@
       </g>
       <g
          style="fill:#bd4628;fill-opacity:1"
-         transform="translate(0,19.5)"
-         id="g426">
+         id="g426"
+         transform="translate(13.5,-3)">
         <g
            style="fill:#bd4628;fill-opacity:1"
            clip-path="url(#clipPath432)"
@@ -1325,8 +1325,8 @@
       </g>
       <g
          style="fill:#bd4628;fill-opacity:1"
-         transform="translate(0,19.5)"
-         id="g442">
+         id="g442"
+         transform="translate(13.5,-3)">
         <g
            style="fill:#bd4628;fill-opacity:1"
            clip-path="url(#clipPath448)"
@@ -1345,8 +1345,8 @@
       </g>
       <g
          style="fill:#bd4628;fill-opacity:1"
-         transform="translate(0,19.5)"
-         id="g458">
+         id="g458"
+         transform="translate(13.5,-3)">
         <g
            style="fill:#bd4628;fill-opacity:1"
            clip-path="url(#clipPath464)"
@@ -1365,8 +1365,8 @@
       </g>
       <g
          style="fill:#bd4628;fill-opacity:1"
-         transform="translate(0,19.5)"
-         id="g474">
+         id="g474"
+         transform="translate(13.5,-3)">
         <g
            style="fill:#bd4628;fill-opacity:1"
            clip-path="url(#clipPath480)"
@@ -1385,8 +1385,8 @@
       </g>
       <g
          style="fill:#bd4628;fill-opacity:1"
-         transform="translate(0,19.5)"
-         id="g490">
+         id="g490"
+         transform="translate(13.5,-3)">
         <g
            style="fill:#bd4628;fill-opacity:1"
            clip-path="url(#clipPath496)"
@@ -1405,8 +1405,8 @@
       </g>
       <g
          style="fill:#bd4628;fill-opacity:1"
-         transform="translate(0,19.5)"
-         id="g506">
+         id="g506"
+         transform="translate(13.5,-3)">
         <g
            style="fill:#bd4628;fill-opacity:1"
            clip-path="url(#clipPath512)"
@@ -1425,8 +1425,8 @@
       </g>
       <g
          style="fill:#bd4628;fill-opacity:1"
-         transform="translate(0,19.5)"
-         id="g522">
+         id="g522"
+         transform="translate(13.5,-3)">
         <g
            style="fill:#bd4628;fill-opacity:1"
            clip-path="url(#clipPath528)"
@@ -1445,8 +1445,8 @@
       </g>
       <g
          style="fill:#bd4628;fill-opacity:1"
-         transform="translate(0,19.5)"
-         id="g538">
+         id="g538"
+         transform="translate(13.5,-3)">
         <g
            style="fill:#bd4628;fill-opacity:1"
            clip-path="url(#clipPath544)"
@@ -1465,8 +1465,8 @@
       </g>
       <g
          style="fill:#bd4628;fill-opacity:1"
-         transform="translate(0,19.5)"
-         id="g554">
+         id="g554"
+         transform="translate(13.5,-3)">
         <g
            style="fill:#bd4628;fill-opacity:1"
            clip-path="url(#clipPath560)"
@@ -1485,8 +1485,8 @@
       </g>
       <g
          style="fill:#bd4628;fill-opacity:1"
-         transform="translate(0,19.5)"
-         id="g570">
+         id="g570"
+         transform="translate(13.5,-3)">
         <g
            style="fill:#bd4628;fill-opacity:1"
            clip-path="url(#clipPath576)"
@@ -1504,58 +1504,56 @@
         </g>
       </g>
       <g
-         style="stroke:#bd4628;stroke-opacity:1"
-         transform="translate(-4.5,28.5)"
-         id="g586">
+         id="g1351"
+         transform="translate(9)">
         <g
-           style="stroke:#bd4628;stroke-opacity:1"
-           clip-path="url(#clipPath592)"
-           id="g588">
-          <g
-             style="stroke:#bd4628;stroke-opacity:1"
-             transform="matrix(1,0,0,-1,235,350)"
-             id="g660">
-            <path
-               inkscape:connector-curvature="0"
-               id="path662"
-               style="fill:none;stroke:#bd4628;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
-               d="M 0,0 24.3675,24.3675" />
-          </g>
-          <g
-             style="stroke:#bd4628;stroke-opacity:1"
-             transform="matrix(1,0,0,-1,235,350)"
-             id="g664">
-            <path
-               inkscape:connector-curvature="0"
-               id="path666"
-               style="fill:none;stroke:#bd4628;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
-               d="M 24.3675,0 0,24.3675" />
-          </g>
-          <g
-             style="stroke:#bd4628;stroke-opacity:1"
-             transform="matrix(1,0,0,-1,525,350)"
-             id="g668">
-            <path
-               inkscape:connector-curvature="0"
-               id="path670"
-               style="fill:none;stroke:#bd4628;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
-               d="M 0,0 24.3675,24.3675" />
-          </g>
-          <g
-             style="stroke:#bd4628;stroke-opacity:1"
-             transform="matrix(1,0,0,-1,525,350)"
-             id="g672">
-            <path
-               inkscape:connector-curvature="0"
-               id="path674"
-               style="fill:none;stroke:#bd4628;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
-               d="M 24.3675,0 0,24.3675" />
-          </g>
+           id="g660"
+           transform="matrix(1,0,0,-1,230.5,356)"
+           style="stroke:#bd4628;stroke-opacity:1">
+          <path
+             d="M 0,0 24.3675,24.3675"
+             style="fill:none;stroke:#bd4628;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+             id="path662"
+             inkscape:connector-curvature="0" />
+        </g>
+        <g
+           id="g664"
+           transform="matrix(1,0,0,-1,230.5,356)"
+           style="stroke:#bd4628;stroke-opacity:1">
+          <path
+             d="M 24.3675,0 0,24.3675"
+             style="fill:none;stroke:#bd4628;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+             id="path666"
+             inkscape:connector-curvature="0" />
+        </g>
+      </g>
+      <g
+         id="g1345"
+         transform="translate(-12)">
+        <g
+           id="g668"
+           transform="matrix(1,0,0,-1,520.5,356)"
+           style="stroke:#bd4628;stroke-opacity:1">
+          <path
+             d="M 0,0 24.3675,24.3675"
+             style="fill:none;stroke:#bd4628;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+             id="path670"
+             inkscape:connector-curvature="0" />
+        </g>
+        <g
+           id="g672"
+           transform="matrix(1,0,0,-1,520.5,356)"
+           style="stroke:#bd4628;stroke-opacity:1">
+          <path
+             d="M 24.3675,0 0,24.3675"
+             style="fill:none;stroke:#bd4628;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+             id="path674"
+             inkscape:connector-curvature="0" />
         </g>
       </g>
       <g
          style="fill:#000000;fill-opacity:1;stroke:#bd8e28;stroke-opacity:1"
-         transform="translate(0,27)"
+         transform="translate(21,10.5)"
          id="g676">
         <g
            style="fill:#000000;fill-opacity:1;stroke:#bd8e28;stroke-opacity:1"
@@ -1575,7 +1573,7 @@
       </g>
       <g
          style="fill:#000000;fill-opacity:1;stroke:#bd8e28;stroke-opacity:1"
-         transform="translate(0,27)"
+         transform="translate(21,10.5)"
          id="g692">
         <g
            style="fill:#000000;fill-opacity:1;stroke:#bd8e28;stroke-opacity:1"
@@ -1595,7 +1593,7 @@
       </g>
       <g
          style="fill:#000000;fill-opacity:1;stroke:#bd8e28;stroke-opacity:1"
-         transform="translate(0,27)"
+         transform="translate(21,10.5)"
          id="g708">
         <g
            style="fill:#000000;fill-opacity:1;stroke:#bd8e28;stroke-opacity:1"
@@ -1615,7 +1613,7 @@
       </g>
       <g
          style="fill:#000000;fill-opacity:1;stroke:#bd8e28;stroke-opacity:1"
-         transform="translate(0,27)"
+         transform="translate(21,10.5)"
          id="g724">
         <g
            style="fill:#000000;fill-opacity:1;stroke:#bd8e28;stroke-opacity:1"
@@ -1635,7 +1633,7 @@
       </g>
       <g
          style="fill:#000000;fill-opacity:1;stroke:#bd8e28;stroke-opacity:1"
-         transform="translate(0,27)"
+         transform="translate(21,10.5)"
          id="g740">
         <g
            style="fill:#000000;fill-opacity:1;stroke:#bd8e28;stroke-opacity:1"
@@ -1655,7 +1653,7 @@
       </g>
       <g
          style="fill:#000000;fill-opacity:1;stroke:#bd8e28;stroke-opacity:1"
-         transform="translate(0,27)"
+         transform="translate(21,10.5)"
          id="g756">
         <g
            style="fill:#000000;fill-opacity:1;stroke:#bd8e28;stroke-opacity:1"
@@ -1675,7 +1673,7 @@
       </g>
       <g
          style="fill:#000000;fill-opacity:1;stroke:#bd8e28;stroke-opacity:1"
-         transform="translate(0,27)"
+         transform="translate(21,10.5)"
          id="g772">
         <g
            style="fill:#000000;fill-opacity:1;stroke:#bd8e28;stroke-opacity:1"
@@ -1695,7 +1693,7 @@
       </g>
       <g
          style="fill:#000000;fill-opacity:1;stroke:#bd8e28;stroke-opacity:1"
-         transform="translate(0,27)"
+         transform="translate(21,10.5)"
          id="g788">
         <g
            style="fill:#000000;fill-opacity:1;stroke:#bd8e28;stroke-opacity:1"
@@ -1715,7 +1713,7 @@
       </g>
       <g
          style="fill:#000000;fill-opacity:1;stroke:#bd8e28;stroke-opacity:1"
-         transform="translate(0,27)"
+         transform="translate(21,10.5)"
          id="g804">
         <g
            style="fill:#000000;fill-opacity:1;stroke:#bd8e28;stroke-opacity:1"
@@ -1735,7 +1733,7 @@
       </g>
       <g
          style="fill:#000000;fill-opacity:1;stroke:#bd8e28;stroke-opacity:1"
-         transform="translate(0,27)"
+         transform="translate(21,10.5)"
          id="g820">
         <g
            style="fill:#000000;fill-opacity:1;stroke:#bd8e28;stroke-opacity:1"
@@ -1755,7 +1753,7 @@
       </g>
       <g
          style="fill:#000000;fill-opacity:1;stroke:#bd8e28;stroke-opacity:1"
-         transform="translate(0,27)"
+         transform="translate(21,10.5)"
          id="g836">
         <g
            style="fill:#000000;fill-opacity:1;stroke:#bd8e28;stroke-opacity:1"
@@ -1775,7 +1773,7 @@
       </g>
       <g
          style="fill:#bd8e28;fill-opacity:1"
-         transform="translate(0,27)"
+         transform="translate(21,10.5)"
          id="g852">
         <g
            style="fill:#bd8e28;fill-opacity:1"
@@ -1795,7 +1793,7 @@
       </g>
       <g
          style="fill:#000000;fill-opacity:1;stroke:#bd8e28;stroke-opacity:1"
-         transform="translate(0,27)"
+         transform="translate(21,10.5)"
          id="g868">
         <g
            style="fill:#000000;fill-opacity:1;stroke:#bd8e28;stroke-opacity:1"
@@ -1815,7 +1813,7 @@
       </g>
       <g
          style="fill:#000000;fill-opacity:1;stroke:#bd8e28;stroke-opacity:1"
-         transform="translate(0,27)"
+         transform="translate(21,10.5)"
          id="g884">
         <g
            style="fill:#000000;fill-opacity:1;stroke:#bd8e28;stroke-opacity:1"
@@ -1835,7 +1833,7 @@
       </g>
       <g
          style="fill:#000000;fill-opacity:1;stroke:#bd8e28;stroke-opacity:1"
-         transform="translate(0,27)"
+         transform="translate(13.5,10.5)"
          id="g1036">
         <g
            style="fill:#000000;fill-opacity:1;stroke:#bd8e28;stroke-opacity:1"
@@ -1855,7 +1853,7 @@
       </g>
       <g
          style="fill:#000000;fill-opacity:1;stroke:#bd8e28;stroke-opacity:1"
-         transform="translate(0,27)"
+         transform="translate(13.5,10.5)"
          id="g1052">
         <g
            style="fill:#000000;fill-opacity:1;stroke:#bd8e28;stroke-opacity:1"
@@ -1875,7 +1873,7 @@
       </g>
       <g
          style="fill:#000000;fill-opacity:1;stroke:#bd8e28;stroke-opacity:1"
-         transform="translate(0,27)"
+         transform="translate(13.5,10.5)"
          id="g1068">
         <g
            style="fill:#000000;fill-opacity:1;stroke:#bd8e28;stroke-opacity:1"
@@ -1895,7 +1893,7 @@
       </g>
       <g
          style="fill:#000000;fill-opacity:1;stroke:#bd8e28;stroke-opacity:1"
-         transform="translate(0,27)"
+         transform="translate(13.5,10.5)"
          id="g1084">
         <g
            style="fill:#000000;fill-opacity:1;stroke:#bd8e28;stroke-opacity:1"
@@ -1915,7 +1913,7 @@
       </g>
       <g
          style="fill:#000000;fill-opacity:1;stroke:#bd8e28;stroke-opacity:1"
-         transform="translate(0,27)"
+         transform="translate(13.5,10.5)"
          id="g1100">
         <g
            style="fill:#000000;fill-opacity:1;stroke:#bd8e28;stroke-opacity:1"
@@ -1935,7 +1933,7 @@
       </g>
       <g
          style="fill:#000000;fill-opacity:1;stroke:#bd8e28;stroke-opacity:1"
-         transform="translate(0,27)"
+         transform="translate(13.5,10.5)"
          id="g1116">
         <g
            style="fill:#000000;fill-opacity:1;stroke:#bd8e28;stroke-opacity:1"
@@ -1955,7 +1953,7 @@
       </g>
       <g
          style="fill:#000000;fill-opacity:1;stroke:#bd8e28;stroke-opacity:1"
-         transform="translate(0,27)"
+         transform="translate(13.5,10.5)"
          id="g1132">
         <g
            style="fill:#000000;fill-opacity:1;stroke:#bd8e28;stroke-opacity:1"
@@ -1974,63 +1972,63 @@
         </g>
       </g>
       <g
-         style="stroke:#000000;stroke-opacity:1;fill:none;fill-opacity:1"
-         transform="matrix(1,0,0,-1,221.58051,680.6483)"
+         style="fill:none;fill-opacity:1;stroke:#000000;stroke-opacity:1"
+         transform="matrix(1,0,0,-1,239.49846,664.1483)"
          id="g1220">
         <path
            inkscape:connector-curvature="0"
            id="path1222"
-           style="fill:none;stroke:#000000;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1;fill-opacity:1"
+           style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
            d="M 25,0 9.543313,20 0,8.923077" />
       </g>
       <g
-         transform="matrix(1,0,0,-1,541.58051,694.1483)"
+         transform="matrix(1,0,0,-1,538.49846,677.6483)"
          id="g1224"
          style="fill:#000000;fill-opacity:1;stroke:#bd8e28;stroke-opacity:1">
         <path
            inkscape:connector-curvature="0"
            id="path1226"
-           style="opacity:1;fill:none;stroke:#000000;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1;fill-opacity:1"
+           style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
            d="M -5.0000001,13.5 -20.456687,33.5 -30,22.423077" />
       </g>
       <text
          transform="scale(1,-1)"
          id="text1350"
-         y="-228.27203"
-         x="311.76361"
+         y="-205.77203"
+         x="325.26361"
          style="font-style:normal;font-weight:normal;font-size:30px;line-height:0.64999998;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.75"
          xml:space="preserve"><tspan
-           style="stroke-width:0.75"
+           style="font-size:18px;stroke-width:0.75"
            id="tspan1338"
-           y="-228.27203"
-           x="311.76361"
+           y="-205.77203"
+           x="325.26361"
            sodipodi:role="line"><tspan
              id="tspan1334"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.00000191px;line-height:1.25;font-family:'Times';-inkscape-font-specification:'Times';stroke-width:0.75"
-             y="-228.27203"
-             x="311.76361"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;line-height:1.25;font-family:Times;-inkscape-font-specification:Times;stroke-width:0.75"
+             y="-205.77203"
+             x="325.26361"
              dx="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0">Espirrar ou tossir </tspan></tspan><tspan
-           style="stroke-width:0.75"
+           style="font-size:18px;stroke-width:0.75"
            id="tspan1344"
-           y="-205.28708"
-           x="311.76361"
+           y="-182.78708"
+           x="325.26361"
            sodipodi:role="line"><tspan
              id="tspan1340"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.00000191px;line-height:1.25;font-family:'Times';-inkscape-font-specification:'Times';stroke-width:0.75"
-             y="-205.28708"
-             x="311.76361"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;line-height:1.25;font-family:Times;-inkscape-font-specification:Times;stroke-width:0.75"
+             y="-182.78708"
+             x="325.26361"
              dx="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0">desprotegidamente é mau</tspan></tspan><tspan
-           style="stroke-width:0.75"
-           y="-182.30212"
-           x="311.76361"
+           style="font-size:18px;stroke-width:0.75"
+           y="-159.80212"
+           x="325.26361"
            sodipodi:role="line"
            id="tspan4725"><tspan
              id="tspan1346"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.00000191px;line-height:1.25;font-family:'Times';-inkscape-font-specification:'Times';stroke-width:0.75"
-             y="-182.30212"
-             x="311.76361">(já sabes isso)</tspan></tspan></text>
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;line-height:1.25;font-family:Times;-inkscape-font-specification:Times;stroke-width:0.75"
+             y="-159.80212"
+             x="325.26361">(já sabes isso)</tspan></tspan></text>
       <g
-         transform="translate(12,33)"
+         transform="translate(33,16.5)"
          id="g4704">
         <text
            transform="scale(1,-1)"
@@ -2039,55 +2037,55 @@
            x="16.518488"
            style="font-style:normal;font-weight:normal;font-size:30px;line-height:0.64999998;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.75"
            xml:space="preserve"><tspan
-             style="stroke-width:0.75"
+             style="font-size:18px;stroke-width:0.75"
              id="tspan1382"
              y="-432.98849"
              x="16.518488"
              sodipodi:role="line"><tspan
                id="tspan1378"
-               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:1.25;font-family:'Times';-inkscape-font-specification:'Times';stroke-width:0.75"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;line-height:1.25;font-family:Times;-inkscape-font-specification:Times;stroke-width:0.75"
                y="-432.98849"
                x="16.518488"
                dx="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0">• Espirra ou tosse sempre</tspan></tspan><tspan
-             style="stroke-width:0.75"
+             style="font-size:18px;stroke-width:0.75"
              id="tspan1390"
              y="-387.01859"
              x="22.310482"
              sodipodi:role="line"><tspan
                id="tspan1384"
-               style="fill:none;stroke-width:0.75"
+               style="font-size:18px;fill:none;stroke-width:0.75"
                y="-410.00354"
                x="16.518488">•</tspan><tspan
                id="tspan1386"
-               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:1.25;font-family:'Times';-inkscape-font-specification:'Times';stroke-width:0.75"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;line-height:1.25;font-family:Times;-inkscape-font-specification:Times;stroke-width:0.75"
                y="-410.00354"
                x="22.310482"
                dx="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0"> para um lenço,</tspan></tspan><tspan
-             style="stroke-width:0.75"
+             style="font-size:18px;stroke-width:0.75"
              id="tspan1398"
              y="0"
              x="22.310482"
              sodipodi:role="line"><tspan
                id="tspan1392"
-               style="fill:none;stroke-width:0.75"
+               style="font-size:18px;fill:none;stroke-width:0.75"
                y="-387.01859"
                x="16.518488">•</tspan><tspan
                id="tspan1394"
-               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:1.25;font-family:'Times';-inkscape-font-specification:'Times';stroke-width:0.75"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;line-height:1.25;font-family:Times;-inkscape-font-specification:Times;stroke-width:0.75"
                y="-387.01859"
                x="22.310482"
                dx="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0"> deita-o fora imediatamente</tspan></tspan><tspan
-             style="stroke-width:0.75"
+             style="font-size:18px;stroke-width:0.75"
              id="tspan1404"
-             y="5.7420816"
+             y="0"
              x="26.470455"
              sodipodi:role="line"><tspan
                id="tspan1400"
-               style="fill:none;stroke-width:0.75"
+               style="font-size:18px;fill:none;stroke-width:0.75"
                y="-364.03363"
                x="16.518488">•       </tspan><tspan
                id="tspan1402"
-               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:1.25;font-family:'Times';-inkscape-font-specification:'Times';stroke-width:0.75"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;line-height:1.25;font-family:Times;-inkscape-font-specification:Times;stroke-width:0.75"
                y="-364.03363"
                x="26.470455">e lava bem as mãos</tspan></tspan></text>
         <text
@@ -2097,118 +2095,118 @@
            x="16.518488"
            style="font-style:normal;font-weight:normal;font-size:30px;line-height:0.64999998;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.75"
            xml:space="preserve"><tspan
-             style="stroke-width:0.75"
+             style="font-size:18px;stroke-width:0.75"
              id="tspan1412"
              y="-489.45255"
              x="16.518488"
              sodipodi:role="line"><tspan
                id="tspan1408"
-               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:1.25;font-family:'Times';-inkscape-font-specification:'Times';stroke-width:0.75"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;line-height:1.25;font-family:Times;-inkscape-font-specification:Times;stroke-width:0.75"
                y="-489.45255"
                x="16.518488"
                dx="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0">• Não espirres até teres</tspan></tspan><tspan
-             style="stroke-width:0.75"
+             style="font-size:18px;stroke-width:0.75"
              id="tspan1418"
              y="0"
              x="22.310482"
              sodipodi:role="line"><tspan
                id="tspan1414"
-               style="fill:none;stroke-width:0.75"
+               style="font-size:18px;fill:none;stroke-width:0.75"
                y="-466.46759"
                x="16.518488">•</tspan><tspan
                id="tspan1416"
-               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:1.25;font-family:'Times';-inkscape-font-specification:'Times';stroke-width:0.75"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;line-height:1.25;font-family:Times;-inkscape-font-specification:Times;stroke-width:0.75"
                y="-466.46759"
                x="22.310482"> o lenço pronto a usar</tspan></tspan></text>
       </g>
       <text
          transform="scale(1,-1)"
          id="text1306"
-         y="-762.34332"
-         x="28.706926"
+         y="-739.84332"
+         x="50.269184"
          style="font-style:normal;font-weight:normal;font-size:30px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.75"
          xml:space="preserve"><tspan
            style="stroke-width:0.75"
            id="tspan1304"
-           y="-762.34332"
-           x="28.706926"
+           y="-739.84332"
+           x="50.269184"
            sodipodi:role="line"><tspan
              id="tspan1302"
              style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:26.00000191px;font-family:Arial;-inkscape-font-specification:'Arial Bold';stroke-width:0.75"
-             y="-762.34332"
-             x="28.706926">Vou espirrar! O que devo fazer?</tspan></tspan></text>
+             y="-739.84332"
+             x="50.269184">Vou espirrar! O que devo fazer?</tspan></tspan></text>
       <text
          transform="scale(1,-1)"
          id="text1318"
-         y="-699.57703"
-         x="29.416927"
+         y="-683.07703"
+         x="49.061176"
          style="font-style:normal;font-weight:normal;font-size:30px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.75"
          xml:space="preserve"><tspan
-           style="font-size:24px;stroke-width:0.75;-inkscape-font-specification:Arial;font-family:Arial;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;font-family:Arial;-inkscape-font-specification:Arial;stroke-width:0.75"
            id="tspan1316"
-           y="-699.57703"
-           x="29.416927"
+           y="-683.07703"
+           x="49.061176"
            sodipodi:role="line"><tspan
              id="tspan1314"
              style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;font-family:Arial;-inkscape-font-specification:Arial;stroke-width:0.75"
-             y="-699.57703"
-             x="29.416927">Com lenço de papel</tspan></tspan></text>
+             y="-683.07703"
+             x="49.061176">Com lenço de papel</tspan></tspan></text>
       <text
          transform="scale(1,-1)"
          id="text1312"
-         y="-699.57703"
-         x="310.90268"
+         y="-683.07703"
+         x="324.40268"
          style="font-style:normal;font-weight:normal;font-size:30px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.75"
          xml:space="preserve"><tspan
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;font-family:Arial;-inkscape-font-specification:Arial;stroke-width:0.75"
            id="tspan1310"
-           y="-699.57703"
-           x="310.90268"
+           y="-683.07703"
+           x="324.40268"
            sodipodi:role="line">Sem lenço de papel</tspan></text>
       <text
          transform="scale(1,-1)"
          id="text1370"
-         y="-227.42339"
-         x="30.041929"
+         y="-204.92339"
+         x="50.040489"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30px;line-height:0.64999998;font-family:'EB Garamond';-inkscape-font-specification:'EB Garamond';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.75"
          xml:space="preserve"><tspan
-           style="stroke-width:0.75"
+           style="font-size:18px;stroke-width:0.75"
            id="tspan1354"
-           y="-227.42339"
-           x="30.041929"
+           y="-204.92339"
+           x="50.040489"
            sodipodi:role="line"><tspan
              id="tspan1352"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:1.25;font-family:'Times';-inkscape-font-specification:'Times';stroke-width:0.75"
-             y="-227.42339"
-             x="30.041929">Não cubras o teu nariz ou boca </tspan></tspan><tspan
-           style="stroke-width:0.75"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;line-height:1.25;font-family:Times;-inkscape-font-specification:Times;stroke-width:0.75"
+             y="-204.92339"
+             x="50.040489">Não cubras o teu nariz ou boca </tspan></tspan><tspan
+           style="font-size:18px;stroke-width:0.75"
            id="tspan1360"
-           y="-204.08197"
-           x="30.041929"
+           y="-181.58197"
+           x="50.040489"
            sodipodi:role="line"><tspan
              id="tspan1356"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:1.25;font-family:'Times';-inkscape-font-specification:'Times';stroke-width:0.75"
-             y="-204.08197"
-             x="30.041929"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;line-height:1.25;font-family:Times;-inkscape-font-specification:Times;stroke-width:0.75"
+             y="-181.58197"
+             x="50.040489"
              dx="0 0 0 0 0 0 0 0 0 0 0 0 0">com as mãos:</tspan></tspan><tspan
-           style="stroke-width:0.75"
+           style="font-size:18px;stroke-width:0.75"
            id="tspan1364"
-           y="-180.74055"
-           x="30.041929"
+           y="-158.24055"
+           x="50.040489"
            sodipodi:role="line"><tspan
              id="tspan1362"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:1.25;font-family:'Times';-inkscape-font-specification:'Times';stroke-width:0.75"
-             y="-180.74055"
-             x="30.041929">caso contrário as tuas mãos</tspan></tspan><tspan
-           style="stroke-width:0.75"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;line-height:1.25;font-family:Times;-inkscape-font-specification:Times;stroke-width:0.75"
+             y="-158.24055"
+             x="50.040489">caso contrário as tuas mãos</tspan></tspan><tspan
+           style="font-size:18px;stroke-width:0.75"
            id="tspan1368"
-           y="-157.39914"
-           x="30.041929"
+           y="-134.89914"
+           x="50.040489"
            sodipodi:role="line"><tspan
              id="tspan1366"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:1.25;font-family:'Times';-inkscape-font-specification:'Times';stroke-width:0.75"
-             y="-157.39914"
-             x="30.041929">vão tornar-se numa arma biológica</tspan></tspan></text>
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;line-height:1.25;font-family:Times;-inkscape-font-specification:Times;stroke-width:0.75"
+             y="-134.89914"
+             x="50.040489">vão tornar-se numa arma biológica</tspan></tspan></text>
       <flowRoot
          style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
          id="flowRoot4574"
@@ -2223,116 +2221,48 @@
          transform="scale(1,-1)"
          id="text1376"
          y="-64.517303"
-         x="87.705841"
+         x="50.425488"
          style="font-style:normal;font-weight:normal;font-size:13.00000095px;line-height:0.64999998;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#999999;fill-opacity:1;stroke:none;stroke-width:0.75"
          xml:space="preserve"><tspan
-           style="stroke-width:0.75"
+           style="stroke-width:0.75;font-size:16.00000035px"
            id="tspan1374"
            y="-64.517303"
-           x="87.705841"
+           x="50.425488"
            sodipodi:role="line"><tspan
              id="tspan1372"
-             style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.00000095px;line-height:0.64999998;font-family:'Times';-inkscape-font-specification:'Times Italic';fill:#666666;stroke-width:0.75"
+             style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.00000035px;line-height:0.64999998;font-family:Times;-inkscape-font-specification:'Times Italic';fill:#666666;stroke-width:0.75"
              y="-64.517303"
-             x="87.705841">Recomendações dos Centros de Controlo e Prevenção de Doenças, US</tspan></tspan></text>
-      <g
-         transform="translate(126.37394,5.7563554)"
-         id="g4813">
-        <g
-           transform="translate(-54.863468)"
-           id="g4888">
-          <g
-             transform="translate(35.871507)"
-             id="g1342">
-            <g
-               id="g1317"
-               transform="translate(49.841871)">
-              <g
-                 transform="matrix(0.73241523,0,0,0.94425317,38.990932,-716.67535)"
-                 id="g56"
-                 style="fill:#b3b3b3">
-                <g
-                   clip-path="url(#clipPath62)"
-                   id="g58"
-                   style="fill:#b3b3b3">
-                  <g
-                     clip-path="url(#clipPath68)"
-                     id="g64"
-                     style="fill:#b3b3b3">
-                    <path
-                       inkscape:connector-curvature="0"
-                       id="path70"
-                       style="fill:#b3b3b3;fill-opacity:1;fill-rule:nonzero;stroke:none"
-                       d="m 27,815 h 90 V 789 H 27 Z" />
-                  </g>
-                </g>
-              </g>
-              <text
-                 xml:space="preserve"
-                 style="font-style:normal;font-weight:normal;font-size:13.00000095px;line-height:0.64999998;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#999999;fill-opacity:1;stroke:none;stroke-width:0.75"
-                 x="22.154709"
-                 y="-34.693108"
-                 id="text1432"
-                 transform="scale(1,-1)"><tspan
-                   sodipodi:role="line"
-                   x="22.154709"
-                   y="-34.693108"
-                   id="tspan1430"
-                   style="stroke-width:0.75">Fonte<tspan
-   x="22.154709"
-   y="-34.693108"
-   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.00000095px;line-height:0.64999998;font-family:'Ubuntu Condensed';-inkscape-font-specification:'Ubuntu Condensed, ';fill:#999999;stroke-width:0.75"
-   id="tspan1428" /></tspan></text>
-              <text
-                 xml:space="preserve"
-                 style="font-style:normal;font-weight:normal;font-size:13.00000095px;line-height:0.64999998;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#999999;fill-opacity:1;stroke:none;stroke-width:0.75"
-                 x="127.8748"
-                 y="-34.18309"
-                 id="text1426"
-                 transform="scale(1,-1)"><tspan
-                   sodipodi:role="line"
-                   x="127.8748"
-                   y="-34.18309"
-                   id="tspan1424"
-                   style="stroke-width:0.75"><tspan
-                     x="127.8748"
-                     y="-34.18309"
-                     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.00000095px;line-height:0.64999998;font-family:'Ubuntu Condensed';-inkscape-font-specification:'Ubuntu Condensed, ';fill:#999999;stroke-width:0.75"
-                     id="tspan1422">http://tiny.cc/sneeze-pt-eu</tspan></tspan></text>
-            </g>
-          </g>
-        </g>
-      </g>
+             x="50.425488">Recomendações dos Centros de Controlo e Prevenção de Doenças, US</tspan></tspan></text>
       <text
          transform="scale(1,-1)"
          id="text1332"
-         y="-522.45251"
-         x="304.29865"
+         y="-505.95251"
+         x="317.79865"
          style="font-style:normal;font-weight:normal;font-size:30px;line-height:0.64999998;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.75"
          xml:space="preserve"><tspan
-           style="stroke-width:0.75"
+           style="font-size:18px;stroke-width:0.75"
            id="tspan1324"
-           y="-522.45251"
-           x="304.29865"
+           y="-505.95251"
+           x="317.79865"
            sodipodi:role="line"><tspan
              id="tspan1320"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:1.25;font-family:'Times';-inkscape-font-specification:'Times';stroke-width:0.75"
-             y="-522.45251"
-             x="304.29865"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;line-height:1.25;font-family:Times;-inkscape-font-specification:Times;stroke-width:0.75"
+             y="-505.95251"
+             x="317.79865"
              dx="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0">• Espirra ou tosse para a</tspan></tspan><tspan
-           style="stroke-width:0.75"
+           style="font-size:18px;stroke-width:0.75"
            id="tspan1330"
-           y="0"
-           x="310.09064"
+           y="-1.5"
+           x="323.59064"
            sodipodi:role="line"><tspan
              id="tspan1326"
-             style="fill:none;stroke-width:0.75"
-             y="-499.46759"
-             x="304.29865">•</tspan><tspan
+             style="font-size:18px;fill:none;stroke-width:0.75"
+             y="-482.96759"
+             x="317.79865">•</tspan><tspan
              id="tspan1328"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:1.25;font-family:'Times';-inkscape-font-specification:'Times';stroke-width:0.75"
-             y="-499.46759"
-             x="310.09064"> parte interna do teu cotovelo</tspan></tspan></text>
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;line-height:1.25;font-family:Times;-inkscape-font-specification:Times;stroke-width:0.75"
+             y="-482.96759"
+             x="323.59064"> parte interna do teu cotovelo</tspan></tspan></text>
       <flowRoot
          xml:space="preserve"
          id="flowRoot4741"
@@ -2343,6 +2273,37 @@
              height="62.376236"
              x="94.059402"
              y="971.03455" /></flowRegion><flowPara
-           id="flowPara4747" /></flowRoot>    </g>
+           id="flowPara4747" /></flowRoot>      <g
+         id="g527"
+         transform="translate(15.058684,-14.518947)"
+         style="fill:#999999">
+        <g
+           style="fill:#999999"
+           transform="translate(-25.51463,767.68157)"
+           id="g4813-3">
+          <text
+             xml:space="preserve"
+             style="font-style:normal;font-weight:normal;font-size:13.00000095px;line-height:0.64999998;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#999999;fill-opacity:1;stroke:none;stroke-width:0.75"
+             x="132.85472"
+             y="-34.18309"
+             id="text1305"
+             transform="scale(1,-1)"><tspan
+               sodipodi:role="line"
+               x="132.85472"
+               y="-34.18309"
+               id="tspan1303"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.00000095px;font-family:Arial;-inkscape-font-specification:Arial;fill:#999999;stroke-width:0.75"><tspan
+                 x="132.85472"
+                 y="-34.18309"
+                 style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.00000095px;line-height:0.64999998;font-family:Arial;-inkscape-font-specification:Arial;fill:#999999;stroke-width:0.75"
+                 id="tspan1301">http://tiny.cc/sneeze-pt-eu</tspan></tspan></text>
+        </g>
+        <path
+           inkscape:connector-curvature="0"
+           id="path280-3"
+           style="fill:#999999;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.99999994"
+           d="m 41.716804,801.78926 2.851,-0.864 v 5.067 1.717 h 1.834 v -5.92 l 2.834,-0.864 1.85,2.4 h -1.834 v 5.84 l -2.834,0.944 -1.85,-2.08 v 1.136 l -2.834,0.944 -1.851,-2.08 v 1.136 l -2.834,0.944 -1.851,-2.4 h 1.834 v -5.92 l 2.851,-0.864 v 6.784 h 1.834 z m 30.608,1.536 v 5.92 l -2.85,0.864 v -8.24 l 2.834,-0.944 1.85,2.08 v -1.136 l 2.834,-0.944 1.851,2.4 h -1.834 v 5.92 l -2.851,0.864 v -6.784 z m 21.039,5.6 -2.784,1.184 -3.3,-1.504 3.3,-1.184 -4.534,-2.096 v -3.424 l 2.851,-0.976 1.683,2.096 v -1.152 l 2.851,-0.944 1.767,2.416 h -1.834 z m -38.593,-8 3.267,1.248 -3.267,1.168 v 1.68 l 4.284,1.984 -2.434,3.104 -4.701,-2.16 v -5.856 z m 30.658,2.592 -3.467,1.008 3.25,3.968 -4.067,1.616 -2.135,-2.592 3.485,-1.024 -3.318,-3.952 4.118,-1.616 z m 3.468,-0.192 v 2.368 l 1.683,0.768 v -3.136 z m -34.126,5.232 1.433,-1.888 -1.433,-0.656 z m 5.018,-6.464 2.85,-1.168 4.685,1.792 v 7.088 l -7.535,3.12 v -2.764 l 4.684,-1.776 v -5.684 l -1.834,0.64 v 4.992 l -2.85,-0.864 z" />
+      </g>
+    </g>
   </g>
 </svg>
