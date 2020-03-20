@@ -655,16 +655,16 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="810"
+     inkscape:window-width="2048"
      inkscape:window-height="1093"
      id="namedview4"
      showgrid="false"
-     inkscape:zoom="0.59457431"
-     inkscape:cx="328.2135"
-     inkscape:cy="593.15413"
-     inkscape:window-x="1238"
+     inkscape:zoom="0.75835013"
+     inkscape:cx="201.30319"
+     inkscape:cy="600.38805"
+     inkscape:window-x="0"
      inkscape:window-y="25"
-     inkscape:window-maximized="0"
+     inkscape:window-maximized="1"
      inkscape:current-layer="g10" /><g
      id="g10"
      inkscape:groupmode="layer"
@@ -1389,6 +1389,7 @@
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;line-height:1.25;font-family:Times;-inkscape-font-specification:Times;stroke-width:0.75"
        y="-384.01859"
        x="48.847923"> жəне қолыңызды жуыңыз</tspan></tspan></text>
+
 <text
    transform="scale(1,-1)"
    id="text1399"
@@ -1418,22 +1419,24 @@
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;line-height:1.25;font-family:Times;-inkscape-font-specification:Times;stroke-width:0.75"
        y="-463.46759"
        x="48.847923"> өзіңізді ұстаңыз</tspan></tspan></text>
+
 <text
    xml:space="preserve"
    style="font-style:normal;font-weight:normal;font-size:30px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.75"
    x="41.838852"
-   y="-742.84332"
+   y="-745.84332"
    id="text1317"
    transform="scale(1,-1)"><tspan
      sodipodi:role="line"
      x="41.838852"
-     y="-742.84332"
+     y="-745.84332"
      id="tspan1315"
      style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Arial;-inkscape-font-specification:'Arial Bold';stroke-width:0.75"><tspan
        x="41.838852"
-       y="-742.84332"
+       y="-745.84332"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:26.00000191px;font-family:Arial;-inkscape-font-specification:'Arial Bold';stroke-width:0.75"
        id="tspan1313">Мен қазір түшкірейін деп тұрмын!</tspan></tspan></text>
+
 
 
 
@@ -1447,18 +1450,19 @@
    xml:space="preserve"
    style="font-style:normal;font-weight:normal;font-size:30px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.75"
    x="42.739243"
-   y="-672.57703"
+   y="-660.57703"
    id="text1323"
    transform="scale(1,-1)"><tspan
      sodipodi:role="line"
      x="42.739243"
-     y="-672.57703"
+     y="-660.57703"
      id="tspan1321"
      style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:19px;font-family:Arial;-inkscape-font-specification:Arial;fill:#000000;stroke-width:0.75"><tspan
        x="42.739243"
-       y="-672.57703"
+       y="-660.57703"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:19px;font-family:Arial;-inkscape-font-specification:Arial;fill:#000000;stroke-width:0.75"
-       id="tspan1319">Қол орамал</tspan></tspan></text>
+       id="tspan1319">Қол орамал бар</tspan></tspan></text>
+
 
 
 
@@ -1472,18 +1476,19 @@
    xml:space="preserve"
    style="font-style:normal;font-weight:normal;font-size:30px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.75"
    x="321.29242"
-   y="-672.57703"
+   y="-660.57703"
    id="text1329"
    transform="scale(1,-1)"><tspan
      sodipodi:role="line"
      x="321.29242"
-     y="-672.57703"
+     y="-660.57703"
      id="tspan1327"
      style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:19px;font-family:Arial;-inkscape-font-specification:Arial;stroke-width:0.75"><tspan
        x="321.29242"
-       y="-672.57703"
+       y="-660.57703"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:19px;font-family:Arial;-inkscape-font-specification:Arial;stroke-width:0.75"
-       id="tspan1325">Қол орамал</tspan></tspan></text>
+       id="tspan1325">Қол орамал жоқ</tspan></tspan></text>
+
 
 
 
@@ -1508,7 +1513,7 @@
        x="43.541931"
        y="-189.92339"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;line-height:1.25;font-family:Times;-inkscape-font-specification:Times;stroke-width:0.75"
-       id="tspan1361">Ауыз-мұрныңызды ашық</tspan></tspan><tspan
+       id="tspan1361">Ауыз-мұрныңызды</tspan></tspan><tspan
      sodipodi:role="line"
      x="43.541931"
      y="-166.58195"
@@ -1517,7 +1522,7 @@
        x="43.541931"
        y="-166.58195"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;line-height:1.25;font-family:Times;-inkscape-font-specification:Times;stroke-width:0.75"
-       id="tspan1367">қолдарыңызбен жаппаңыз:</tspan></tspan><tspan
+       id="tspan1367">алақанмен жаппаңыз:</tspan></tspan><tspan
      sodipodi:role="line"
      x="43.541931"
      y="-143.24055"
@@ -1536,6 +1541,7 @@
        y="-119.89912"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;line-height:1.25;font-family:Times;-inkscape-font-specification:Times;stroke-width:0.75"
        id="tspan1379">биологиялық қаруға айналады</tspan></tspan></text>
+
 
 
 
@@ -1580,6 +1586,7 @@
 
 
 
+
 <g
    id="g527"
    transform="translate(8.5961262,-4.5)"
@@ -1602,6 +1609,7 @@
        y="-34.18309"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.00000095px;line-height:0.64999998;font-family:Arial;-inkscape-font-specification:Arial;fill:#999999;stroke-width:0.75"
        id="tspan1301">http://tiny.cc/sneeze-kaz</tspan></tspan></text>
+
 
 
 
@@ -1651,6 +1659,7 @@
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;line-height:1.25;font-family:Times;-inkscape-font-specification:Times;stroke-width:0.75"
        y="-440.4826"
        x="327.54611"> ішкі жағымен бөгеңіз</tspan></tspan></text>
+
 <text
    xml:space="preserve"
    style="font-style:normal;font-weight:normal;font-size:30px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.75"
@@ -1667,6 +1676,7 @@
        y="-711.5448"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:26.00000191px;font-family:Arial;-inkscape-font-specification:'Arial Bold';stroke-width:0.75"
        id="tspan1313-9">Мен Не істеу керек?</tspan></tspan></text>
+
 <text
    xml:space="preserve"
    style="font-style:normal;font-weight:normal;font-size:30px;line-height:0.64999998;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.75"
@@ -1701,40 +1711,7 @@
        y="-143.95348"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;line-height:1.25;font-family:Times;-inkscape-font-specification:Times;stroke-width:0.75"
        id="tspan1355-9">(сіз оны өзіңіз білесіз)</tspan></tspan></text>
-<text
-   xml:space="preserve"
-   style="font-style:normal;font-weight:normal;font-size:30px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.75"
-   x="321.93256"
-   y="-652.58038"
-   id="text1329-2"
-   transform="scale(1,-1)"><tspan
-     sodipodi:role="line"
-     x="321.93256"
-     y="-652.58038"
-     id="tspan1327-2"
-     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:19px;font-family:Arial;-inkscape-font-specification:Arial;stroke-width:0.75"><tspan
-       x="321.93256"
-       y="-652.58038"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:19px;font-family:Arial;-inkscape-font-specification:Arial;stroke-width:0.75"
-       id="tspan1325-8"><tspan
-   style="font-weight:bold;stroke-width:0.75"
-   id="tspan687-9">болмаған</tspan> жағдайда</tspan></tspan></text>
-<text
-   xml:space="preserve"
-   style="font-style:normal;font-weight:normal;font-size:30px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.75"
-   x="43.379379"
-   y="-652.58038"
-   id="text1323-7"
-   transform="scale(1,-1)"><tspan
-     sodipodi:role="line"
-     x="43.379379"
-     y="-652.58038"
-     id="tspan1321-3"
-     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:19px;font-family:Arial;-inkscape-font-specification:Arial;fill:#000000;stroke-width:0.75"><tspan
-       x="43.379379"
-       y="-652.58038"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:19px;font-family:Arial;-inkscape-font-specification:Arial;fill:#000000;stroke-width:0.75"
-       id="tspan1319-6"><tspan
-   style="font-weight:bold;stroke-width:0.75"
-   id="tspan689-1">болған</tspan> жағдайда</tspan></tspan></text>
+
+
+
 </g></svg>
