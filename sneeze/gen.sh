@@ -1,8 +1,9 @@
 set -o xtrace
+set -e
 
 if [ ! -f "$1_color.svg" ]; then
 	echo "$1_color.svg does not exist"
-	exit 0
+	exit 1
 fi
 
 # Color
