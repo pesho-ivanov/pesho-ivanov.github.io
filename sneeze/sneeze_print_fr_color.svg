@@ -634,7 +634,7 @@
      id="namedview4"
      showgrid="false"
      inkscape:zoom="0.84085505"
-     inkscape:cx="382.3572"
+     inkscape:cx="407.79623"
      inkscape:cy="573.88339"
      inkscape:window-x="0"
      inkscape:window-y="25"
@@ -1344,6 +1344,7 @@
 
 
 
+
 <g
    id="g4704"
    transform="translate(24,33)"><text
@@ -1396,6 +1397,7 @@
 
 
 
+
 <text
    xml:space="preserve"
    style="font-style:normal;font-weight:normal;font-size:30px;line-height:0.64999998;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.75"
@@ -1432,6 +1434,7 @@
 
 
 
+
 </g><text
    xml:space="preserve"
    style="font-style:normal;font-weight:normal;font-size:30px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.75"
@@ -1448,6 +1451,7 @@
        y="-762.34332"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:26.00000191px;font-family:Arial;-inkscape-font-specification:'Arial Bold';stroke-width:0.75"
        id="tspan1305">Je vais éternuer! Que dois-je faire ?</tspan></tspan></text>
+
 
 
 
@@ -1476,6 +1480,7 @@
 
 
 
+
 <text
    xml:space="preserve"
    style="font-style:normal;font-weight:normal;font-size:30px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.75"
@@ -1492,6 +1497,7 @@
        y="-699.57703"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:27px;font-family:Arial;-inkscape-font-specification:Arial;stroke-width:0.75"
        id="tspan1311">sans mouchoir</tspan></tspan></text>
+
 
 
 
@@ -1548,6 +1554,7 @@
 
 
 
+
 <flowRoot
    xml:space="preserve"
    id="flowRoot4574"
@@ -1569,11 +1576,12 @@
      x="41.425488"
      y="-64.517303"
      id="tspan1325"
-     style="stroke-width:0.75"><tspan
+     style="stroke-width:0.75;font-size:15.00000038px"><tspan
        x="41.425488"
        y="-64.517303"
-       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.00000095px;line-height:0.64999998;font-family:Times;-inkscape-font-specification:'Times Italic';fill:#666666;stroke-width:0.75"
+       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.00000038px;line-height:0.64999998;font-family:Times;-inkscape-font-specification:'Times Italic';fill:#666666;stroke-width:0.75"
        id="tspan1323">Recommandations du Centre pour le contrôle et la prévention des maladies, Etats-Unis</tspan></tspan></text>
+
 
 
 
@@ -1610,6 +1618,7 @@
        y="-499.46759"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;line-height:1.25;font-family:Times;-inkscape-font-specification:Times;stroke-width:0.75"
        id="tspan1375"> dans le pli de son coude.</tspan></tspan></text>
+
 
 
 
@@ -1663,6 +1672,7 @@
 
 
 
+
 <g
    id="g527"
    transform="translate(6.058684,-3.7734691)"
@@ -1670,21 +1680,22 @@
      style="fill:#999999"
      transform="translate(-25.51463,767.68157)"
      id="g4813-3"><text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:13.00000095px;line-height:0.64999998;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#999999;fill-opacity:1;stroke:none;stroke-width:0.75"
+   xml:space="preserve"
+   style="font-style:normal;font-weight:normal;font-size:13.00000095px;line-height:0.64999998;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#999999;fill-opacity:1;stroke:none;stroke-width:0.75"
+   x="132.85472"
+   y="-34.18309"
+   id="text1305"
+   transform="scale(1,-1)"><tspan
+     sodipodi:role="line"
+     x="132.85472"
+     y="-34.18309"
+     id="tspan1303"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.00000095px;font-family:Arial;-inkscape-font-specification:Arial;fill:#999999;stroke-width:0.75"><tspan
        x="132.85472"
        y="-34.18309"
-       id="text1305"
-       transform="scale(1,-1)"><tspan
-         sodipodi:role="line"
-         x="132.85472"
-         y="-34.18309"
-         id="tspan1303"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.00000095px;font-family:Arial;-inkscape-font-specification:Arial;fill:#999999;stroke-width:0.75"><tspan
-           x="132.85472"
-           y="-34.18309"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.00000095px;line-height:0.64999998;font-family:Arial;-inkscape-font-specification:Arial;fill:#999999;stroke-width:0.75"
-           id="tspan1301">http://tiny.cc/sneeze-fr</tspan></tspan></text>
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.00000095px;line-height:0.64999998;font-family:Arial;-inkscape-font-specification:Arial;fill:#999999;stroke-width:0.75"
+       id="tspan1301">http://tiny.cc/sneeze-fr</tspan></tspan></text>
+
 </g><path
      inkscape:connector-curvature="0"
      id="path280-3"
