@@ -2,7 +2,7 @@ set -o xtrace
 
 if [ ! -f "$1_color.svg" ]; then
 	echo "$1_color.svg does not exist"
-	return 0
+	exit 0
 fi
 
 # Color
