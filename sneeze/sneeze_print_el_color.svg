@@ -639,7 +639,7 @@
      inkscape:window-x="0"
      inkscape:window-y="25"
      inkscape:window-maximized="1"
-     inkscape:current-layer="g4813-3"
+     inkscape:current-layer="g10"
      inkscape:pagecheckerboard="false" /><g
      id="g10"
      inkscape:groupmode="layer"
@@ -647,7 +647,7 @@
      transform="matrix(1.3333333,0,0,-1.3333333,0,1122.6667)"><g
    id="g12" /><g
    id="g72"
-   transform="translate(-4.5,19.5)"
+   transform="translate(9,19.5)"
    style="fill:#bd4628;fill-opacity:1"><g
      id="g74"
      clip-path="url(#clipPath78)"
@@ -660,7 +660,7 @@
          id="path86"
          inkscape:connector-curvature="0" /></g></g></g><g
    id="g88"
-   transform="translate(-4.5,19.5)"
+   transform="translate(9,19.5)"
    style="fill:#bd4628;fill-opacity:1"><g
      id="g90"
      clip-path="url(#clipPath94)"
@@ -673,7 +673,7 @@
          id="path102"
          inkscape:connector-curvature="0" /></g></g></g><g
    id="g104"
-   transform="translate(-4.5,19.5)"
+   transform="translate(9,19.5)"
    style="fill:#bd4628;fill-opacity:1"><g
      id="g106"
      clip-path="url(#clipPath110)"
@@ -686,7 +686,7 @@
          id="path118"
          inkscape:connector-curvature="0" /></g></g></g><g
    id="g120"
-   transform="translate(-4.5,19.5)"
+   transform="translate(9,19.5)"
    style="fill:#bd4628;fill-opacity:1"><g
      id="g122"
      clip-path="url(#clipPath126)"
@@ -699,7 +699,7 @@
          id="path134"
          inkscape:connector-curvature="0" /></g></g></g><g
    id="g136"
-   transform="translate(-1.5,19.5)"
+   transform="translate(12,19.5)"
    style="fill:#bd4628;fill-opacity:1"><g
      id="g138"
      clip-path="url(#clipPath142)"
@@ -985,7 +985,7 @@
          id="path584"
          inkscape:connector-curvature="0" /></g></g></g><g
    id="g521"
-   transform="translate(-15)"><g
+   transform="translate(-1.5)"><g
      style="stroke:#bd4628;stroke-opacity:1"
      transform="matrix(1,0,0,-1,226,378.5)"
      id="g660"><path
@@ -1017,7 +1017,7 @@
        style="fill:none;stroke:#bd4628;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
        d="M 24.3675,0 0,24.3675" /></g></g><g
    id="g676"
-   transform="translate(-4.5,27)"
+   transform="translate(9,27)"
    style="fill:#000000;fill-opacity:1"><g
      id="g678"
      clip-path="url(#clipPath682)"
@@ -1030,7 +1030,7 @@
          id="path690"
          inkscape:connector-curvature="0" /></g></g></g><g
    id="g692"
-   transform="translate(-4.5,27)"
+   transform="translate(9,27)"
    style="fill:#000000;fill-opacity:1"><g
      id="g694"
      clip-path="url(#clipPath698)"
@@ -1043,7 +1043,7 @@
          id="path706"
          inkscape:connector-curvature="0" /></g></g></g><g
    id="g708"
-   transform="translate(-4.5,27)"
+   transform="translate(9,27)"
    style="fill:#000000;fill-opacity:1"><g
      id="g710"
      clip-path="url(#clipPath714)"
@@ -1056,7 +1056,7 @@
          id="path722"
          inkscape:connector-curvature="0" /></g></g></g><g
    id="g724"
-   transform="translate(-4.5,27)"
+   transform="translate(9,27)"
    style="fill:#000000;fill-opacity:1"><g
      id="g726"
      clip-path="url(#clipPath730)"
@@ -1069,7 +1069,7 @@
          id="path738"
          inkscape:connector-curvature="0" /></g></g></g><g
    id="g740"
-   transform="translate(-4.5,27)"
+   transform="translate(9,27)"
    style="fill:#000000;fill-opacity:1"><g
      id="g742"
      clip-path="url(#clipPath746)"
@@ -1082,7 +1082,7 @@
          id="path754"
          inkscape:connector-curvature="0" /></g></g></g><g
    id="g756"
-   transform="translate(-4.5,27)"
+   transform="translate(9,27)"
    style="fill:#000000;fill-opacity:1"><g
      id="g758"
      clip-path="url(#clipPath762)"
@@ -1095,7 +1095,7 @@
          id="path770"
          inkscape:connector-curvature="0" /></g></g></g><g
    id="g772"
-   transform="translate(-4.5,27)"
+   transform="translate(9,27)"
    style="fill:#000000;fill-opacity:1"><g
      id="g774"
      clip-path="url(#clipPath778)"
@@ -1108,7 +1108,7 @@
          id="path786"
          inkscape:connector-curvature="0" /></g></g></g><g
    id="g788"
-   transform="translate(-4.5,27)"
+   transform="translate(9,27)"
    style="fill:#000000;fill-opacity:1"><g
      id="g790"
      clip-path="url(#clipPath794)"
@@ -1121,7 +1121,7 @@
          id="path802"
          inkscape:connector-curvature="0" /></g></g></g><g
    id="g804"
-   transform="translate(-4.5,27)"
+   transform="translate(9,27)"
    style="fill:#000000;fill-opacity:1"><g
      id="g806"
      clip-path="url(#clipPath810)"
@@ -1134,7 +1134,7 @@
          id="path818"
          inkscape:connector-curvature="0" /></g></g></g><g
    id="g820"
-   transform="translate(-4.5,27)"
+   transform="translate(9,27)"
    style="fill:#000000;fill-opacity:1"><g
      id="g822"
      clip-path="url(#clipPath826)"
@@ -1147,7 +1147,7 @@
          id="path834"
          inkscape:connector-curvature="0" /></g></g></g><g
    id="g836"
-   transform="translate(-4.5,27)"
+   transform="translate(9,27)"
    style="fill:#000000;fill-opacity:1"><g
      id="g838"
      clip-path="url(#clipPath842)"
@@ -1160,7 +1160,7 @@
          id="path850"
          inkscape:connector-curvature="0" /></g></g></g><g
    id="g852"
-   transform="translate(-4.5,27)"
+   transform="translate(9,27)"
    style="fill:#000000;fill-opacity:1"><g
      id="g854"
      clip-path="url(#clipPath858)"
@@ -1173,7 +1173,7 @@
          id="path866"
          inkscape:connector-curvature="0" /></g></g></g><g
    id="g868"
-   transform="translate(-4.5,27)"
+   transform="translate(9,27)"
    style="fill:#000000;fill-opacity:1"><g
      id="g870"
      clip-path="url(#clipPath874)"
@@ -1186,7 +1186,7 @@
          id="path882"
          inkscape:connector-curvature="0" /></g></g></g><g
    id="g884"
-   transform="translate(-4.5,27)"
+   transform="translate(9,27)"
    style="fill:#000000;fill-opacity:1"><g
      id="g886"
      clip-path="url(#clipPath890)"
@@ -1290,7 +1290,7 @@
          id="path1146"
          inkscape:connector-curvature="0" /></g></g></g><g
    id="g1220"
-   transform="matrix(1,0,0,-1,210.99846,680.6483)"
+   transform="matrix(1,0,0,-1,224.49846,680.6483)"
    style="stroke:#000000;stroke-opacity:1"><path
      d="M 25,0 9.543313,20 0,8.923077"
      style="fill:none;stroke:#000000;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
@@ -1313,30 +1313,30 @@
      x="320.76361"
      y="-228.27203"
      id="tspan1353"
-     style="stroke-width:0.75"><tspan
+     style="stroke-width:0.75;font-size:18.00000045px"><tspan
        x="320.76361"
        y="-228.27203"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.00000191px;line-height:1.25;font-family:'Times';-inkscape-font-specification:'Times';stroke-width:0.75"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.00000045px;line-height:1.25;font-family:'Times';-inkscape-font-specification:'Times';stroke-width:0.75"
        id="tspan1349"
        dx="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0">Φτάρνισμα και βήχας</tspan></tspan><tspan
      sodipodi:role="line"
      x="320.76361"
      y="-205.28708"
      id="tspan1359"
-     style="stroke-width:0.75"><tspan
+     style="stroke-width:0.75;font-size:18.00000045px"><tspan
        x="320.76361"
        y="-205.28708"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.00000191px;line-height:1.25;font-family:'Times';-inkscape-font-specification:'Times';stroke-width:0.75"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.00000045px;line-height:1.25;font-family:'Times';-inkscape-font-specification:'Times';stroke-width:0.75"
        id="tspan1355"
        dx="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0">χωρίς κάλυμμα είναι κακά</tspan></tspan><tspan
      sodipodi:role="line"
      x="320.76361"
      y="-182.30212"
      id="tspan1363"
-     style="stroke-width:0.75"><tspan
+     style="stroke-width:0.75;font-size:18.00000045px"><tspan
        x="320.76361"
        y="-182.30212"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.00000191px;line-height:1.25;font-family:'Times';-inkscape-font-specification:'Times';stroke-width:0.75"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.00000045px;line-height:1.25;font-family:'Times';-inkscape-font-specification:'Times';stroke-width:0.75"
        id="tspan1361">(αλλά αυτό το ήξερες ήδη)</tspan></tspan></text>
 
 
@@ -1346,7 +1346,7 @@
 
 <g
    id="g4704"
-   transform="translate(7.5,33)"><text
+   transform="translate(22.361443,33)"><text
    xml:space="preserve"
    style="font-style:normal;font-weight:normal;font-size:30px;line-height:0.64999998;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.75"
    x="16.518488"
@@ -1357,42 +1357,38 @@
      x="16.518488"
      y="-432.98849"
      id="tspan1399"
-     style="stroke-width:0.75"><tspan
+     style="font-size:18px;stroke-width:0.75"><tspan
        x="16.518488"
        y="-432.98849"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:1.25;font-family:'Times';-inkscape-font-specification:'Times';stroke-width:0.75"
-       id="tspan1395">• Φταρνίσου ή βήξε μέσα του,</tspan><tspan
-       dx="0"
-       x="203.84605"
-       y="-432.98849"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:1.25;font-family:'Times';-inkscape-font-specification:'Times';stroke-width:0.75"
-       id="tspan1397" /></tspan><tspan
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;line-height:1.25;font-family:Times;-inkscape-font-specification:Times;stroke-width:0.75"
+       id="tspan1395"
+       dx="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0">• Φταρνίσου ή βήξε μέσα του,</tspan></tspan><tspan
      sodipodi:role="line"
      x="22.310482"
      y="-387.01859"
      id="tspan1407"
-     style="stroke-width:0.75"><tspan
+     style="font-size:18px;stroke-width:0.75"><tspan
        x="16.518488"
        y="-410.00354"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:1.25;font-family:'Times';-inkscape-font-specification:'Times';fill:none;stroke-width:0.75"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;line-height:1.25;font-family:Times;-inkscape-font-specification:Times;fill:none;stroke-width:0.75"
        id="tspan1401">•</tspan><tspan
        x="22.310482"
        y="-410.00354"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:1.25;font-family:'Times';-inkscape-font-specification:'Times';stroke-width:0.75"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;line-height:1.25;font-family:Times;-inkscape-font-specification:Times;stroke-width:0.75"
        id="tspan1403"
        dx="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0"> πέτα το αμέσως</tspan></tspan><tspan
      sodipodi:role="line"
      x="22.310482"
      y="0"
      id="tspan1413"
-     style="stroke-width:0.75"><tspan
+     style="font-size:18px;stroke-width:0.75"><tspan
        x="16.518488"
        y="-387.01859"
-       style="fill:none;stroke-width:0.75"
+       style="font-size:18px;fill:none;stroke-width:0.75"
        id="tspan1409">•</tspan><tspan
        x="22.310482"
        y="-387.01859"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:1.25;font-family:'Times';-inkscape-font-specification:'Times';stroke-width:0.75"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;line-height:1.25;font-family:Times;-inkscape-font-specification:Times;stroke-width:0.75"
        id="tspan1411"> και πλύνε τα χέρια σου</tspan></tspan></text>
 
 
@@ -1411,24 +1407,24 @@
      x="16.518488"
      y="-489.45255"
      id="tspan1385"
-     style="stroke-width:0.75"><tspan
+     style="font-size:18px;stroke-width:0.75"><tspan
        x="16.518488"
        y="-489.45255"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:1.25;font-family:'Times';-inkscape-font-specification:'Times';stroke-width:0.75"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;line-height:1.25;font-family:Times;-inkscape-font-specification:Times;stroke-width:0.75"
        id="tspan1381"
        dx="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0">• Μη φταρνιστείς μέχρι</tspan></tspan><tspan
      sodipodi:role="line"
      x="22.310482"
      y="0"
      id="tspan1391"
-     style="stroke-width:0.75"><tspan
+     style="font-size:18px;stroke-width:0.75"><tspan
        x="16.518488"
        y="-466.46759"
-       style="fill:none;stroke-width:0.75"
+       style="font-size:18px;fill:none;stroke-width:0.75"
        id="tspan1387">•</tspan><tspan
        x="22.310482"
        y="-466.46759"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:1.25;font-family:'Times';-inkscape-font-specification:'Times';stroke-width:0.75"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;line-height:1.25;font-family:Times;-inkscape-font-specification:Times;stroke-width:0.75"
        id="tspan1389"> να ετοιμάσεις το χαρτομάντιλο</tspan></tspan></text>
 
 
@@ -1439,16 +1435,16 @@
 </g><text
    xml:space="preserve"
    style="font-style:normal;font-weight:normal;font-size:30px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.75"
-   x="28.706926"
+   x="38.526134"
    y="-762.34332"
    id="text1309"
    transform="scale(1,-1)"><tspan
      sodipodi:role="line"
-     x="28.706926"
+     x="38.526134"
      y="-762.34332"
      id="tspan1307"
      style="stroke-width:0.75"><tspan
-       x="28.706926"
+       x="38.526134"
        y="-762.34332"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:26.00000191px;font-family:Arial;-inkscape-font-specification:'Arial Bold';stroke-width:0.75"
        id="tspan1305">Θα φταρνιστώ! Τι πρέπει να κάνω;</tspan></tspan></text>
@@ -1461,12 +1457,12 @@
 <text
    xml:space="preserve"
    style="font-style:normal;font-weight:normal;font-size:30px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.75"
-   x="24.916927"
+   x="37.262463"
    y="-699.57703"
    id="text1321"
    transform="scale(1,-1)"><tspan
      sodipodi:role="line"
-     x="24.916927"
+     x="37.262463"
      y="-699.57703"
      id="tspan1319"
      style="font-size:24px;stroke-width:0.75">Με χαρτομάντηλο</tspan></text>
@@ -1501,46 +1497,46 @@
 <text
    xml:space="preserve"
    style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30px;line-height:0.64999998;font-family:'EB Garamond';-inkscape-font-specification:'EB Garamond';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.75"
-   x="25.541929"
+   x="39.041931"
    y="-227.42339"
    id="text1347"
    transform="scale(1,-1)"><tspan
      sodipodi:role="line"
-     x="25.541929"
+     x="39.041931"
      y="-227.42339"
      id="tspan1331"
-     style="stroke-width:0.75"><tspan
-       x="25.541929"
+     style="font-size:18px;stroke-width:0.75"><tspan
+       x="39.041931"
        y="-227.42339"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:1.25;font-family:'Times';-inkscape-font-specification:'Times';stroke-width:0.75"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;line-height:1.25;font-family:Times;-inkscape-font-specification:Times;stroke-width:0.75"
        id="tspan1329">Μην καλύπτεις τη μύτη και το στόμα </tspan></tspan><tspan
      sodipodi:role="line"
-     x="25.541929"
+     x="39.041931"
      y="-204.08197"
      id="tspan1337"
-     style="stroke-width:0.75"><tspan
-       x="25.541929"
+     style="font-size:18px;stroke-width:0.75"><tspan
+       x="39.041931"
        y="-204.08197"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:1.25;font-family:'Times';-inkscape-font-specification:'Times';stroke-width:0.75"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;line-height:1.25;font-family:Times;-inkscape-font-specification:Times;stroke-width:0.75"
        id="tspan1333"
        dx="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0">με γυμνά χέρια: διαφορετικά,</tspan></tspan><tspan
      sodipodi:role="line"
-     x="25.541929"
+     x="39.041931"
      y="-180.74055"
      id="tspan1341"
-     style="stroke-width:0.75"><tspan
-       x="25.541929"
+     style="font-size:18px;stroke-width:0.75"><tspan
+       x="39.041931"
        y="-180.74055"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:1.25;font-family:'Times';-inkscape-font-specification:'Times';stroke-width:0.75"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;line-height:1.25;font-family:Times;-inkscape-font-specification:Times;stroke-width:0.75"
        id="tspan1339">μετατρέπεις τα χέρια </tspan></tspan><tspan
      sodipodi:role="line"
-     x="25.541929"
+     x="39.041931"
      y="-157.39914"
      id="tspan1345"
-     style="stroke-width:0.75"><tspan
-       x="25.541929"
+     style="font-size:18px;stroke-width:0.75"><tspan
+       x="39.041931"
        y="-157.39914"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:1.25;font-family:'Times';-inkscape-font-specification:'Times';stroke-width:0.75"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;line-height:1.25;font-family:Times;-inkscape-font-specification:Times;stroke-width:0.75"
        id="tspan1343">σου σε βιολογικό όπλο</tspan></tspan></text>
 
 
@@ -1561,18 +1557,18 @@
      id="flowPara4580" /></flowRoot><text
    xml:space="preserve"
    style="font-style:normal;font-weight:normal;font-size:13.00000095px;line-height:0.64999998;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#999999;fill-opacity:1;stroke:none;stroke-width:0.75"
-   x="81.927917"
+   x="40.993931"
    y="-64.517303"
    id="text1327"
    transform="scale(1,-1)"><tspan
      sodipodi:role="line"
-     x="81.927917"
+     x="40.993931"
      y="-64.517303"
      id="tspan1325"
-     style="stroke-width:0.75"><tspan
-       x="81.927917"
+     style="font-size:16px;stroke-width:0.75"><tspan
+       x="40.993931"
        y="-64.517303"
-       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.00000095px;line-height:0.64999998;font-family:'Times';-inkscape-font-specification:'Times Italic';fill:#666666;stroke-width:0.75"
+       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:0.64999998;font-family:Times;-inkscape-font-specification:'Times Italic';fill:#666666;stroke-width:0.75"
        id="tspan1323">Συστάσεις από το Κέντρο Ελέγχου και Πρόληψης Νοσημάτων των ΗΠΑ</tspan></tspan></text>
 
 
@@ -1591,24 +1587,24 @@
      x="313.29865"
      y="-522.45251"
      id="tspan1371"
-     style="stroke-width:0.75"><tspan
+     style="stroke-width:0.75;font-size:18.00000045px"><tspan
        x="313.29865"
        y="-522.45251"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:1.25;font-family:'Times';-inkscape-font-specification:'Times';stroke-width:0.75"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.00000045px;line-height:1.25;font-family:'Times';-inkscape-font-specification:'Times';stroke-width:0.75"
        id="tspan1367"
        dx="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0">• Φταρνίσου ή βήξε στο</tspan></tspan><tspan
      sodipodi:role="line"
      x="319.09064"
      y="0"
      id="tspan1377"
-     style="stroke-width:0.75"><tspan
+     style="stroke-width:0.75;font-size:18.00000045px"><tspan
        x="313.29865"
        y="-499.46759"
-       style="fill:none;stroke-width:0.75"
+       style="fill:none;stroke-width:0.75;font-size:18.00000045px"
        id="tspan1373">•</tspan><tspan
        x="319.09064"
        y="-499.46759"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:1.25;font-family:'Times';-inkscape-font-specification:'Times';stroke-width:0.75"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.00000045px;line-height:1.25;font-family:'Times';-inkscape-font-specification:'Times';stroke-width:0.75"
        id="tspan1375"> εσωτερικό του αγκώνα σου</tspan></tspan></text>
 
 
@@ -1618,7 +1614,7 @@
 
 <g
    id="g527"
-   transform="translate(-5.4757042,-4.5894822)"
+   transform="translate(4.4201272,-4.5894822)"
    style="fill:#999999"><g
      style="fill:#999999"
      transform="translate(-25.51463,767.68157)"
