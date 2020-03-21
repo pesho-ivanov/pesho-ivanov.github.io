@@ -10,7 +10,8 @@ fi
 #convert $1_color.svg $1_color.pdf  # rasterize
 #cairosvg $1_color.svg -o $1_color.pdf  # remains vector; brakes fonts
 inkscape $1_color.svg --export-pdf=$1_color.pdf 2>/dev/null
-convert $1_color.svg $1_color.png
+#convert $1_color.svg $1_color.png  # low resolution
+convert -density 400 $1_color.svg $1_color.png  # high resolution
 
 # Black and white
 sed "s/#bd4628/#000000/g" <<< `cat $1_color.svg` >tmp_bw.svg
