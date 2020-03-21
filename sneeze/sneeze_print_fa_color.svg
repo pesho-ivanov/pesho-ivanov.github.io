@@ -663,16 +663,16 @@
      guidetolerance="10"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:window-width="1024"
+     inkscape:window-width="2048"
      inkscape:window-height="1093"
      id="namedview4"
      showgrid="false"
-     inkscape:zoom="0.62244497"
-     inkscape:cx="457.10263"
-     inkscape:cy="652.80989"
-     inkscape:window-x="1024"
+     inkscape:zoom="0.63395153"
+     inkscape:cx="134.97757"
+     inkscape:cy="585.63271"
+     inkscape:window-x="0"
      inkscape:window-y="25"
-     inkscape:window-maximized="0"
+     inkscape:window-maximized="1"
      inkscape:current-layer="g10"
      inkscape:pagecheckerboard="false" /><g
      id="g10"
@@ -681,7 +681,7 @@
      transform="matrix(1.3333333,0,0,-1.3333333,0,1122.6667)"><g
    id="g12" /><g
    id="g697"
-   transform="translate(-6,-7.5)"><g
+   transform="translate(-6.0000001,-13.5)"><g
      style="fill:#bd4628;fill-opacity:1"
      transform="translate(373.37638,6.8859325)"
      id="g72"><g
@@ -748,7 +748,7 @@
            style="fill:#bd4628;fill-opacity:1;fill-rule:nonzero;stroke:none"
            d="M 27.00018,354.621 H 131.5427 V 231.6962 H 27.00018 Z" /></g></g></g></g><g
    id="g675"
-   transform="translate(44.149235,-9.7266989)"><g
+   transform="translate(54.649235,-15.726699)"><g
      style="fill:#bd4628;fill-opacity:1"
      transform="translate(-276.24807,9.4087464)"
      id="g250"><g
@@ -1023,7 +1023,7 @@
            style="fill:#bd4628;fill-opacity:1;fill-rule:nonzero;stroke:none"
            d="m 310.9998,347.083 h 84.5093 V 246.2224 h -84.5093 z" /></g></g></g></g><g
    id="g583"
-   transform="translate(-33.514181,-15.663228)"><g
+   transform="translate(-23.014181,-21.663228)"><g
      style="stroke:#bd4628;stroke-opacity:1"
      transform="matrix(1,0,0,-1,364.20911,369.67016)"
      id="g660"><path
@@ -1039,7 +1039,7 @@
        style="fill:none;stroke:#bd4628;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
        d="M 24.3675,0 0,24.3675" /></g></g><g
    id="g589"
-   transform="translate(-197.21846,-14.401818)"><g
+   transform="translate(-186.71846,-20.401818)"><g
      style="stroke:#bd4628;stroke-opacity:1"
      transform="matrix(1,0,0,-1,244.25193,368.40875)"
      id="g668"><path
@@ -1055,7 +1055,7 @@
        style="fill:none;stroke:#bd4628;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
        d="M 24.3675,0 0,24.3675" /></g></g><g
    id="g755"
-   transform="translate(16.5,-14.135504)"
+   transform="translate(27,-14.135504)"
    style="fill:#000000"><g
      style="fill:#000000;fill-opacity:1"
      transform="translate(336.79559,19.431559)"
@@ -1240,7 +1240,7 @@
            style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
            d="m 99.6547,536.8523 h 12.3259 V 523.4742 H 99.6547 Z" /></g></g></g></g><g
    id="g785"
-   transform="translate(0,-12)"
+   transform="translate(10.5,-12)"
    style="fill:#000000"><g
      inkscape:export-ydpi="96"
      inkscape:export-xdpi="96"
@@ -1348,14 +1348,14 @@
            style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
            d="m 358.1185,586.2147 h 19.3662 v -12.0854 h -19.3662 z" /></g></g></g></g><g
    id="g1220"
-   transform="matrix(1,0,0,-1,330.69339,657.79798)"
-   style="stroke:#000000;stroke-opacity:1;fill:none"><path
+   transform="matrix(1,0,0,-1,341.19339,657.79798)"
+   style="fill:none;stroke:#000000;stroke-opacity:1"><path
      d="M 25,0 9.543313,20 0,8.923077"
      style="fill:none;stroke:#000000;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
      id="path1222"
      inkscape:connector-curvature="0" /></g><g
    id="g1224"
-   transform="matrix(1,0,0,-1,77.031931,671.29798)"
+   transform="matrix(1,0,0,-1,87.53193,671.29798)"
    style="fill:none;stroke:#000000;stroke-opacity:1"><path
      d="M -5.0000001,13.5 -20.456687,33.5 -30,22.423077"
      style="opacity:1;fill:none;stroke:#000000;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
@@ -1373,143 +1373,144 @@
 <text
    transform="scale(1,-1)"
    id="text1415"
-   y="-445.61365"
-   x="529.51965"
+   y="-444.11365"
+   x="539.8537"
    style="font-style:normal;font-weight:normal;font-size:30px;line-height:0.64999998;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.75"
    xml:space="preserve"><tspan
-     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;font-family:Times;-inkscape-font-specification:Times;direction:rtl;stroke-width:0.75"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;font-family:Vazir;-inkscape-font-specification:Vazir;direction:rtl;stroke-width:0.75"
      id="tspan1399"
-     y="-445.61365"
-     x="529.51965"
+     y="-444.11365"
+     x="539.8537"
      sodipodi:role="line"><tspan
        dx="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0"
        id="tspan1395"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;line-height:1.25;font-family:Times;-inkscape-font-specification:Times;direction:rtl;stroke-width:0.75"
-       y="-445.61365"
-       x="529.51965">• داخل دستمال عطسه/سرفه</tspan></tspan><tspan
-     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;font-family:Times;-inkscape-font-specification:Times;direction:rtl;stroke-width:0.75"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;line-height:1.25;font-family:Vazir;-inkscape-font-specification:Vazir;direction:rtl;stroke-width:0.75"
+       y="-444.11365"
+       x="539.8537">• داخل دستمال عطسه/سرفه</tspan></tspan><tspan
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;font-family:Vazir;-inkscape-font-specification:Vazir;direction:rtl;stroke-width:0.75"
      id="tspan1407"
-     y="-399.64374"
-     x="535.31165"
+     y="-398.14374"
+     x="545.64569"
      sodipodi:role="line"><tspan
        id="tspan1401"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;line-height:1.25;font-family:Times;-inkscape-font-specification:Times;direction:rtl;fill:none;stroke-width:0.75"
-       y="-422.62869"
-       x="529.51965">•</tspan><tspan
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;line-height:1.25;font-family:Vazir;-inkscape-font-specification:Vazir;direction:rtl;fill:none;stroke-width:0.75"
+       y="-421.12869"
+       x="539.8537">•</tspan><tspan
        id="tspan1403"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;line-height:1.25;font-family:Times;-inkscape-font-specification:Times;direction:rtl;stroke-width:0.75"
-       y="-422.62869"
-       x="535.31165"> <tspan
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;line-height:1.25;font-family:Vazir;-inkscape-font-specification:Vazir;direction:rtl;stroke-width:0.75"
+       y="-421.12869"
+       x="545.64569"> <tspan
    id="tspan529"
-   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;font-family:Times;-inkscape-font-specification:Times;fill:none">• </tspan>کنید، دستمال را بلافاصله دور بیاندازید</tspan></tspan><tspan
-     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;font-family:Times;-inkscape-font-specification:Times;direction:rtl;stroke-width:0.75"
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;font-family:Vazir;-inkscape-font-specification:Vazir;fill:none">• </tspan>کنید، دستمال را بلافاصله دور بیاندازید</tspan></tspan><tspan
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;font-family:Vazir;-inkscape-font-specification:Vazir;direction:rtl;stroke-width:0.75"
      id="tspan1413"
-     y="0"
-     x="535.31165"
+     y="1.5"
+     x="545.64569"
      sodipodi:role="line"><tspan
        id="tspan1409"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;font-family:Times;-inkscape-font-specification:Times;direction:rtl;fill:none;stroke-width:0.75"
-       y="-399.64374"
-       x="529.51965">•</tspan><tspan
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;font-family:Vazir;-inkscape-font-specification:Vazir;direction:rtl;fill:none;stroke-width:0.75"
+       y="-398.14374"
+       x="539.8537">•</tspan><tspan
        id="tspan1411"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;line-height:1.25;font-family:Times;-inkscape-font-specification:Times;direction:rtl;stroke-width:0.75"
-       y="-399.64374"
-       x="535.31165"><tspan
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;line-height:1.25;font-family:Vazir;-inkscape-font-specification:Vazir;direction:rtl;stroke-width:0.75"
+       y="-398.14374"
+       x="545.64569"><tspan
    id="tspan531"
-   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;font-family:Times;-inkscape-font-specification:Times;fill:none"> •</tspan> را به خوبی بشویید </tspan></tspan></text>
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;font-family:Vazir;-inkscape-font-specification:Vazir;fill:none"> •</tspan> ودستتان را به خوبی بشویید</tspan></tspan></text>
+
 
 <text
    transform="scale(1,-1)"
    id="text1393"
-   y="-502.52374"
-   x="747.14514"
+   y="-501.02374"
+   x="760.19635"
    style="font-style:normal;font-weight:normal;font-size:30px;line-height:0.64999998;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.75"
    xml:space="preserve"><tspan
-     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;font-family:Times;-inkscape-font-specification:Times;text-align:start;direction:rtl;text-anchor:start;stroke-width:0.75"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;font-family:Vazir;-inkscape-font-specification:Vazir;text-align:start;direction:rtl;text-anchor:start;stroke-width:0.75"
      id="tspan1385"
-     y="-502.52374"
-     x="526.80249"
+     y="-501.02374"
+     x="539.8537"
      sodipodi:role="line"><tspan
        dx="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0"
        id="tspan1381"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;line-height:1.25;font-family:Times;-inkscape-font-specification:Times;text-align:start;direction:rtl;text-anchor:start;stroke-width:0.75"
-       y="-502.52374"
-       x="526.80249">• تا زمانی که دستمال را</tspan></tspan><tspan
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;line-height:1.25;font-family:Vazir;-inkscape-font-specification:Vazir;text-align:start;direction:rtl;text-anchor:start;stroke-width:0.75"
+       y="-501.02374"
+       x="539.8537">• تا زمانی که دستمال را</tspan></tspan><tspan
      id="tspan511"
-     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;font-family:Times;-inkscape-font-specification:Times;text-align:start;direction:rtl;text-anchor:start;stroke-width:0.75"
-     y="-479.53876"
-     x="532.59448"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;font-family:Vazir;-inkscape-font-specification:Vazir;text-align:start;direction:rtl;text-anchor:start;stroke-width:0.75"
+     y="-478.03876"
+     x="545.64569"
      sodipodi:role="line"><tspan
        id="tspan1389"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;line-height:1.25;font-family:Times;-inkscape-font-specification:Times;text-align:start;direction:rtl;text-anchor:start;stroke-width:0.75"
-       y="-479.53876"
-       x="532.59448"> <tspan
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;line-height:1.25;font-family:Vazir;-inkscape-font-specification:Vazir;text-align:start;direction:rtl;text-anchor:start;stroke-width:0.75"
+       y="-478.03876"
+       x="545.64569"> <tspan
    id="tspan537"
-   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;font-family:Times;-inkscape-font-specification:Times;fill:none">•</tspan> جلویدهان نگرفته‌اید عطسه نکنید</tspan></tspan></text>
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;font-family:Vazir;-inkscape-font-specification:Vazir;fill:none">•</tspan> جلوی دهان نگرفته‌اید عطسه نکنید</tspan></tspan></text>
+
 
 <text
    transform="scale(1,-1)"
    id="text1415-6"
-   y="-205.13721"
-   x="243.39066"
+   y="-208.13721"
+   x="253.89066"
    style="font-style:normal;font-weight:normal;font-size:30px;line-height:0.64999998;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.75"
    xml:space="preserve"><tspan
-     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;font-family:Times;-inkscape-font-specification:Times;direction:rtl;stroke-width:0.75"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;font-family:Vazir;-inkscape-font-specification:Vazir;direction:rtl;stroke-width:0.75"
      id="tspan1399-7"
-     y="-205.13721"
-     x="243.39066"
+     y="-208.13721"
+     x="253.89066"
      sodipodi:role="line"><tspan
        dx="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0"
        id="tspan1395-5"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;line-height:1.25;font-family:Times;-inkscape-font-specification:Times;direction:rtl;stroke-width:0.75"
-       y="-205.13721"
-       x="243.39066">عطسه و سرفه بدون پوشش</tspan></tspan><tspan
-     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;font-family:Times;-inkscape-font-specification:Times;direction:rtl;stroke-width:0.75"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;line-height:1.25;font-family:Vazir;-inkscape-font-specification:Vazir;direction:rtl;stroke-width:0.75"
+       y="-208.13721"
+       x="253.89066">عطسه و سرفه بدون پوشش</tspan></tspan><tspan
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;font-family:Vazir;-inkscape-font-specification:Vazir;direction:rtl;stroke-width:0.75"
      id="tspan1407-3"
-     y="-159.16728"
-     x="249.18265"
+     y="-162.16728"
+     x="259.68265"
      sodipodi:role="line"><tspan
        id="tspan1401-5"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;line-height:1.25;font-family:Times;-inkscape-font-specification:Times;direction:rtl;fill:none;stroke-width:0.75"
-       y="-182.15227"
-       x="243.39066">•</tspan><tspan
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;line-height:1.25;font-family:Vazir;-inkscape-font-specification:Vazir;direction:rtl;fill:none;stroke-width:0.75"
+       y="-185.15227"
+       x="253.89066">•</tspan><tspan
        id="tspan1403-6"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;line-height:1.25;font-family:Times;-inkscape-font-specification:Times;direction:rtl;stroke-width:0.75"
-       y="-182.15227"
-       x="249.18265"> در فضای باز کار بدی است<tspan
-   id="tspan529-2"
-   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;font-family:Times;-inkscape-font-specification:Times;fill:none;stroke-width:0.75" /></tspan></tspan><tspan
-     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;font-family:Times;-inkscape-font-specification:Times;direction:rtl;stroke-width:0.75"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;line-height:1.25;font-family:Vazir;-inkscape-font-specification:Vazir;direction:rtl;stroke-width:0.75"
+       y="-185.15227"
+       x="259.68265"> در فضای باز کار بدی است</tspan></tspan><tspan
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;font-family:Vazir;-inkscape-font-specification:Vazir;direction:rtl;stroke-width:0.75"
      id="tspan1413-9"
      y="1.5"
-     x="249.18265"
+     x="259.68265"
      sodipodi:role="line"><tspan
        id="tspan1409-1"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;font-family:Times;-inkscape-font-specification:Times;direction:rtl;fill:none;stroke-width:0.75"
-       y="-159.16728"
-       x="243.39066">•</tspan><tspan
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;font-family:Vazir;-inkscape-font-specification:Vazir;direction:rtl;fill:none;stroke-width:0.75"
+       y="-162.16728"
+       x="253.89066">•</tspan><tspan
        id="tspan1411-2"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;line-height:1.25;font-family:Times;-inkscape-font-specification:Times;direction:rtl;stroke-width:0.75"
-       y="-159.16728"
-       x="249.18265"><tspan
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;line-height:1.25;font-family:Vazir;-inkscape-font-specification:Vazir;direction:rtl;stroke-width:0.75"
+       y="-162.16728"
+       x="259.68265"><tspan
    id="tspan531-7"
-   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;font-family:Times;-inkscape-font-specification:Times;fill:none;stroke-width:0.75"> </tspan>(که حتما خودتان می‌دانستید)</tspan></tspan></text>
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;font-family:Vazir;-inkscape-font-specification:Vazir;fill:none;stroke-width:0.75"> </tspan>(که حتما خودتان می‌دانستید)</tspan></tspan></text>
+
 
 <text
    xml:space="preserve"
    style="font-style:normal;font-weight:normal;font-size:30px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.75"
-   x="29.791185"
-   y="-747.34332"
+   x="84.770691"
+   y="-733.84332"
    id="text1309"
    transform="scale(1,-1)"><tspan
      sodipodi:role="line"
-     x="29.791185"
-     y="-747.34332"
+     x="84.770691"
+     y="-733.84332"
      id="tspan1307"
-     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:34px;font-family:Arial;-inkscape-font-specification:'Arial Bold';stroke-width:0.75"><tspan
-       x="29.791185"
-       y="-747.34332"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:34px;font-family:Arial;-inkscape-font-specification:'Arial Bold';stroke-width:0.75"
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:26px;font-family:Vazir;-inkscape-font-specification:'Vazir Bold';stroke-width:0.75"><tspan
+       x="84.770691"
+       y="-733.84332"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:26px;font-family:Vazir;-inkscape-font-specification:'Vazir Bold';stroke-width:0.75"
        id="tspan1305"> الان می‌خواهم عطسه کنم!‌ چه کار باید بکنم؟</tspan></tspan></text>
 
 
@@ -1522,18 +1523,20 @@
 
 
 
+
 <text
    xml:space="preserve"
    style="font-style:normal;font-weight:normal;font-size:28px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.75"
-   x="418.09296"
-   y="-681.50861"
+   x="440.79803"
+   y="-674.00861"
    id="text1321"
    transform="scale(1,-1)"><tspan
      sodipodi:role="line"
-     x="418.09296"
-     y="-681.50861"
+     x="440.79803"
+     y="-674.00861"
      id="tspan1319"
-     style="font-size:28px;stroke-width:0.75">با دستمال</tspan></text>
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26px;font-family:Vazir;-inkscape-font-specification:Vazir;stroke-width:0.75">با دستمال</tspan></text>
+
 
 
 
@@ -1548,19 +1551,16 @@
 <text
    xml:space="preserve"
    style="font-style:normal;font-weight:normal;font-size:28px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.75"
-   x="92.397491"
-   y="-682.79376"
+   x="102.89749"
+   y="-675.29376"
    id="text1315"
    transform="scale(1,-1)"><tspan
      sodipodi:role="line"
-     x="92.397491"
-     y="-682.79376"
+     x="102.89749"
+     y="-675.29376"
      id="tspan1313"
-     style="font-size:28px;stroke-width:0.75">بدون دستمال<tspan
-   x="92.397491"
-   y="-682.79376"
-   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28px;font-family:Arial;-inkscape-font-specification:Arial;stroke-width:0.75"
-   id="tspan1311" /></tspan></text>
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26px;font-family:Vazir;-inkscape-font-specification:Vazir;stroke-width:0.75">بدون دستمال</tspan></text>
+
 
 
 
@@ -1575,42 +1575,43 @@
 <text
    xml:space="preserve"
    style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30px;line-height:0.64999998;font-family:'EB Garamond';-inkscape-font-specification:'EB Garamond';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.75"
-   x="529.62811"
-   y="-205.5083"
+   x="541.67303"
+   y="-208.5083"
    id="text1347"
    transform="scale(1,-1)"><tspan
      sodipodi:role="line"
-     x="529.62811"
-     y="-205.5083"
+     x="541.67303"
+     y="-208.5083"
      id="tspan1331"
-     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;font-family:Times;-inkscape-font-specification:Times;direction:rtl;stroke-width:0.75"><tspan
-       x="529.62811"
-       y="-205.5083"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;line-height:1.25;font-family:Times;-inkscape-font-specification:Times;direction:rtl;stroke-width:0.75"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;font-family:Vazir;-inkscape-font-specification:Vazir;direction:rtl;stroke-width:0.75"><tspan
+       x="541.67303"
+       y="-208.5083"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;line-height:1.25;font-family:Vazir;-inkscape-font-specification:Vazir;direction:rtl;stroke-width:0.75"
        id="tspan1329">بینی و دهانتان را با دست خالی</tspan></tspan><tspan
      sodipodi:role="line"
-     x="529.62811"
-     y="-180.3613"
+     x="541.67303"
+     y="-182.17137"
      id="tspan1337"
-     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;font-family:Times;-inkscape-font-specification:Times;direction:rtl;stroke-width:0.75">نپوشانید؛ چرا که در غیر این</tspan><tspan
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;font-family:Vazir;-inkscape-font-specification:Vazir;direction:rtl;stroke-width:0.75">نپوشانید؛ چرا که در غیر این</tspan><tspan
      sodipodi:role="line"
-     x="529.62811"
-     y="-158.82547"
+     x="541.67303"
+     y="-161.82547"
      id="tspan1341"
-     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;font-family:Times;-inkscape-font-specification:Times;direction:rtl;stroke-width:0.75"><tspan
-       x="529.62811"
-       y="-158.82547"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;line-height:1.25;font-family:Times;-inkscape-font-specification:Times;direction:rtl;stroke-width:0.75"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;font-family:Vazir;-inkscape-font-specification:Vazir;direction:rtl;stroke-width:0.75"><tspan
+       x="541.67303"
+       y="-161.82547"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;line-height:1.25;font-family:Vazir;-inkscape-font-specification:Vazir;direction:rtl;stroke-width:0.75"
        id="tspan1339">صورت، دستتان را به یک سلاح </tspan></tspan><tspan
      sodipodi:role="line"
-     x="529.62811"
-     y="-135.48405"
+     x="541.67303"
+     y="-138.48405"
      id="tspan1345"
-     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;font-family:Times;-inkscape-font-specification:Times;direction:rtl;stroke-width:0.75"><tspan
-       x="529.62811"
-       y="-135.48405"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;line-height:1.25;font-family:Times;-inkscape-font-specification:Times;direction:rtl;stroke-width:0.75"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;font-family:Vazir;-inkscape-font-specification:Vazir;direction:rtl;stroke-width:0.75"><tspan
+       x="541.67303"
+       y="-138.48405"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;line-height:1.25;font-family:Vazir;-inkscape-font-specification:Vazir;direction:rtl;stroke-width:0.75"
        id="tspan1343">بیولوژیک خطرناک تبدیل کرده‌اید!</tspan></tspan></text>
+
 
 
 
@@ -1635,15 +1636,16 @@
      id="flowPara4580" /></flowRoot><text
    xml:space="preserve"
    style="font-style:normal;font-weight:normal;font-size:13.00000095px;line-height:0.64999998;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#999999;fill-opacity:1;stroke:none;stroke-width:0.75"
-   x="530.76239"
+   x="541.39032"
    y="-63.625355"
    id="text1327"
    transform="scale(1,-1)"><tspan
      sodipodi:role="line"
-     x="530.76239"
+     x="541.39032"
      y="-63.625355"
      id="tspan1325"
-     style="direction:rtl;stroke-width:0.75">توصیه‌ها از مرکز پیشگیری و کنترل بیماری‌های آمریکا.</tspan></text>
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;font-family:Vazir;-inkscape-font-specification:Vazir;direction:rtl;stroke-width:0.75">توصیه‌ها از مرکز پیشگیری و کنترل بیماری‌های آمریکا.</tspan></text>
+
 
 
 
@@ -1657,13 +1659,13 @@
 
 <g
    id="g4813"
-   transform="translate(273.91468,-7.7436447)"><g
+   transform="translate(284.41469,-7.7436447)"><g
      id="g4888"
      transform="translate(-8.604346)">
 <g
    id="g584"><g
      id="g4813-3"
-     transform="translate(-77.71107,762.88938)"
+     transform="translate(-71.71107,762.88938)"
      style="fill:#999999"><text
    transform="scale(1,-1)"
    id="text1305"
@@ -1671,15 +1673,16 @@
    x="132.85472"
    style="font-style:normal;font-weight:normal;font-size:13.00000095px;line-height:0.64999998;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#999999;fill-opacity:1;stroke:none;stroke-width:0.75"
    xml:space="preserve"><tspan
-     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.00000095px;font-family:Arial;-inkscape-font-specification:Arial;fill:#999999;stroke-width:0.75"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.00000095px;font-family:Arial;-inkscape-font-specification:Arial;fill:#999999;stroke-width:0.75"
      y="-34.18309"
      x="132.85472"
      sodipodi:role="line"
      id="tspan520"><tspan
        id="tspan1301"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.00000095px;line-height:0.64999998;font-family:Arial;-inkscape-font-specification:Arial;fill:#999999;stroke-width:0.75"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.00000095px;line-height:0.64999998;font-family:Arial;-inkscape-font-specification:Arial;fill:#999999;stroke-width:0.75"
        y="-34.18309"
        x="132.85472">http://tiny.cc/sneeze-fa</tspan></tspan></text>
+
 
 </g><path
      d="m 211.52036,796.99707 2.851,-0.864 v 5.067 1.717 h 1.834 v -5.92 l 2.834,-0.864 1.85,2.4 h -1.834 v 5.84 l -2.834,0.944 -1.85,-2.08 v 1.136 l -2.834,0.944 -1.851,-2.08 v 1.136 l -2.834,0.944 -1.851,-2.4 h 1.834 v -5.92 l 2.851,-0.864 v 6.784 h 1.834 z m 30.608,1.536 v 5.92 l -2.85,0.864 v -8.24 l 2.834,-0.944 1.85,2.08 v -1.136 l 2.834,-0.944 1.851,2.4 h -1.834 v 5.92 l -2.851,0.864 v -6.784 z m 21.039,5.6 -2.784,1.184 -3.3,-1.504 3.3,-1.184 -4.534,-2.096 v -3.424 l 2.851,-0.976 1.683,2.096 v -1.152 l 2.851,-0.944 1.767,2.416 h -1.834 z m -38.593,-8 3.267,1.248 -3.267,1.168 v 1.68 l 4.284,1.984 -2.434,3.104 -4.701,-2.16 v -5.856 z m 30.658,2.592 -3.467,1.008 3.25,3.968 -4.067,1.616 -2.135,-2.592 3.485,-1.024 -3.318,-3.952 4.118,-1.616 z m 3.468,-0.192 v 2.368 l 1.683,0.768 v -3.136 z m -34.126,5.232 1.433,-1.888 -1.433,-0.656 z m 5.018,-6.464 2.85,-1.168 4.685,1.792 v 7.088 l -7.535,3.12 v -2.764 l 4.684,-1.776 v -5.684 l -1.834,0.64 v 4.992 l -2.85,-0.864 z"
@@ -1689,20 +1692,21 @@
 </g></g><text
    xml:space="preserve"
    style="font-style:normal;font-weight:normal;font-size:30px;line-height:0.64999998;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.75"
-   x="245.6862"
-   y="-499.65656"
+   x="256.18622"
+   y="-498.15656"
    id="text1379"
    transform="scale(1,-1)"><tspan
      sodipodi:role="line"
-     x="245.68622"
-     y="-499.65656"
+     x="256.18622"
+     y="-498.15656"
      id="tspan1377"
-     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;font-family:Times;-inkscape-font-specification:Times;direction:rtl;stroke-width:0.75"><tspan
-       x="245.6862"
-       y="-499.65656"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;line-height:1.25;font-family:Times;-inkscape-font-specification:Times;direction:rtl;stroke-width:0.75"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;font-family:Vazir;-inkscape-font-specification:Vazir;direction:rtl;stroke-width:0.75"><tspan
+       x="256.18622"
+       y="-498.15656"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;line-height:1.25;font-family:Vazir;-inkscape-font-specification:Vazir;direction:rtl;stroke-width:0.75"
        id="tspan1367"
        dx="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0">• در آرنج خود عطسه/سرفه کنید</tspan></tspan></text>
+
 
 
 
