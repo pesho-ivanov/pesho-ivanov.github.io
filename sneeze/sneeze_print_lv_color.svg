@@ -637,17 +637,17 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1350"
+     inkscape:window-width="2048"
      inkscape:window-height="1093"
      id="namedview4"
      showgrid="false"
-     inkscape:zoom="0.7651528"
-     inkscape:cx="333.60122"
-     inkscape:cy="534.85447"
-     inkscape:window-x="698"
+     inkscape:zoom="1.9338122"
+     inkscape:cx="448.65439"
+     inkscape:cy="396.93483"
+     inkscape:window-x="0"
      inkscape:window-y="25"
-     inkscape:window-maximized="0"
-     inkscape:current-layer="g4813" /><g
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g10" /><g
      id="g10"
      inkscape:groupmode="layer"
      inkscape:label="sneeze_print"
@@ -1322,7 +1322,7 @@
        x="328.26361"
        y="-225.92142"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;line-height:1.25;font-family:Times;-inkscape-font-specification:Times;stroke-width:0.75"
-       id="tspan1343">Atklāti klepot un šķaudītir</tspan></tspan><tspan
+       id="tspan1343">Atklāti klepot un šķaudīt ir</tspan></tspan><tspan
      sodipodi:role="line"
      x="328.26361"
      y="-202.93646"
@@ -1341,6 +1341,7 @@
        y="-179.95151"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;line-height:1.25;font-family:Times;-inkscape-font-specification:Times;stroke-width:0.75"
        id="tspan1355">(bet to jau jūs tāpat zināt)</tspan></tspan></text>
+
 
 
 
@@ -1425,6 +1426,7 @@
 
 
 
+
 <text
    xml:space="preserve"
    style="font-style:normal;font-weight:normal;font-size:30px;line-height:0.64999998;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.75"
@@ -1466,6 +1468,7 @@
 
 
 
+
 </g><text
    xml:space="preserve"
    style="font-style:normal;font-weight:normal;font-size:30px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.75"
@@ -1482,6 +1485,7 @@
        y="-760.84332"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:26.00000191px;font-family:Arial;-inkscape-font-specification:'Arial Bold';stroke-width:0.75"
        id="tspan1313">Es grasos šķaudīt. Ko darīt?</tspan></tspan></text>
+
 
 
 
@@ -1522,6 +1526,7 @@
 
 
 
+
 <text
    xml:space="preserve"
    style="font-style:normal;font-weight:normal;font-size:30px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.75"
@@ -1534,6 +1539,7 @@
      y="-698.07703"
      id="tspan1327"
      style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;font-family:Arial;-inkscape-font-specification:Arial;stroke-width:0.75">Ja nav salvetes</tspan></text>
+
 
 
 
@@ -1601,6 +1607,7 @@
 
 
 
+
 <flowRoot
    xml:space="preserve"
    id="flowRoot4574"
@@ -1627,6 +1634,7 @@
        y="-67.517303"
        style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:0.64999998;font-family:Times;-inkscape-font-specification:'Times Italic';fill:#666666;stroke-width:0.75"
        id="tspan1423">Slimību kontroles un profilakses centru ieteikumi, ASV</tspan></tspan></text>
+
 
 
 
@@ -1667,6 +1675,7 @@
 
 
 
+
 </g><path
      inkscape:connector-curvature="0"
      id="path280-3"
@@ -1700,5 +1709,6 @@
        y="-494.31354"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;line-height:1.25;font-family:Times;-inkscape-font-specification:Times;stroke-width:0.75"
        id="tspan1393-5"> elkoņa iekšpusē</tspan></tspan></text>
+
 
 </g></svg>
