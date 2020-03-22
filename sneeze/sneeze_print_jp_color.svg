@@ -7,6 +7,7 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    version="1.1"
@@ -683,7 +684,15 @@
    id="clipPath84-9"><path
      d="M 0,0 H 595 V 842 H 0 Z"
      id="path82-3"
-     inkscape:connector-curvature="0" /></clipPath></defs><sodipodi:namedview
+     inkscape:connector-curvature="0" /></clipPath><clipPath
+   clipPathUnits="userSpaceOnUse"
+   id="clipPath861"><use
+     x="0"
+     y="0"
+     xlink:href="#g857"
+     id="use863"
+     width="100%"
+     height="100%" /></clipPath></defs><sodipodi:namedview
      pagecolor="#ffffff"
      bordercolor="#666666"
      borderopacity="1"
@@ -697,8 +706,8 @@
      id="namedview4"
      showgrid="false"
      inkscape:zoom="0.79640779"
-     inkscape:cx="449.74741"
-     inkscape:cy="577.14408"
+     inkscape:cx="405.17226"
+     inkscape:cy="544.81123"
      inkscape:window-x="709"
      inkscape:window-y="25"
      inkscape:window-maximized="0"
@@ -774,7 +783,7 @@
          id="path150"
          inkscape:connector-curvature="0" /></g></g></g><g
    id="g250"
-   transform="translate(9,15)"
+   transform="translate(13.5,15)"
    style="fill:#bd4628;fill-opacity:1"><g
      id="g252"
      clip-path="url(#clipPath256)"
@@ -787,7 +796,7 @@
          id="path264"
          inkscape:connector-curvature="0" /></g></g></g><g
    id="g266"
-   transform="translate(9,15)"
+   transform="translate(13.5,15)"
    style="fill:#bd4628;fill-opacity:1"><g
      id="g268"
      clip-path="url(#clipPath272)"
@@ -800,7 +809,7 @@
          id="path280"
          inkscape:connector-curvature="0" /></g></g></g><g
    id="g282"
-   transform="translate(9,15)"
+   transform="translate(13.5,15)"
    style="fill:#bd4628;fill-opacity:1"><g
      id="g284"
      clip-path="url(#clipPath288)"
@@ -813,7 +822,7 @@
          id="path296"
          inkscape:connector-curvature="0" /></g></g></g><g
    id="g298"
-   transform="translate(9,15)"
+   transform="translate(13.5,15)"
    style="fill:#bd4628;fill-opacity:1"><g
      id="g300"
      clip-path="url(#clipPath304)"
@@ -826,7 +835,7 @@
          id="path312"
          inkscape:connector-curvature="0" /></g></g></g><g
    id="g314"
-   transform="translate(9,15)"
+   transform="translate(13.5,15)"
    style="fill:#bd4628;fill-opacity:1"><g
      id="g316"
      clip-path="url(#clipPath320)"
@@ -839,7 +848,7 @@
          id="path328"
          inkscape:connector-curvature="0" /></g></g></g><g
    id="g330"
-   transform="translate(9,15)"
+   transform="translate(13.5,15)"
    style="fill:#bd4628;fill-opacity:1"><g
      id="g332"
      clip-path="url(#clipPath336)"
@@ -852,7 +861,7 @@
          id="path344"
          inkscape:connector-curvature="0" /></g></g></g><g
    id="g346"
-   transform="translate(9,15)"
+   transform="translate(13.5,15)"
    style="fill:#bd4628;fill-opacity:1"><g
      id="g348"
      clip-path="url(#clipPath352)"
@@ -865,7 +874,7 @@
          id="path360"
          inkscape:connector-curvature="0" /></g></g></g><g
    id="g362"
-   transform="translate(9,15)"
+   transform="translate(13.5,15)"
    style="fill:#bd4628;fill-opacity:1"><g
      id="g364"
      clip-path="url(#clipPath368)"
@@ -878,7 +887,7 @@
          id="path376"
          inkscape:connector-curvature="0" /></g></g></g><g
    id="g378"
-   transform="translate(9,15)"
+   transform="translate(13.5,15)"
    style="fill:#bd4628;fill-opacity:1"><g
      id="g380"
      clip-path="url(#clipPath384)"
@@ -891,7 +900,7 @@
          id="path392"
          inkscape:connector-curvature="0" /></g></g></g><g
    id="g394"
-   transform="translate(9,15)"
+   transform="translate(13.5,15)"
    style="fill:#bd4628;fill-opacity:1"><g
      id="g396"
      clip-path="url(#clipPath400)"
@@ -904,7 +913,7 @@
          id="path408"
          inkscape:connector-curvature="0" /></g></g></g><g
    id="g410"
-   transform="translate(9,15)"
+   transform="translate(13.5,15)"
    style="fill:#bd4628;fill-opacity:1"><g
      id="g412"
      clip-path="url(#clipPath416)"
@@ -917,7 +926,7 @@
          id="path424"
          inkscape:connector-curvature="0" /></g></g></g><g
    id="g426"
-   transform="translate(9,15)"
+   transform="translate(13.5,15)"
    style="fill:#bd4628;fill-opacity:1"><g
      id="g428"
      clip-path="url(#clipPath432)"
@@ -930,7 +939,7 @@
          id="path440"
          inkscape:connector-curvature="0" /></g></g></g><g
    id="g442"
-   transform="translate(9,15)"
+   transform="translate(13.5,15)"
    style="fill:#bd4628;fill-opacity:1"><g
      id="g444"
      clip-path="url(#clipPath448)"
@@ -943,7 +952,7 @@
          id="path456"
          inkscape:connector-curvature="0" /></g></g></g><g
    id="g458"
-   transform="translate(9,15)"
+   transform="translate(13.5,15)"
    style="fill:#bd4628;fill-opacity:1"><g
      id="g460"
      clip-path="url(#clipPath464)"
@@ -956,7 +965,7 @@
          id="path472"
          inkscape:connector-curvature="0" /></g></g></g><g
    id="g474"
-   transform="translate(9,15)"
+   transform="translate(13.5,15)"
    style="fill:#bd4628;fill-opacity:1"><g
      id="g476"
      clip-path="url(#clipPath480)"
@@ -969,7 +978,7 @@
          id="path488"
          inkscape:connector-curvature="0" /></g></g></g><g
    id="g490"
-   transform="translate(9,15)"
+   transform="translate(13.5,15)"
    style="fill:#bd4628;fill-opacity:1"><g
      id="g492"
      clip-path="url(#clipPath496)"
@@ -982,7 +991,7 @@
          id="path504"
          inkscape:connector-curvature="0" /></g></g></g><g
    id="g506"
-   transform="translate(9,15)"
+   transform="translate(13.5,15)"
    style="fill:#bd4628;fill-opacity:1"><g
      id="g508"
      clip-path="url(#clipPath512)"
@@ -995,7 +1004,7 @@
          id="path520"
          inkscape:connector-curvature="0" /></g></g></g><g
    id="g522"
-   transform="translate(9,15)"
+   transform="translate(13.5,15)"
    style="fill:#bd4628;fill-opacity:1"><g
      id="g524"
      clip-path="url(#clipPath528)"
@@ -1008,7 +1017,7 @@
          id="path536"
          inkscape:connector-curvature="0" /></g></g></g><g
    id="g538"
-   transform="translate(9,15)"
+   transform="translate(13.5,15)"
    style="fill:#bd4628;fill-opacity:1"><g
      id="g540"
      clip-path="url(#clipPath544)"
@@ -1021,7 +1030,7 @@
          id="path552"
          inkscape:connector-curvature="0" /></g></g></g><g
    id="g554"
-   transform="translate(9,15)"
+   transform="translate(13.5,15)"
    style="fill:#bd4628;fill-opacity:1"><g
      id="g556"
      clip-path="url(#clipPath560)"
@@ -1034,7 +1043,7 @@
          id="path568"
          inkscape:connector-curvature="0" /></g></g></g><g
    id="g570"
-   transform="translate(9,15)"
+   transform="translate(13.5,15)"
    style="fill:#bd4628;fill-opacity:1"><g
      id="g572"
      clip-path="url(#clipPath576)"
@@ -1263,7 +1272,7 @@
          id="path898"
          inkscape:connector-curvature="0" /></g></g></g><g
    id="g1036"
-   transform="translate(7.5,22.5)"
+   transform="translate(12,22.5)"
    style="fill:#000000;fill-opacity:1"><g
      id="g1038"
      clip-path="url(#clipPath1042)"
@@ -1276,7 +1285,7 @@
          id="path1050"
          inkscape:connector-curvature="0" /></g></g></g><g
    id="g1052"
-   transform="translate(7.5,22.5)"
+   transform="translate(12,22.5)"
    style="fill:#000000;fill-opacity:1"><g
      id="g1054"
      clip-path="url(#clipPath1058)"
@@ -1289,7 +1298,7 @@
          id="path1066"
          inkscape:connector-curvature="0" /></g></g></g><g
    id="g1068"
-   transform="translate(7.5,22.5)"
+   transform="translate(12,22.5)"
    style="fill:#000000;fill-opacity:1"><g
      id="g1070"
      clip-path="url(#clipPath1074)"
@@ -1302,7 +1311,7 @@
          id="path1082"
          inkscape:connector-curvature="0" /></g></g></g><g
    id="g1084"
-   transform="translate(7.5,22.5)"
+   transform="translate(12,22.5)"
    style="fill:#000000;fill-opacity:1"><g
      id="g1086"
      clip-path="url(#clipPath1090)"
@@ -1315,7 +1324,7 @@
          id="path1098"
          inkscape:connector-curvature="0" /></g></g></g><g
    id="g1100"
-   transform="translate(7.5,22.5)"
+   transform="translate(12,22.5)"
    style="fill:#000000;fill-opacity:1"><g
      id="g1102"
      clip-path="url(#clipPath1106)"
@@ -1328,7 +1337,7 @@
          id="path1114"
          inkscape:connector-curvature="0" /></g></g></g><g
    id="g1116"
-   transform="translate(7.5,22.5)"
+   transform="translate(12,22.5)"
    style="fill:#000000;fill-opacity:1;stroke:#bd8e28;stroke-opacity:1"><g
      id="g1118"
      clip-path="url(#clipPath1122)"
@@ -1341,7 +1350,7 @@
          id="path1130"
          inkscape:connector-curvature="0" /></g></g></g><g
    id="g1132"
-   transform="translate(7.5,22.5)"
+   transform="translate(12,22.5)"
    style="fill:#000000;fill-opacity:1"><g
      id="g1134"
      clip-path="url(#clipPath1138)"
@@ -1369,32 +1378,32 @@
      inkscape:connector-curvature="0" /></g><text
    xml:space="preserve"
    style="font-style:normal;font-weight:normal;font-size:30px;line-height:0.64999998;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.75"
-   x="316.26361"
+   x="319.40811"
    y="-222.92142"
    id="text1359"
    transform="scale(1,-1)"><tspan
      sodipodi:role="line"
-     x="316.26361"
+     x="319.40811"
      y="-222.92142"
      id="tspan1347"
-     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;font-family:Mona;-inkscape-font-specification:Mona;stroke-width:0.75">口を覆わずに咳やく</tspan><tspan
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;font-family:'Noto Sans CJK JP';-inkscape-font-specification:'Noto Sans CJK JP';stroke-width:0.75">口を覆わずに咳やく</tspan><tspan
      sodipodi:role="line"
-     x="316.26361"
+     x="319.40811"
      y="-199.93646"
      id="tspan1353"
-     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;font-family:Mona;-inkscape-font-specification:Mona;stroke-width:0.75"><tspan
-       x="316.26361"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;font-family:'Noto Sans CJK JP';-inkscape-font-specification:'Noto Sans CJK JP';stroke-width:0.75"><tspan
+       x="319.40811"
        y="-199.93646"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;line-height:1.25;font-family:Mona;-inkscape-font-specification:Mona;stroke-width:0.75"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;line-height:1.25;font-family:'Noto Sans CJK JP';-inkscape-font-specification:'Noto Sans CJK JP';stroke-width:0.75"
        id="tspan1349">しゃみをするのは良くない</tspan></tspan><tspan
      sodipodi:role="line"
-     x="316.26361"
+     x="319.40811"
      y="-176.95151"
      id="tspan1357"
-     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;font-family:Mona;-inkscape-font-specification:Mona;stroke-width:0.75"><tspan
-       x="316.26361"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;font-family:'Noto Sans CJK JP';-inkscape-font-specification:'Noto Sans CJK JP';stroke-width:0.75"><tspan
+       x="319.40811"
        y="-176.95151"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;line-height:1.25;font-family:Mona;-inkscape-font-specification:Mona;stroke-width:0.75"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;line-height:1.25;font-family:'Noto Sans CJK JP';-inkscape-font-specification:'Noto Sans CJK JP';stroke-width:0.75"
        id="tspan1355">(当然)</tspan></tspan></text>
 
 
@@ -1407,35 +1416,6 @@
 
 
 
-<text
-   xml:space="preserve"
-   style="font-style:normal;font-weight:normal;font-size:30px;line-height:0.89999998;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.75"
-   x="315.75412"
-   y="-517.08752"
-   id="text1341"
-   transform="scale(1,-1)"><tspan
-     sodipodi:role="line"
-     x="315.75412"
-     y="-517.08752"
-     id="tspan1335"
-     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;font-family:'Noto Sans CJK JP';-inkscape-font-specification:'Noto Sans CJK JP';stroke-width:0.75"><tspan
-       x="315.75412"
-       y="-517.08752"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;line-height:2.20000005;font-family:'Noto Sans CJK JP';-inkscape-font-specification:'Noto Sans CJK JP';stroke-width:0.75"
-       id="tspan1331">• <tspan
-   style="-inkscape-font-specification:Mona;font-family:Mona;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal"
-   id="tspan508">ひじで口を覆う</tspan></tspan></tspan><tspan
-     sodipodi:role="line"
-     x="315.75412"
-     y="-481.88748"
-     id="tspan1339"
-     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;font-family:'Noto Sans CJK JP';-inkscape-font-specification:'Noto Sans CJK JP';stroke-width:0.75"><tspan
-       x="315.75412"
-       y="-481.88748"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;line-height:2.20000005;font-family:'Noto Sans CJK JP';-inkscape-font-specification:'Noto Sans CJK JP';stroke-width:0.75"
-       id="tspan1337">• <tspan
-   style="-inkscape-font-specification:Mona;font-family:Mona;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal"
-   id="tspan510">咳やくしゃみをひじで受け止める</tspan></tspan></tspan></text>
 
 
 
@@ -1460,36 +1440,36 @@
      x="16.518488"
      y="-432.98849"
      id="tspan1405"
-     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;font-family:Mona;-inkscape-font-specification:Mona;stroke-width:0.75"><tspan
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;font-family:'Noto Sans CJK JP';-inkscape-font-specification:'Noto Sans CJK JP';stroke-width:0.75"><tspan
        x="16.518488"
        y="-432.98849"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;line-height:1.25;font-family:Mona;-inkscape-font-specification:Mona;stroke-width:0.75"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;line-height:1.25;font-family:'Noto Sans CJK JP';-inkscape-font-specification:'Noto Sans CJK JP';stroke-width:0.75"
        id="tspan1401">• ちり紙にくしゃみや咳をしたら,</tspan></tspan><tspan
      sodipodi:role="line"
      x="22.310482"
      y="-387.01859"
      id="tspan1413"
-     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;font-family:Mona;-inkscape-font-specification:Mona;stroke-width:0.75"><tspan
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;font-family:'Noto Sans CJK JP';-inkscape-font-specification:'Noto Sans CJK JP';stroke-width:0.75"><tspan
        x="16.518488"
        y="-410.00354"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;line-height:1.25;font-family:Mona;-inkscape-font-specification:Mona;fill:none;stroke-width:0.75"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;line-height:1.25;font-family:'Noto Sans CJK JP';-inkscape-font-specification:'Noto Sans CJK JP';fill:none;stroke-width:0.75"
        id="tspan1407">•</tspan><tspan
        x="22.310482"
        y="-410.00354"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;line-height:1.25;font-family:Mona;-inkscape-font-specification:Mona;stroke-width:0.75"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;line-height:1.25;font-family:'Noto Sans CJK JP';-inkscape-font-specification:'Noto Sans CJK JP';stroke-width:0.75"
        id="tspan1409"> すぐに捨てて,</tspan></tspan><tspan
      sodipodi:role="line"
      x="22.310482"
      y="0"
      id="tspan1419"
-     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;font-family:Mona;-inkscape-font-specification:Mona;stroke-width:0.75"><tspan
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;font-family:'Noto Sans CJK JP';-inkscape-font-specification:'Noto Sans CJK JP';stroke-width:0.75"><tspan
        x="16.518488"
        y="-387.01859"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;line-height:1.25;font-family:Mona;-inkscape-font-specification:Mona;fill:none;stroke-width:0.75"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;line-height:1.25;font-family:'Noto Sans CJK JP';-inkscape-font-specification:'Noto Sans CJK JP';fill:none;stroke-width:0.75"
        id="tspan1415">•</tspan><tspan
        x="22.310482"
        y="-387.01859"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;line-height:1.25;font-family:Mona;-inkscape-font-specification:Mona;stroke-width:0.75"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;line-height:1.25;font-family:'Noto Sans CJK JP';-inkscape-font-specification:'Noto Sans CJK JP';stroke-width:0.75"
        id="tspan1417"> 手を洗う</tspan></tspan></text>
 
 
@@ -1517,19 +1497,21 @@
        x="16.518488"
        y="-489.45255"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;line-height:1.25;font-family:Mona;-inkscape-font-specification:Mona;stroke-width:0.75"
-       id="tspan1385">• ちり紙を取り出すま</tspan></tspan><tspan
+       id="tspan1385">• <tspan
+   style="-inkscape-font-specification:'Noto Sans CJK JP';font-family:'Noto Sans CJK JP';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal"
+   id="tspan779">ちり紙を取り出すま</tspan></tspan></tspan><tspan
      sodipodi:role="line"
      x="22.310482"
      y="0"
      id="tspan1397"
-     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;font-family:Mona;-inkscape-font-specification:Mona;stroke-width:0.75"><tspan
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;font-family:'Noto Sans CJK JP';-inkscape-font-specification:'Noto Sans CJK JP';stroke-width:0.75"><tspan
        x="16.518488"
        y="-466.46759"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;line-height:1.25;font-family:Mona;-inkscape-font-specification:Mona;fill:none;stroke-width:0.75"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;line-height:1.25;font-family:'Noto Sans CJK JP';-inkscape-font-specification:'Noto Sans CJK JP';fill:none;stroke-width:0.75"
        id="tspan1391">•</tspan><tspan
        x="22.310482"
        y="-466.46759"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;line-height:1.25;font-family:Mona;-inkscape-font-specification:Mona;stroke-width:0.75"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;line-height:1.25;font-family:'Noto Sans CJK JP';-inkscape-font-specification:'Noto Sans CJK JP';stroke-width:0.75"
        id="tspan1393"> でくしゃみをしない</tspan></tspan></text>
 
 
@@ -1542,21 +1524,80 @@
 
 
 
-</g><text
+<g
+   id="g894"
+   transform="translate(4.5)"><g
+     id="g878"><g
+       id="g859"
+       clip-path="url(#clipPath861)"><g
+         inkscape:label="Clip"
+         id="g857"><text
+           transform="matrix(1,0,0,-1,-20.537443,-28.5)"
+           id="text1341"
+           y="-518.58752"
+           x="318.26376"
+           style="font-style:normal;font-weight:normal;font-size:30px;line-height:0.89999998;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.75"
+           xml:space="preserve"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;font-family:'Noto Sans CJK JP';-inkscape-font-specification:'Noto Sans CJK JP';stroke-width:0.75"
+             id="tspan1335"
+             y="-518.58752"
+             x="318.26376"
+             sodipodi:role="line"><tspan
+               id="tspan1331"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;line-height:2.20000005;font-family:'Noto Sans CJK JP';-inkscape-font-specification:'Noto Sans CJK JP';stroke-width:0.75"
+               y="-518.58752"
+               x="318.26376">• ひじで口を覆う</tspan></tspan><tspan
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;font-family:'Noto Sans CJK JP';-inkscape-font-specification:'Noto Sans CJK JP';stroke-width:0.75"
+             id="tspan1339"
+             y="-518.58752"
+             x="318.26376"
+             sodipodi:role="line"><tspan
+               id="tspan1337"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;line-height:2.20000005;font-family:'Noto Sans CJK JP';-inkscape-font-specification:'Noto Sans CJK JP';stroke-width:0.75"
+               y="-483.38748"
+               x="318.26376" /></tspan></text>
+<text
+           transform="scale(1,-1)"
+           id="text1399-4"
+           y="-448.56525"
+           x="297.72632"
+           style="font-style:normal;font-weight:normal;font-size:30px;line-height:0.64999998;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.75"
+           xml:space="preserve"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;font-family:'Noto Sans CJK JP';-inkscape-font-specification:'Noto Sans CJK JP';stroke-width:0.75"
+             id="tspan1389-9"
+             y="-448.56525"
+             x="297.72632"
+             sodipodi:role="line"><tspan
+               id="tspan1385-5"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;line-height:1.25;font-family:'Noto Sans CJK JP';-inkscape-font-specification:'Noto Sans CJK JP';stroke-width:0.75"
+               y="-448.56525"
+               x="297.72632">• 咳やくしゃみ</tspan></tspan><tspan
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;font-family:'Noto Sans CJK JP';-inkscape-font-specification:'Noto Sans CJK JP';stroke-width:0.75"
+             id="tspan1397-4"
+             y="-425.58032"
+             x="303.51831"
+             sodipodi:role="line"><tspan
+               id="tspan1393-7"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;line-height:1.25;font-family:'Noto Sans CJK JP';-inkscape-font-specification:'Noto Sans CJK JP';stroke-width:0.75"
+               y="-425.58032"
+               x="303.51831"><tspan
+   id="tspan839"
+   style="fill:none">•</tspan>をひじで受け止める</tspan></tspan></text>
+</g></g></g></g></g><text
    xml:space="preserve"
    style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;line-height:1.25;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.75"
-   x="35.838852"
+   x="33.063168"
    y="-757.84332"
    id="text1317"
    transform="scale(1,-1)"><tspan
      sodipodi:role="line"
-     x="35.838852"
+     x="33.063168"
      y="-757.84332"
      id="tspan1315"
-     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Noto Sans CJK JP';-inkscape-font-specification:'Noto Sans CJK JP Bold';stroke-width:0.75;font-size:27.00000068px"><tspan
-       x="35.838852"
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:27px;font-family:'Noto Sans CJK JP';-inkscape-font-specification:'Noto Sans CJK JP Bold';stroke-width:0.75"><tspan
+       x="33.063168"
        y="-757.84332"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:27.00000068px;font-family:'Noto Sans CJK JP';-inkscape-font-specification:'Noto Sans CJK JP Bold';stroke-width:0.75"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:27px;font-family:'Noto Sans CJK JP';-inkscape-font-specification:'Noto Sans CJK JP Bold';stroke-width:0.75"
        id="tspan1313">くしゃみが出そう！　どうすればよい??</tspan></tspan></text>
 
 
@@ -1572,18 +1613,18 @@
 <text
    xml:space="preserve"
    style="font-style:normal;font-weight:normal;font-size:30px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.75"
-   x="36.739243"
+   x="35.401932"
    y="-695.07703"
    id="text1323"
    transform="scale(1,-1)"><tspan
      sodipodi:role="line"
-     x="36.739243"
+     x="35.401932"
      y="-695.07703"
      id="tspan1321"
-     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Noto Sans CJK JP';-inkscape-font-specification:'Noto Sans CJK JP';fill:#000000;stroke-width:0.75;font-size:22.00000055px"><tspan
-       x="36.739243"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22px;font-family:'Noto Sans CJK JP';-inkscape-font-specification:'Noto Sans CJK JP';fill:#000000;stroke-width:0.75"><tspan
+       x="35.401932"
        y="-695.07703"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.00000055px;font-family:'Noto Sans CJK JP';-inkscape-font-specification:'Noto Sans CJK JP';fill:#000000;stroke-width:0.75"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22px;font-family:'Noto Sans CJK JP';-inkscape-font-specification:'Noto Sans CJK JP';fill:#000000;stroke-width:0.75"
        id="tspan1319">ちり紙を持っている</tspan></tspan></text>
 
 
@@ -1599,18 +1640,18 @@
 <text
    xml:space="preserve"
    style="font-style:normal;font-weight:normal;font-size:30px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.75"
-   x="315.29242"
+   x="318.60013"
    y="-695.07703"
    id="text1329"
    transform="scale(1,-1)"><tspan
      sodipodi:role="line"
-     x="315.29242"
+     x="318.60013"
      y="-695.07703"
      id="tspan1327"
-     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Noto Sans CJK JP';-inkscape-font-specification:'Noto Sans CJK JP';stroke-width:0.75;font-size:22.00000055px"><tspan
-       x="315.29242"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22px;font-family:'Noto Sans CJK JP';-inkscape-font-specification:'Noto Sans CJK JP';stroke-width:0.75"><tspan
+       x="318.60013"
        y="-695.07703"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.00000055px;font-family:'Noto Sans CJK JP';-inkscape-font-specification:'Noto Sans CJK JP';stroke-width:0.75"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22px;font-family:'Noto Sans CJK JP';-inkscape-font-specification:'Noto Sans CJK JP';stroke-width:0.75"
        id="tspan1325">ちり紙を持っていない</tspan></tspan></text>
 
 
@@ -1626,45 +1667,45 @@
 <text
    xml:space="preserve"
    style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30px;line-height:0.64999998;font-family:'EB Garamond';-inkscape-font-specification:'EB Garamond';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.75"
-   x="37.541931"
+   x="36.91193"
    y="-222.92339"
    id="text1383"
    transform="scale(1,-1)"><tspan
      sodipodi:role="line"
-     x="37.541931"
+     x="36.91193"
      y="-222.92339"
      id="tspan1365"
-     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;font-family:Mona;-inkscape-font-specification:Mona;stroke-width:0.75"><tspan
-       x="37.541931"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;font-family:'Noto Sans CJK JP';-inkscape-font-specification:'Noto Sans CJK JP';stroke-width:0.75"><tspan
+       x="36.91193"
        y="-222.92339"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;line-height:1.25;font-family:Mona;-inkscape-font-specification:Mona;stroke-width:0.75"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;line-height:1.25;font-family:'Noto Sans CJK JP';-inkscape-font-specification:'Noto Sans CJK JP';stroke-width:0.75"
        id="tspan1361">咳やくしゃみを絶対</tspan></tspan><tspan
      sodipodi:role="line"
-     x="37.541931"
+     x="36.91193"
      y="-199.58195"
      id="tspan1371"
-     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;font-family:Mona;-inkscape-font-specification:Mona;stroke-width:0.75"><tspan
-       x="37.541931"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;font-family:'Noto Sans CJK JP';-inkscape-font-specification:'Noto Sans CJK JP';stroke-width:0.75"><tspan
+       x="36.91193"
        y="-199.58195"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;line-height:1.25;font-family:Mona;-inkscape-font-specification:Mona;stroke-width:0.75"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;line-height:1.25;font-family:'Noto Sans CJK JP';-inkscape-font-specification:'Noto Sans CJK JP';stroke-width:0.75"
        id="tspan1367">に手で受け止めない,</tspan></tspan><tspan
      sodipodi:role="line"
-     x="37.541931"
+     x="36.91193"
      y="-176.24055"
      id="tspan1377"
-     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;font-family:Mona;-inkscape-font-specification:Mona;stroke-width:0.75"><tspan
-       x="37.541931"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;font-family:'Noto Sans CJK JP';-inkscape-font-specification:'Noto Sans CJK JP';stroke-width:0.75"><tspan
+       x="36.91193"
        y="-176.24055"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;line-height:1.25;font-family:Mona;-inkscape-font-specification:Mona;stroke-width:0.75"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;line-height:1.25;font-family:'Noto Sans CJK JP';-inkscape-font-specification:'Noto Sans CJK JP';stroke-width:0.75"
        id="tspan1373">手を生物兵器</tspan></tspan><tspan
      sodipodi:role="line"
-     x="37.541931"
+     x="36.91193"
      y="-152.89912"
      id="tspan1381"
-     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;font-family:Mona;-inkscape-font-specification:Mona;stroke-width:0.75"><tspan
-       x="37.541931"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;font-family:'Noto Sans CJK JP';-inkscape-font-specification:'Noto Sans CJK JP';stroke-width:0.75"><tspan
+       x="36.91193"
        y="-152.89912"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;line-height:1.25;font-family:Mona;-inkscape-font-specification:Mona;stroke-width:0.75"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;line-height:1.25;font-family:'Noto Sans CJK JP';-inkscape-font-specification:'Noto Sans CJK JP';stroke-width:0.75"
        id="tspan1379">にしないで</tspan></tspan></text>
 
 
@@ -1690,23 +1731,23 @@
      id="flowPara4580" /></flowRoot><text
    xml:space="preserve"
    style="font-style:normal;font-weight:normal;font-size:13.00000095px;line-height:0.64999998;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#999999;fill-opacity:1;stroke:none;stroke-width:0.75"
-   x="37.943932"
+   x="35.10593"
    y="-64.517303"
    id="text1427"
    transform="scale(1,-1)"><tspan
      sodipodi:role="line"
-     x="37.943932"
+     x="35.10593"
      y="-64.517303"
      id="tspan1425"
-     style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;font-family:Mona;-inkscape-font-specification:'Mona Italic';stroke-width:0.75"><tspan
-       x="37.943932"
+     style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.0000004px;font-family:'Noto Sans CJK JP';-inkscape-font-specification:'Noto Sans CJK JP Italic';stroke-width:0.75"><tspan
+       x="35.10593"
        y="-64.517303"
-       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:0.64999998;font-family:Mona;-inkscape-font-specification:'Mona Italic';fill:#666666;stroke-width:0.75"
+       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.0000004px;line-height:0.64999998;font-family:'Noto Sans CJK JP';-inkscape-font-specification:'Noto Sans CJK JP Italic';fill:#666666;stroke-width:0.75"
        id="tspan1423">アメリカ疾病予防管理センターの推奨</tspan></tspan><tspan
      sodipodi:role="line"
-     x="37.943932"
-     y="-64.517303"
-     style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;font-family:Mona;-inkscape-font-specification:'Mona Italic';stroke-width:0.75"
+     x="35.10593"
+     y="-56.067303"
+     style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.0000004px;font-family:'Noto Sans CJK JP';-inkscape-font-specification:'Noto Sans CJK JP Italic';stroke-width:0.75"
      id="tspan514" /></text>
 
 
@@ -1721,24 +1762,24 @@
 
 <g
    id="g527"
-   transform="translate(2.5961262)"
+   transform="translate(0.78466993)"
    style="fill:#999999"><g
      style="fill:#999999"
      transform="translate(-25.51463,767.68157)"
      id="g4813"><text
    xml:space="preserve"
    style="font-style:normal;font-weight:normal;font-size:13.00000095px;line-height:0.64999998;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#999999;fill-opacity:1;stroke:none;stroke-width:0.75"
-   x="132.85472"
-   y="-34.18309"
+   x="134.73817"
+   y="727.67535"
    id="text1305"
    transform="scale(1,-1)"><tspan
      sodipodi:role="line"
-     x="132.85472"
-     y="-34.18309"
+     x="134.73817"
+     y="727.67535"
      id="tspan1303"
      style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.00000095px;font-family:Arial;-inkscape-font-specification:Arial;fill:#999999;stroke-width:0.75"><tspan
-       x="132.85472"
-       y="-34.18309"
+       x="134.73817"
+       y="727.67535"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.00000095px;line-height:0.64999998;font-family:Arial;-inkscape-font-specification:Arial;fill:#999999;stroke-width:0.75"
        id="tspan1301">http://tiny.cc/sneeze-jp</tspan></tspan></text>
 
@@ -1750,7 +1791,7 @@
      inkscape:connector-curvature="0"
      id="path280-3"
      style="fill:#999999;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.99999994"
-     d="m 41.716804,801.78926 2.851,-0.864 v 5.067 1.717 h 1.834 v -5.92 l 2.834,-0.864 1.85,2.4 h -1.834 v 5.84 l -2.834,0.944 -1.85,-2.08 v 1.136 l -2.834,0.944 -1.851,-2.08 v 1.136 l -2.834,0.944 -1.851,-2.4 h 1.834 v -5.92 l 2.851,-0.864 v 6.784 h 1.834 z m 30.608,1.536 v 5.92 l -2.85,0.864 v -8.24 l 2.834,-0.944 1.85,2.08 v -1.136 l 2.834,-0.944 1.851,2.4 h -1.834 v 5.92 l -2.851,0.864 v -6.784 z m 21.039,5.6 -2.784,1.184 -3.3,-1.504 3.3,-1.184 -4.534,-2.096 v -3.424 l 2.851,-0.976 1.683,2.096 v -1.152 l 2.851,-0.944 1.767,2.416 h -1.834 z m -38.593,-8 3.267,1.248 -3.267,1.168 v 1.68 l 4.284,1.984 -2.434,3.104 -4.701,-2.16 v -5.856 z m 30.658,2.592 -3.467,1.008 3.25,3.968 -4.067,1.616 -2.135,-2.592 3.485,-1.024 -3.318,-3.952 4.118,-1.616 z m 3.468,-0.192 v 2.368 l 1.683,0.768 v -3.136 z m -34.126,5.232 1.433,-1.888 -1.433,-0.656 z m 5.018,-6.464 2.85,-1.168 4.685,1.792 v 7.088 l -7.535,3.12 v -2.764 l 4.684,-1.776 v -5.684 l -1.834,0.64 v 4.992 l -2.85,-0.864 z" /></g><text
+     d="m 43.600261,39.930796 2.851,-0.864 v 5.067 1.717 h 1.834 v -5.92 l 2.834,-0.864 1.85,2.4 h -1.834 v 5.84 l -2.834,0.944 -1.85,-2.08 v 1.136 l -2.834,0.944 -1.851,-2.08 v 1.136 l -2.834,0.944 -1.851,-2.4 h 1.834 v -5.92 l 2.851,-0.864 v 6.784 h 1.834 z m 30.608,1.536 v 5.92 l -2.85,0.864 v -8.24 l 2.834,-0.944 1.85,2.08 v -1.136 l 2.834,-0.944 1.851,2.4 h -1.834 v 5.92 l -2.851,0.864 v -6.784 z m 21.039,5.6 -2.784,1.184 -3.3,-1.504 3.3,-1.184 -4.534,-2.096 v -3.424 l 2.851,-0.976 1.683,2.096 v -1.152 l 2.851,-0.944 1.767,2.416 h -1.834 z m -38.593,-8 3.267,1.248 -3.267,1.168 v 1.68 l 4.284,1.984 -2.434,3.104 -4.701,-2.16 v -5.856 z m 30.658,2.592 -3.467,1.008 3.25,3.968 -4.067,1.616 -2.135,-2.592 3.485,-1.024 -3.318,-3.952 4.118,-1.616 z m 3.468,-0.192 v 2.368 l 1.683,0.768 v -3.136 z m -34.126,5.232 1.433,-1.888 -1.433,-0.656 z m 5.018,-6.464 2.85,-1.168 4.685,1.792 v 7.088 l -7.535,3.12 v -2.764 l 4.684,-1.776 v -5.684 l -1.834,0.64 v 4.992 l -2.85,-0.864 z" /></g><text
    xml:space="preserve"
    style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30px;line-height:1.25;font-family:Vazir;-inkscape-font-specification:Vazir;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.75"
    x="217.45848"
