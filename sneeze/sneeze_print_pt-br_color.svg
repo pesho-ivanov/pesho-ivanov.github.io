@@ -950,9 +950,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.71417785"
-     inkscape:cx="101.85621"
-     inkscape:cy="499.59198"
+     inkscape:zoom="0.90249024"
+     inkscape:cx="334.35419"
+     inkscape:cy="607.06009"
      inkscape:document-units="mm"
      inkscape:current-layer="g10"
      showgrid="false"
@@ -2074,10 +2074,10 @@
                style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;line-height:1.25;font-family:Times;-inkscape-font-specification:Times;stroke-width:0.75"
                y="-387.01859"
                x="22.310482"
-               dx="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0"> e lava bem as mãos</tspan></tspan><tspan
+               dx="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0"> e lave bem as mãos</tspan></tspan><tspan
              style="font-size:18px;stroke-width:0.75"
              id="tspan1404"
-             y="0"
+             y="inf"
              x="16.518488"
              sodipodi:role="line"><tspan
                id="tspan1400"
@@ -2100,7 +2100,7 @@
                style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;line-height:1.25;font-family:Times;-inkscape-font-specification:Times;stroke-width:0.75"
                y="-489.45255"
                x="16.518488"
-               dx="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0">• Não espirres até que o lenço</tspan></tspan><tspan
+               dx="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0">• Não espirre até que o lenço</tspan></tspan><tspan
              style="font-size:18px;stroke-width:0.75"
              id="tspan1418"
              y="0"
@@ -2202,7 +2202,7 @@
              id="tspan1366"
              style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;line-height:1.25;font-family:Times;-inkscape-font-specification:Times;stroke-width:0.75"
              y="-125.89914"
-             x="34.541931">se tornarão em uma arma biológica</tspan></tspan></text>
+             x="34.541931">se tornarão uma arma biológica</tspan></tspan></text>
       <flowRoot
          style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
          id="flowRoot4574"
